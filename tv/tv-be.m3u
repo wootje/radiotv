@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 group-title="Stream België (BE)",++Stream België (BE)++
+https://pvdl.keybase.pub/m3u8/intros/streambelgibe_tv.mp4
+#EXTINF:-1 group-title="Stream België (BE)",+++Vlaanderen landelijk+++
+https://pvdl.keybase.pub/m3u8/intros/streambelgibe_tv.mp4
+#EXTINF:-1 group-title="Stream België (BE)",VRT één
+http://iptvtree.net:8080/yasirali806/XWj1W9Q3vTTrpW9P/843
+#EXTINF:-1 group-title="Stream België (BE)",VRT Canvas
+http://80.24.75.92:5555/udp/239.111.0.5:1234
+#EXTINF:-1 group-title="Stream België (BE)",VRT Ketnet
+http://iptvtree.net:8080/yasirali806/XWj1W9Q3vTTrpW9P/1960
+#EXTINF:-1 group-title="Stream België (BE)",VRT Ketnet Junior
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",HLN Live (BE)
+https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",VRT Events 1 (België)
+https://live-vrt.akamaized.net/groupb/live/a1ddf2fd-c2b5-4558-9b19-e66c9bd995a8/live.isml/.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",VRT Events 2 (België)
+https://live-vrt.akamaized.net/groupb/live/cbe5b53e-2892-4124-9fba-a9827925624d/live.isml/.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",VRT Events 3 / Radio 1 studiocam
+https://live-vrt.akamaized.net/groupb/live/e5f92274-8c13-46b9-872e-ac81ba6cfe7c/live.isml/.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",VTM HD
+http://iptvtree.net:8080/yasirali806/XWj1W9Q3vTTrpW9P/840
+#EXTINF:-1 group-title="Stream België (BE)",VTM
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",VTM NWS tijdens journaal
+https://dpp-live-events.medialaancdn.be/events/hls/aes/vtmnieuws.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",Federaal parlement BE (tijdens vergaderingen)
+http://livestream.parolis.be:1935/live/PLN_NL/chunklist_w27225067.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",+++Vlaanderen regionaal+++
+https://pvdl.keybase.pub/m3u8/intros/streambelgibe_tv.mp4
+#EXTINF:-1 group-title="Stream België (BE)",ATV (Antwerpen)
+https://live.zendzend.com/streams/29375_107244/1080n/index.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",ROB TV (Regionale Omroep Brabant België)
+https://live.zendzend.com/streams/29375_395477/1080n/index.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",TVL TV Limburg (België)
+https://live.zendzend.com/streams/29375_395474/1080n/index.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",TVO TV Oost (Regionaal nieuws uit Oost-Vlaanderen)
+https://live.zendzend.com/streams/29375_399410/1080n/index.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",++Vlaanderen radio webcams++
+https://pvdl.keybase.pub/m3u8/intros/streambelgibe_tv.mp4
+#EXTINF:-1 group-title="Stream België (BE)",VRT Radio 1 studiocam
+https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",VRT Radio 2 studiocam
+https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/live-audio_track_0_0_dut=128000-video_track=3000000.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",VRT Klara studiocam
+https://live-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/live-audio_track_0_0_dut=64000-video_track=2000000.m3u8?hd:Klara
+#EXTINF:-1 group-title="Stream België (BE)",VRT MNM studiocam
+https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",VRT Studio Brussel studiocam
+https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/live-audio_track_0_0_dut=128000-video_track=3000000.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",CityMusic (Denderstreek België) webcam
+http://highvolume102.streampartner.nl/citytv/citytv/playlist.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",Radio PROS (webcam) Heldergem-België
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",+++Bruxelles/Wallonie+++
+https://pvdl.keybase.pub/m3u8/intros/streambelgibe_tv.mp4
+#EXTINF:-1 group-title="Stream België (BE)",++hoofdzenders++
+https://pvdl.keybase.pub/m3u8/intros/streambelgibe_tv.mp4
+#EXTINF:-1 group-title="Stream België (BE)",RTBF La 1
+http://iptvtree.net:8080/yasirali806/XWj1W9Q3vTTrpW9P/248
+#EXTINF:-1 group-title="Stream België (BE)",RTBF 2 Tipik
+http://iptvtree.net:8080/yasirali806/XWj1W9Q3vTTrpW9P/249
+#EXTINF:-1 group-title="Stream België (BE)",RTL TVI
+http://iptvtree.net:8080/yasirali806/XWj1W9Q3vTTrpW9P/251
+#EXTINF:-1 group-title="Stream België (BE)",Club RTL
+http://iptvtree.net:8080/yasirali806/XWj1W9Q3vTTrpW9P/253
+#EXTINF:-1 group-title="Stream België (BE)",Plug RTL
+http://iptvtree.net:8080/yasirali806/XWj1W9Q3vTTrpW9P/252
+#EXTINF:-1 group-title="Stream België (BE)",++overige++
+https://pvdl.keybase.pub/m3u8/intros/streambelgibe_tv.mp4
+#EXTINF:-1 group-title="Stream België (BE)",BEL RTL
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master20220524-HLS_1800.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",BX1+ (met beeld)
+https://59959724487e3.streamlock.net/radio/live/chunklist.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",Fun Radio
+http://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",Fun Radio -2-
+http://funradiovisionhd.vedge.infomaniak.com/livecast/smil:funradiovisionhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",LN 24
+https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/yf7ffzpl/2628/chunklist.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",MAtélé
+https://live.matele.be/hls/live.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",Notélé
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
+#EXTINF:-1 group-title="Stream België (BE)",Radio Contact
+https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master20220525-HLS_1800.m3u8

@@ -1,0 +1,447 @@
+#EXTM3U
+#EXTINF:-1 group-title="Stream Duitsland (DE)",++Stream Duitsland (DE)++
+https://pvdl.keybase.pub/m3u8/intros/streamduitslandde_tv.mp4
+#EXTINF:-1 group-title="Stream Duitsland (DE)",++hoofdzenders-publieke omroepen++
+https://pvdl.keybase.pub/m3u8/intros/streamduitslandde_tv.mp4
+#EXTINF:-1 group-title="Stream Duitsland (DE)",ARD
+http://87.228.199.234:4000/play/a009
+#EXTINF:-1 group-title="Stream Duitsland (DE)",ARD -2-
+http://95.169.222.113:8800/udp/239.32.3.21:8888
+#EXTINF:-1 group-title="Stream Duitsland (DE)",ARD (deels geoblocking)
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",ARD Alpha (deels geoblocking)
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",ARD One
+http://sansat.net:25461/sohrab/tnXOonh7gB/55701
+#EXTINF:-1 group-title="Stream Duitsland (DE)",ARD Phoenix
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SkPzioHiUzGcxfX05wPQqlgfQHNRA-JOi8KY7qVLlR5i
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Tagesschau 24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",BR Fernsehen Nord HD
+http://sansat.net:25461/sohrab/tnXOonh7gB/116500
+#EXTINF:-1 group-title="Stream Duitsland (DE)",BR Fernsehen Süd HD
+http://sansat.net:25461/sohrab/tnXOonh7gB/116501
+#EXTINF:-1 group-title="Stream Duitsland (DE)",BR Fernsehen (deels geoblocking)
+https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",HR Fernsehen
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",HR Fernsehen (deels geoblocking)
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",MDR Sachsen HD
+http://154.58.202.35:8003/play/a0bz/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",MDR Thüringen HD
+http://sansat.net:25461/sohrab/tnXOonh7gB/116434
+#EXTINF:-1 group-title="Stream Duitsland (DE)",NDR Fernsehen Hamburg HD (deels geoblocking)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",NDR Fernsehen International (deels geoblocking)
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",RBB Berlin HD
+http://sansat.net:25461/sohrab/tnXOonh7gB/116443
+#EXTINF:-1 group-title="Stream Duitsland (DE)",RBB Brandenburg HD
+http://sansat.net:25461/sohrab/tnXOonh7gB/55756
+#EXTINF:-1 group-title="Stream Duitsland (DE)",SR Fernsehen HD
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",SWR Fernsehen BW
+http://sansat.net:25461/sohrab/tnXOonh7gB/116446
+#EXTINF:-1 group-title="Stream Duitsland (DE)",WDR Fernsehen (deels geoblocking)
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3328.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",WDR Aachen HD
+http://sansat.net:25461/sohrab/tnXOonh7gB/55759
+#EXTINF:-1 group-title="Stream Duitsland (DE)",WDR Bonn HD
+http://sansat.net:25461/sohrab/tnXOonh7gB/55760
+#EXTINF:-1 group-title="Stream Duitsland (DE)",WDR Duisburg HD
+http://sansat.net:25461/sohrab/tnXOonh7gB/55761
+#EXTINF:-1 group-title="Stream Duitsland (DE)",WDR Wuppertal HD
+http://sansat.net:25461/sohrab/tnXOonh7gB/55762
+#EXTINF:-1 group-title="Stream Duitsland (DE)",ZDF
+http://185.83.71.210/ZDF/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",ZDF -2-
+http://87.228.199.234:4000/play/a007
+#EXTINF:-1 group-title="Stream Duitsland (DE)",ZDF Info
+http://95.169.222.113:8800/udp/239.32.1.25:8888
+#EXTINF:-1 group-title="Stream Duitsland (DE)",ZDF Neo
+http://87.228.199.234:4000/play/a008
+#EXTINF:-1 group-title="Stream Duitsland (DE)",3sat
+http://185.83.71.210/3sat/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",KiKA
+http://sansat.net:25461/sohrab/tnXOonh7gB/55768
+#EXTINF:-1 group-title="Stream Duitsland (DE)",++hoofdzenders commerciële omroepen++
+https://pvdl.keybase.pub/m3u8/intros/streamduitslandde_tv.mp4
+#EXTINF:-1 group-title="Stream Duitsland (DE)",ARTE
+http://sansat.net:25461/sohrab/tnXOonh7gB/55676
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Bild TV
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqeqWqBfwHZGztRNyfsjS-KEzn4sIraKo6RBYjKGCoog
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Deluxe Music
+http://sansat.net:25461/sohrab/tnXOonh7gB/55738
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Kabel 1
+http://154.58.202.35:8003/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Kabel 1 Classics
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgevC5RTFVMUy_hoC_j3RkahVDLmBkPGElyTfuWuc6iV
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Lilo.TV
+https://lilo.iptv-playoutcenter.de/lilo/lilo-sat1/chunks.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",MTV Deutschland
+http://sansat.net:25461/sohrab/tnXOonh7gB/55728
+#EXTINF:-1 group-title="Stream Duitsland (DE)",N24 Doku
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SudZWHdwSE5uHKhmde3o0pOztOJrkoOfxKQiHxvDOoD6
+#EXTINF:-1 group-title="Stream Duitsland (DE)",N-TV
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sm1QAfXXVtegjhFylXryXjhl7MnKiV7Ic_Dpd9mlGF1P
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Pro 7
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlYtBhl9B0I5cM8koTwF9ZmWEUTKpiU5NsknwItztT_m
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Pro 7 Maxx
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SiA6bZM99x-HifXADrOirIynNqywI4vjmNYHm12Mxx8S
+#EXTINF:-1 group-title="Stream Duitsland (DE)",RTL
+http://87.228.199.234:4000/play/a00c
+#EXTINF:-1 group-title="Stream Duitsland (DE)",RTL 2
+http://87.228.199.234:4000/play/a00d
+#EXTINF:-1 group-title="Stream Duitsland (DE)",RTL Crime
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sm_SYQ2VEnBKdQrBKd0_A1yp-sv0Jhs5n-Qpj_AUcwsp
+#EXTINF:-1 group-title="Stream Duitsland (DE)",RTL Living
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skwr02F1snhKgi6VD3DQkidmVYlVlRqXlpwCyvRl7pDa
+#EXTINF:-1 group-title="Stream Duitsland (DE)",RTL Nitro
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SsGmvLpmhvyLZGXRJVPpc6oELtRON-tNkNkYu68T2RWS
+#EXTINF:-1 group-title="Stream Duitsland (DE)",RTL Passion HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Slb4T-nBzZY7nTIggx9thaLT3g9PN8vRT-6hjsA0cRjR
+#EXTINF:-1 group-title="Stream Duitsland (DE)",RTL Up
+http://154.58.202.35:8003/play/a0ay/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Super RTL
+http://154.58.202.35:8003/play/a0av/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",SAT 1
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SnpqXyl7ZhFyD9ktuYImHCCxZnARRxHe_-FXrEmNeQ9u
+#EXTINF:-1 group-title="Stream Duitsland (DE)",SAT 1 Emotions HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1St5njrDSg-g_eXWZ_-xderZJg_AHRSLG5ohW9Xisf0aX
+#EXTINF:-1 group-title="Stream Duitsland (DE)",SAT 1 Gold
+http://sansat.net:25461/sohrab/tnXOonh7gB/55692
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Servus TV Deutschland
+http://sansat.net:25461/sohrab/tnXOonh7gB/116442
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Sixx
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShEMTs9mhe_i-Os8odsFbmp6L2XeJuWML2P5YGiSOGUU
+#EXTINF:-1 group-title="Stream Duitsland (DE)",TOGGO Plus
+http://154.58.202.35:8003/play/a0au/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Volksmusik.TV
+https://muc.iptv-playoutcenter.de/volksmusik/volksmusik.stream_1/chunks.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",VOX
+http://154.58.202.35:8003/play/a0aw/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",WELT
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Slzhukivu8ErnFCE6fdFcgmb7IsBzRhsOm6N18iAHZ4q
+#EXTINF:-1 group-title="Stream Duitsland (DE)",++lokale zenders++
+https://pvdl.keybase.pub/m3u8/intros/streamduitslandde_tv.mp4
+#EXTINF:-1 group-title="Stream Duitsland (DE)",a.tv HD
+http://178.248.241.103/iptv/atv.ts
+#EXTINF:-1 group-title="Stream Duitsland (DE)",a.tv Augsburg
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Alex Berlin
+https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Allgäu.tv
+https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Baden TV
+http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Baden TV Süd
+https://cdn.icu.de/rtplive/smil:btvsued.smil/chunklist_w797978519_b914000_sldeu.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",BLK Regional TV
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Campus TV Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Chemnitz Fernsehen
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Donau TV
+rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Dorf TV
+http://stream.openplayout.org/hls/dorf_high/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Dresden Fernsehen
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",ems TV Lingen
+https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Erz-TV Stollberg
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Filstalwelle Göppingen
+http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Franken Fernsehen
+https://s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",H1
+https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Hamburg 1
+https://hamburg1-jw.cdn.vustreams.com/live/09120205-afa3-4048-a965-318eb0cacffc/live.isml/.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Hauptstadt TV Potsdam
+https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Jena TV
+https://stream4.sehradar.de/jenatv/ngrp:livestream_all/chunklist_.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Kabel Journal
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Kiel TV
+https://live.oksh.de/play/hls/kieltv/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",KulturMD Magdeburg
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=661069
+#EXTINF:-1 group-title="Stream Duitsland (DE)",KW TV Wildau
+https://58af0c57eaf3e.streamlock.net/easycast11-live/_definst_/mp4:livestream/playlist.m3u8?&ref=&seid=199961
+#EXTINF:-1 group-title="Stream Duitsland (DE)",L-TV
+https://live2.telvi.de/hls/l-tv_s1.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Lausitzwelle Fernsehen
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd10/playlist.m3u8?&ref=www.lausitzwelle.de
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Leipzig Fernsehen
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",MDF.1 Magdeburg
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=458536
+#EXTINF:-1 group-title="Stream Duitsland (DE)",München TV
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",My TV Plus Dresden
+https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Niederbayern TV Deggendorf-Straubing
+https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/chunklist_.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Niederbayern TV Landshut
+https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/chunklist_.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Niederbayern TV Passau
+https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/chunklist_.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Niederbayern TV TV Satellit
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/chunklist__.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",noa4 Hamburg FHD
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",noa4 Norderstedt FHD
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",NRWision
+https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",NRWision Dortmund
+https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Oberlausitz.tv
+https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Oberpfalz TV Amberg
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OF-TV Offenbach
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8?&ref=www.of-tv.de&seid=166119
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK 4 Adenau. Andernach. Koblenz. Neuwied
+https://s.ok54.de/abr_ok4/live/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK 54 Trier
+https://s.ok54.de/ott/webstream/tv/webstream_720p/chunks.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Dessau
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Flensburg
+https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Fulda
+https://s.ok54.de/mok-fu/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Gießen
+https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Kaiserslautern
+https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Kassel
+https://s.ok54.de/mok-ks/kassel/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Kiel
+https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Ludwigshafen
+https://s.ok54.de/oklu/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Magdeburg
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Mainz
+https://s.ok54.de/oktvmainz/webstream/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Merseburg-Querfurt
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Nahe TV Idar-Oberstein
+https://s.ok54.de/nahetv/webstream/chunks.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Rhein Lokal Worms
+https://s.ok54.de/rheinlokal/rheinlOKal_stream/chunks.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Rhein-Main
+https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Salzwedel
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Stendal
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-stendal_high/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Südwestpfalz
+https://s.ok54.de/okswp/test/chunks.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Weinstrasse Landau
+https://s.ok54.de/okweinstrasse/okweinstrasse/chunks.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Wernigerode
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",OK Wettin
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wettin_high/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Okto
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/vxvgydws/4128/chunklist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Oldenburg Eins
+https://www.oeins.de/live/studio.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Punkteins HD Oberlausitz TV
+http://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/livestreamhd4/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",PunktUm Hettstedt
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=824679
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Radio Weser TV Bremen
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Ran 1 Dessau-Ro�lau
+http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8?&ref=www.ran1.de&seid=201846
+#EXTINF:-1 group-title="Stream Duitsland (DE)",RBW Bitterfeld-Wolfen
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=237997
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Regio TV Bodensee
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Regio TV Schwaben
+https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/chunklist_.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Regio TV Stuttgart
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Rennsteig TV
+https://58de7a369a9c4.streamlock.net/rennsteigtv/stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",RFH Harz
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=528347
+#EXTINF:-1 group-title="Stream Duitsland (DE)",RFO Rosenheim
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Rhein Lokal Worms
+https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Rhein Main TV
+https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Rhein Neckar Fernsehen
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",RWE Erfurt
+https://stream.keyweb.org:8085/hls/rwetv.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Sachsen Fernsehen
+http://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Saarland Fernsehen 1
+http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Saarland Fernsehen 2
+http://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Seenluft 24 Local
+https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?=&ref=seenluft24.de
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Studio 47 NRW
+https://5852afe96c9bb.streamlock.net/studio47-live/_definst_/mp4:livestream/playlist.m3u8?&ref=www.studio47.de&seid=166119
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Südthüringer Regionalfernsehen
+http://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Sylt1
+https://5f7f7503aa549.streamlock.net/Sylt1_Channel_1_PGM/sylt1_high/chunklist_.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Teins TV
+http://live1.markenfunk.com/t1/live/chunklist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",TeltOwkanal
+https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/chunklist_w1331280772.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Tide TV Hamburg
+https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",TV 38 Sudost-Niedersachen
+http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",TV Bayern Live
+https://s3.welocal.world/tvbayernlive/media/134371/videos/hls.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",TV Berlin
+https://live2.telvi.de/hls/tvberlin_hd720.m3u8?https%253a//embed2.telvi.de/count:TV
+#EXTINF:-1 group-title="Stream Duitsland (DE)",TV Burgenlandkreis
+http://62.113.210.250/medienasa-live/BLKonline_high/master.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",TV Halle
+http://62.113.210.250/medienasa-live/tvhalle_high/master.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",TV Ingolstadt
+https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/chunklist_.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",TV Mainfranken
+https://stream01.welocal.stream/stream/fhd-tvmainfranken_255661/ngrp:stream_all/chunklist_.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",TV Mittelrhein
+https://live2.telvi.de/hls/tvm_hd720.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",TV Oberfranken
+https://stream02.welocal.stream/stream/fhd-tvo_480355/ngrp:stream_all/chunklist_.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",TVA Ostbayern
+https://stream02.welocal.stream/stream/fhd-tvaktuell_385673/ngrp:stream_all/chunklist_.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Weser TV
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",WTV Wettin
+http://62.113.210.250:1935/medienasa-live/ok-wettin_high/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",++overige++
+https://pvdl.keybase.pub/m3u8/intros/streamduitslandde_tv.mp4
+#EXTINF:-1 group-title="Stream Duitsland (DE)",1-2-3 TV
+http://123tv.cdn.ses-ps.com/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Anixe HD
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Anixe +
+http://ma.anixa.tv/clips/stream/anixesd/playlist.php
+#EXTINF:-1 group-title="Stream Duitsland (DE)",ARTE
+http://80.24.75.92:5555/udp/239.110.18.1:1234
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Bibel TV
+http://45.92.69.155:9091/play/a01y
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Bibel TV (deels geoblocking)
+http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Bibel TV Impuls
+http://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Bibel TV Musik
+http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Das Ding Visual Radio
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Deluxe Music
+http://45.92.69.155:9091/play/a03b
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Deutsche Welle
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Deutsche Welle+
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Deutsche Welle (Spaans)
+https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Deutsches Musik Fernsehen
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",DMAX
+http://45.92.69.155:9091/play/a044
+#EXTINF:-1 group-title="Stream Duitsland (DE)",ERF 1
+https://bcovlive-a.akamaihd.net/8d3c5f8c76724987a30eb69d4ba6ca80/eu-central-1/6194387526001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Euronews Duitsland
+https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Eurosport 1
+http://45.92.69.155:9091/play/a01t
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Folx Music Television
+https://folxplay-t.b-cdn.net/streams/ch-4/master.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",FS1
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Good Sound Visual Radio
+http://148.251.76.72:8081/goodsound/goodsound.sdp/chunks.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Handystar TV HD
+https://edge0751-11mx1.flex-cdn.net/541ecedda968a41d37d9f8fb78bcfb6e59aad604fd3e8b8215b8/stream1/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Health.tv
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Hope Channel
+https://videodelivery.net/5929b42a8127294b80637b16c77f5f93/manifest/stream_t1_r4.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",HSE 24 HD
+https://hse24.akamaized.net/hls/live/2006663/hse24/master_576p25.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",HSE 24 Extra HD
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/master_576p25.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",HSE 24 Trend HD
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/master_432p25.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",iSTUFF = Ilmenauer Studenten Fernsehfunk
+https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",K-TV
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Kanal 9 auf Deutsch
+https://edge.vedge.infomaniak.com/livecast/ik:livesd2/master.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Kultur MD
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/chunklist_w1264774780.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Light Channel
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Magenta Musik 360 1
+https://streaming.magenta-musik-360.de/csm/573870/magentamusik1/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Magenta Musik 360 2
+https://streaming.magenta-musik-360.de/csm/573871/magentamusik2/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Nahe TV
+https://s.ok54.de/nahetv/webstream/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",One 1 Music TV
+https://folxplay-t.b-cdn.net/streams/ch-3/master.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Zwei 2 Music TV
+https://folxplay-t.b-cdn.net/streams/ch-2/master.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Parlamentsfernsehen 1
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Parlamentsfernsehen 2
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Parlamentsfernsehen 3
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Parlamentsfernsehen 4
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",QVC
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",QVC Plus
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",QVC Style
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcde_primary_sdi7/live.m3u8?DVR
+#EXTINF:-1 group-title="Stream Duitsland (DE)",QVC 2
+http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Rockland Radio
+http://player-api.new.livestream.com/accounts/22300522/events/6680139/live.secure.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Salve TV
+https://58de7a369a9c4.streamlock.net/salvetv/stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Sofy TV
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Sonnenklar TV HD
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Sophia TV
+https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Studio 47
+https://5852afe96c9bb.streamlock.net/studio47-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",SWR Das Ding
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",SWR 3 Visual Radio
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",VISIT-X.tv
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Wir 24 TV
+https://edge14.vedge.infomaniak.com/livecast/ik:wir24tv_hms/manifest.m3u8
+#EXTINF:-1 group-title="Stream Duitsland (DE)",Xite
+https://xite-samsung-de.amagi.tv/playlist.m3u8

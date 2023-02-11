@@ -1,0 +1,611 @@
+#EXTM3U
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",++Stream NL nationaal (NL)++
+https://pvdl.keybase.pub/m3u8/intros/streamnlnationaalnl_tv.mp4
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",++NPO werkt niet in iedere ontvanger!++
+https://pvdl.keybase.pub/m3u8/intros/streamnlnationaalnl_tv.mp4
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO 1
+http://82.197.214.59:4000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO 1 -2-
+http://iptvtree.net:8080/yasirali806/XWj1W9Q3vTTrpW9P/2481
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO 2
+http://82.197.214.59:4000/play/a030/index.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO 2 -2-
+http://iptvtree.net:8080/yasirali806/XWj1W9Q3vTTrpW9P/852
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO 3
+http://82.197.214.59:4000/play/a031/index.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO 3 -2-
+http://iptvtree.net:8080/yasirali806/XWj1W9Q3vTTrpW9P/280398
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO 1 Extra
+http://82.197.214.59:4002/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO 1 Extra -2-
+http://iptvtree.net:8080/yasirali806/XWj1W9Q3vTTrpW9P/37541
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO 2 Extra
+http://iptvtree.net:8080/yasirali806/XWj1W9Q3vTTrpW9P/65701
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NPO Politiek en Nieuws
+http://iptvtree.net:8080/yasirali806/XWj1W9Q3vTTrpW9P/5061
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",BVN
+http://62.2.85.68:39981/play/a00t
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",++overige++
+https://pvdl.keybase.pub/m3u8/intros/streamnlnationaalnl_tv.mp4
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",BNR Nieuwsradio
+https://bnr-cache-cdp.triple-it.nl/studio/1648910007-fast-1280-720-800000-index.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Dance Television Tech House
+https://eu-nl-012.worldcast.tv/dancetelevisionfour/2/dancetelevisionfour.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",De Ochtendshow werkdagen
+https://dpp-aldag-ochtendshow.akamaized.net/streamx/DeOchtendshow_540p.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Qmusic
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio 10
+https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index_1.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio 538
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Continu (Tweede Exloermond. NL met soms epg)
+https://streaming05.stream.delivery/radiocontinu/live/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Continu (Tweede Exloermond. NL met soms epg)
+http://5f1b356656745.streamlock.net/radiocontinu/live/chunklist.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio NL
+http://stream.radionl.tv:1935/radionl/radionl/stream.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Veronica
+https://radioveronica.prd1.talpatvcdn.nl/a1115cc610fd42418e2f6d7e29a01c3c/index_1.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Rechtspraak NL
+https://dhclzcsxsio1e.cloudfront.net/9e844cd7-2b72-4f1a-bfb3-413e8bbdba14/hls_15.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Silence TV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Tommy TV teleshopping
+http://ms2.mx-cd.net/tv/Tommy_Teleshopping.smil/playlist.m3u8 
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Tommy TV (met epg via Ziggo)
+http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",XITE HD
+http://ms2.mx-cd.net/tv/XITE_NL.smil/playlist.m3u8 
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",+++Radio Toppers+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlnationaalnl_tv.mp4
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Toppers
+https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Magic Power Radio
+https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Poesjes TV
+https://server-67.stream-server.nl:1936/PoesjesTV/PoesjesTV/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Wink Radio
+https://server-23.stream-server.nl:1936/WinkRadio/WinkRadio/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",++NL amateur-tv++
+https://pvdl.keybase.pub/m3u8/intros/streamnlnationaalnl_tv.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",++Stream NL regionaal & lokaal++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Friesland+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omrop Fryslân HD
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",LEO Middelsé (Leeuwarden)
+https://ms2.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Centraal TV (Weststellingerwerf)
+http://olon.ctl.cdn.ebsd.ericsson.net/L9A/8773632e/bdc062c5.isml/.master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep RSH (Harlingen)
+https://5e6ab219de8f5.streamlock.net/omroeprsh/omroeprsh/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Súdwest Fryslan
+https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV NOF Achtkarspelen / Tytsjerksteradiel
+https://5ebd833552d56.streamlock.net/rtvnof3/rtvnof3/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV NOF Noardeast Fryslân / Dantumadiel
+https://5e6ab219de8f5.streamlock.net/rtvnof/rtvnof/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV NOF
+http://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV NOF webcam radio (Noordoost-Friesland)
+https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Groningen+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Noord
+http://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Noord Live extra
+http://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Groningen1
+http://59132e529e3d1.streamlock.net/Groningen1/Groningen1/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Groningen1
+https://wowza2.videostreamingwowza.com/Groningen1/Groningen1/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Eemsdelta (Delfzijl)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/2ce776e33d0c48358ca138ff633f5558/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Het Hogeland (WInsum. Groningen)
+https://d2i7mcr606u870.cloudfront.net/nlpo/clr-nlpo/omroephethogeland/video-1280x720p25-3000/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",OOG TV (Groningen)
+https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Regio TV Nieuws
+http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV 1 (Stadsknaal/Veendam)
+https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV GO! (Oldambt Groningen)
+https://wowza2.videostreamingwowza.com/Groningen1/Groningen1/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Westerwolde
+http://85.214.20.79:8080/hls/live.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Zulthe Marum (Westerkwartier)
+http://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Drenthe+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Drenthe HD
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Drenthe HD alternatief
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/1080p/prog_index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Drenthe (epg Ziggo)
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Lokale Omroep Hoogeveen
+https://icecast.interip.nl:8000/lohvideo.webm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Assen
+https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV%252Fplaylist.m3u8&type=live&service=webdav&protocol=https&output=playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Assen
+https://n2.cdn.jetstre.am/session/1062ce20d6759016ba31c99bc8edc7e3/sz/OmroepAssen/webdav/live/OmroepAssenTV/720p.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Continu (Tweede Exloermond)
+http://5f1b356656745.streamlock.net/radiocontinu/live/chunklist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",DNO Streek TV Zuidwolde (ZW Drenthe en N Overijssel)
+http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Gigant FM studiocam (Groningen + Drenthe)
+https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Meppel (Drenthe)
+https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/video-1280x720p25-3000/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Zulthe (Noordenveld/Westerkwartier. Drenthe)
+http://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Tynaarlo Lokaal (Tynaarlo)
+https://wowza2.videostreamingwowza.com/eeldevrieszuidlaren/eeldevrieszuidlaren/chunklist_w1974062864.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Tynaarlo Lokaal (Tynaarlo)
+https://wowza2.videostreamingwowza.com/eeldevrieszuidlaren/eeldevrieszuidlaren/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ZO!34 (Coevorden/Emmen)
+https://video.uitzending.tv:19360/zo34/zo34.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Overijssel+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Oost HD
+https://mediacdn.rtvoost.nl/live/rtvoost/tv/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",1 Twente
+https://ms2.mx-cd.net/dtv-10/198-989148/1Twente_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",AAVISIE  (Almelo)
+https://d1wgur45ikj8gz.cloudfront.net/nlpo/clr-nlpo/aavisietv/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Centraal TV (visual radio Weststellingerwerf Friesland)
+https://video.uitzending.tv:19360/centraal/centraal.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Deventer  RTV
+https://olon.ctl.cdn.ebsd.ericsson.net/L9B/ae4b1078/305b8346.isml/.m3u8?dvr_window_length=7200
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",TV 350 (Rijssen Overijssel)
+https://olon.ctl.cdn.ebsd.ericsson.net/L9A/bfa769b7/b24a7257.isml/.m3u8?dvr_window_length=7200
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",DNO Streek TV (Staphorst)
+https://61ae39677a1ab.streamlock.net/streektv/streektv/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",HOI! (Hellendoorn- Overijssel)
+https://n2.cdn.jetstre.am/session/8773de9da31af8e1f00b1c46b7c79674/sz/Hellendoorn/webdav/live/Hoi/720p.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",NOOS TV  (Dedemsvaart/Gramsbergen/Hardenberg Overijssel)
+https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Noord Oost Overijssel
+https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio350 webcam (Rijssen)
+http://stream.radio350.nl/hls/radio350.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Focus (Zwolle)
+https://wowza3.videostreamingwowza.com/rtvfocuszwolle/rtvfocuszwolle/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV IJsselmond (Kampen)
+https://olon.ctl.cdn.ebsd.ericsson.net/L9A/64ce9eab/17a939ec.isml/.m3u8?dvr_window_length=7200
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Slos (Steenwijk e.o.)
+http://olon.ctl.cdn.ebsd.ericsson.net/L8A/7a57e324/f1c9bc1a.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Salland1 (Deventer/Olst/Raalte/Wijhe)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8B/c5539c24/fd0e842f.isml/.m3u8?dvr_window_length=7200
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",TwenteTV
+https://ms7.mx-cd.net/dtv-02/284-3006078/Twente_HD_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Vechtdal Leeft (Dalfsen/Ommen)
+http://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Vechtdal Leeft (Dalfsen/Ommen)
+http://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/chunklist_w574429490_b1894400_slNLD.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Gelderland+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Gelderland HD
+http://web.omroepgelderland.nl/live/livetv.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Gelderland HD alternatief
+http://web.omroepgelderland.nl/live/tvlive.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",1Achterhoek
+https://ms2.mx-cd.net/dtv-10/105-475831/RTV_Slingeland.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",A1 Regio TV (Barneveld/Nijkerk)
+http://stream.a1mediagroep.eu/hls/a1tv.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",A1 Radio webcam studio (Barneveld/Nijkerk)
+http://stream.a1mediagroep.eu/hls/a1studio.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",HK13 (Harderwijk)
+http://mtxstr001.matrixdata.nl/live/hk13/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Ideaal TV (Bronckhorst)
+https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",LOE TV (Elburg)
+https://58c04fb1d143f.streamlock.net/loemedia/loemedia/chunklist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Berg en Dal
+https://rtvbergendal.nl:4000/live/rtvbergendallive.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Lingewaard
+https://58c04fb1d143f.streamlock.net/omroeplingewaard_1/omroeplingewaard_1/chunklist_w700640783.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio RN7
+http://streaming.rn7.nl/rn7tv/live_576/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",REGIO8 (Achterhoek)
+https://ms7.mx-cd.net/dtv-10/91-475821/Regio8TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",REGIO8 (Achterhoek)
+https://ms7.mx-cd.net/dtv-10/91-475821/Regio8TV.smil/chunklist_w1387358078_b4292608_slNLD.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RN7 Nijmegen en regio
+https://streaming.rn7.nl/rn7live_abr/tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV794 (Epe en Heerde)
+http://olon.ctl.cdn.ebsd.ericsson.net/L8B/8b17540d/390ae055.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV794 Voorst Veluwezoom
+https://dt4pogjgi3q8s.cloudfront.net/nlpo/clr-nlpo/rtvveluwezoom/video-1280x720p25-3000/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Achterhoek
+http://highvolume04.streampartner.nl/rtvachterhoek_live/rtvachterhoek_live/chunklist_w2120128104.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Berg en Dal
+https://rtvbergendal.nl:4000/live/rtvbergendallive.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Connect (Arnhem. Renkum)
+https://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8 
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Favoriet (Zevenaar. Westervoort. Doesburg en Duiven)
+http://olon.ctl.cdn.ebsd.ericsson.net/L9A/1ddc2262/467322db.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Hattem / NO-Veluwe TV
+https://n2.cdn.jetstre.am/session/338217a2f0dbe3718971fe55337640ca/sz/RTV_Hattem/webdav/live/tvhattem/720p.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Nunspeet (Gelderland)
+https://ms7.mx-cd.net/tv/262-2600774/RTV_Nunspeet.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Rijnstreek. Wageningen e.o. (Gelderland)
+https://s14.ssl-stream.com:3797/live/rtvrijnstreeklive.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Samen1
+https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/chunklist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",SRC TV (Rivierenland)
+http://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Studio Rheden (Rheden)
+https://stream.studiorhedenlive.nl/hlstv/stream.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",XON (Ede)
+http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",XON (Ede)
+http://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Utrecht+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Utrecht HD
+http://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Utrecht HD (epg Ziggo)
+http://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",EVA (Utrecht. Amersfoort. Leusden)
+https://stream.mediagroep-eva.nl:8000/hls/live.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",LOS (Spakenburg)
+https://streamingserver02.omroepnuenen.nl/spakenburg/spakenburglive_720p/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Regio90TV (Utrechtse Heuvelrug/Wijk bij Duurstede)
+https://ms7.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Regio TV De Bilt (Utrecht)
+https://d3ud9qm9b5yby9.cloudfront.net/nlpo/clr-nlpo/76ecd122/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RPL TV Woerden
+https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Baarn (Utrecht)
+https://olon.ctl.cdn.ebsd.ericsson.net/L9B/d7a29473/2d24d6e9.isml/.m3u8?dvr_window_length=7200
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Ronde Venen (Utrecht)
+http://olon.ctl.cdn.ebsd.ericsson.net/L8A/a676754a/e2987838.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Stichtse Vecht (Maarssen Utrecht)
+http://streams.rtvsv.nl:9898/rtvsv/live.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Slotstad TV (Zeist)
+https://d3eq9mufmyqgh4.cloudfront.net/nlpo/clr-nlpo/slotstadtv/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Slotstad TV (Zeist)
+http://olon.ctl.cdn.ebsd.ericsson.net/L8B/cb8e9159/80b26bd1.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",UStad HD (stad Utrecht)
+http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Flevoland+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Flevoland HD
+https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/2000/prog_index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Flevoland HD (epg Ziggo)
+http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Flevoland Visual Radio
+https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/radio/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Almere (Flevoland)
+https://wowza2.videostreamingwowza.com/OAlmerelive/OAlmerelive/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",1Almere TV
+https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",LOZ (Lokale Omroep Zeewolde)
+https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Lelystad TV (Flevoland)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8B/9a708947/16898d06.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV527 (Emmeloord)
+https://wowza3.videostreamingwowza.com/broadcastmediasolutions/broadcastmediasolutions/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Noord-Holland+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",NH Nieuws
+https://takeoff.jetstre.am/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",NH (RTV Noord-Holland) radio visual
+https://rrr.sz.xlcdn.com/?account=nhnieuws&file=nhradio&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",AT5
+https://takeoff.jetstre.am/?account=atvijf&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Be@t TV (Heiloo)
+https://tv.beatfm.nl/live.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",C-TV (Castricum)
+http://olon.ctl.cdn.ebsd.ericsson.net/L8A/7e4a45d2/671dfddc.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Dijk en Waard Centraal (Dijk en Waard)
+https://videostreams.streekstadcentraal.nl/hls/halstad_centraal/halstad_centraal.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",HALSTAD Centraal (Alkmaar Noord-Holland)
+http://streams.halstadcentraal.nl/hls/halstad_centraal/halstad_centraal.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Haarlem 105 TV
+https://olon.ctl.cdn.ebsd.ericsson.net/L8A/40d6f3c1/b07d6183.isml/.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",L.O.V.E. TV (Edam + Volendam)
+https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",L.O.V.E. TV (Edam + Volendam)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8A/5e9453c1/f3b451f6.isml/.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",NH Gooi (Blaricum/Hilversum e.o.)
+https://n2.cdn.jetstre.am/session/d2fa403da76c6022786d2c3a19dc8b3b/sz/nhnieuws/wowza4/live/nhgooi/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep PIM (Monnickendam)
+https://ms7.mx-cd.net/dtv-09/137-567119/Omroep_PIM.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Aalsmeer TV
+https://radioaalsmeer.nl:4443/live/tv.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Beverwijk webcam radio
+https://streaming05.stream.delivery/beverwijk/studio/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Beverwijk webcam radio
+http://5f1b356656745.streamlock.net/beverwijk/studio/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Regio Noordkop (Den Helder)
+https://n2.cdn.jetstre.am/session/1941391ca4c49effc808b63465cdb0b3/sz/Regio_Noordkop2/webdav/live/NoordkopTV/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Amstelveen
+https://live.rtva.nl/live/zender.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Heemskerk (IJmuiden. Velsen. Heemskerk)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8B/55c2ee9d/934277e7.isml/.m3u8?dvr_window_length=7200
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Purmerend (Noord-Holland)
+https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Seaport (Velsen Noord-Holland)
+http://olon.ctl.cdn.ebsd.ericsson.net/L9B/454ca730/416b1a9d.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Zaanstreek
+https://ms2.mx-cd.net/dtv-02/125-2335084/RTV_Zaanstreek.smil/chunklist_b1894400_slNLD.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",SALTO 1 (Amsterdam)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8A/95f14edc/8d74cf86.isml/8d74cf86-video=2200000-audio101_dut=128000.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",SALTO 2 (Amsterdam)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8A/bc718ab6/65358d45.isml/65358d45-video=2200000-audio101_dut=128000.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",SALTO ADE = Amsterdam Dance Event (Amsterdam)
+https://live.salto.nl/hls/at5_high.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Salto Brasa Music
+https://salto-streams.nl/hls/sotv1_high.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Salto MaLive (Amsterdam)
+https://live.salto.nl/hls/malive_high.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",WEEFF TV (Enkhuizen e.o.)
+https://takeoff.jetstre.am/?account=weeff&file=weeffradio&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ZFM webcam (Zandvoort)
+https://icecast.bytesheep.net/zfmzandvoort_cam.webm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Zuid-Holland+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep West HD
+http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep West HD (epg Ziggo)
+http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Rijnmond
+http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Rijnmond Extra
+http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Bollenstreek Omroep = BO TV (Zuid-Holland)
+https://olon.ctl.cdn.ebsd.ericsson.net/L9B/00e0b5dc/7fb09d7c.isml/.m3u8?dvr_window_length=7200
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",BR6 (Bodegraven. Zuid-Holland)
+https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Den Haag TV
+http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Feel Good TV (Zuid-Holland)
+https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8?ref=HoofdwebsiteE
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Lansingerland FM studiowebcam (Zuid-Holland)
+https://streaming-outbound-video-02.rtvlansingerland.nl/hls/livestream/1_2/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",LINQ TV (Voorne aan Zee)
+https://ms7.mx-cd.net/dtv-09/246-2090022/Linq_Media_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Merwe TV (Sliedrecht Zuid-Holland)
+https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Merwe TV (Sliedrecht Zuid-Holland)
+http://olon.ctl.cdn.ebsd.ericsson.net/L8A/6d83fcd7/efa042fb.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Midvliet TV (Leidschendam-Voorburg en Wassenaar)
+https://s15.ipcamlive.com/streams/0ffzxmuca9fdwse7o/stream.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Hoeksche Waard (Zuid-Holland)
+https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Vlaardingen
+https://video.audiostreamen.nl:3013/live/omroepvlaardingenlive.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Open Rotterdam
+http://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Stad Den Haag soms live events
+https://rsdh.cloud-streams.com/rsdh/rsdh/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Rotterdam Podium (Zuid-Holland)
+http://ms10.mx-cd.net/tv/141-573565/Podium_Rotterdam.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV ATOS (Zwijndrecht)
+http://olon.ctl.cdn.ebsd.ericsson.net/L9B/6c90391e/c762ca4d.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Dordrecht
+https://ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Katwijk
+https://ms2.mx-cd.net/dtv-10/266-2630088/RTV_Katwijk_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Krimpenewaard (Bergambacht)
+https://d1c3b6dit0y64a.cloudfront.net/nlpo/clr-nlpo/rtvkrimpenerwaard/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Papendrecht (Zuid-Holland)
+https://olon.ctl.cdn.ebsd.ericsson.net/L9A/9c900fc0/e8a80d15.isml/.m3u8?dvr_window_length=7200
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Ridderkerk
+http://olon.ctl.cdn.ebsd.ericsson.net/L8B/45776656/1a573c2c.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV SLOGO (Goeree-Overflakkee)
+http://olon.ctl.cdn.ebsd.ericsson.net/L8A/6e1b054e/a4007116.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Vlaardingen (Zuid-Holland)
+https://video.audiostreamen.nl:3013/live/omroepvlaardingenlive.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Waddinxveen webcam studio (Zuid-Holland)
+https://audvid254.streamhousedc.net/rtwvideo/rtw/chunks.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",SCHIE TV (Schiedam Zuid-Holland)
+http://olon.ctl.cdn.ebsd.ericsson.net/L8B/9921e6a1/7e6340f1.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Sleutelstad TV (Leiden)
+https://58c04fb1d143f.streamlock.net/sleutelstad/sleutelstad/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Studio Alphen aan den Rijn (Zuid-Holland)
+http://olon.ctl.cdn.ebsd.ericsson.net/L8B/5080c284/f0bd7608.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",WOS TV ('s-Gravenzande)
+https://ms2.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ZFM Zoetermeer (Zuid-Holland)
+https://zfmzoetermeer.nl/live/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Zeeland+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Zeeland HD
+http://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Zeeland HD (epg Ziggo)
+http://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",GO-TV HD (Terneuzen)
+https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Hulst
+https://ms2.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Noord-Brabant+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Brabant HD (epg Astra)
+http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Brabant radio webcam
+http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ATV Altena TV (Hank en regio Noord-Brabant)
+https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ATV Altena TV (Hank en regio Noord-Brabant)
+http://olon.ctl.cdn.ebsd.ericsson.net/L8A/297d1c03/c988a39c.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Avulo. Vught e.o. (Noord-Brabant)
+https://olon.ctl.cdn.ebsd.ericsson.net/L9B/28d5c697/9513f7d1.isml/.m3u8?dvr_window_length=7200
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",BredaNu (Noord-Brabant)
+https://rtmp.bredanu.nl/live/tv.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",BredaNu visual radio soms (Noord-Brabant)
+http://rtmp.bredanu.nl/live/visualradio_480p1128kbs/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",DitisHelmond
+http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",DitisHelmond
+https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",DMG Deurne
+https://video-weaver.ams03.hls.ttvnw.net/v1/playlist/Cq4Fp_YKvl0BpRR4_SsjsNveWmsToEMWAxfIRNWJq1G25SoYXyguzvYP_jTdSuce8tJOf6mXgwZ6U7TC58lvxYjRDwf1NOV_6WS7rP55Ha-WvmAjZjAvdneHmdBaZ4tTBN2q_Qy7Tm2-Myq6lPpSHEmT2HWkdbZ8EbNsFQJwypZZnYdbHhpTu0eMuxOmq7qUretd-G4NhBdthbeO4etVqe3tH9wg-GRXvG9Il1ipDqeRkvQKR7utkjgs7fNgylRjIY2cqBJmrM1CuVvkQPDMostCTgBOys4UzPqeGMgWxKt3C_ipCj1KBpcSiDPyoZ8ox0mryBncS57FMfMW4l154MWir9WZc41N0sUmU3efdnC18ocuUFXLFbvIjk4_zKJr3n0SMKD-B_1q5RwkUkvvBSztfVSAajMl6rSfdfwBfRBSYeWwRku5ihP3nMrAIEQoRvXmD1F2nxL_HR-S3oaS6JfQpf_dDMSmAAWDNk89dYQ2zFdlHVwPxkH59sIUHAkXi1yoiumYJKUnmZGjvDShXs7Us4o8naXf1krpPhF-tudf-jor59-UA8_KgxhEZeiimLAPskOisYTBWV34r9NFFBJab4bcS8DcD9kYGmeEhEgDwkEcgmQz1VSmayyqEhlZZB6meq7_0EHFEPAUzB-Znp5GMDsigRTK8j7K6SXoA6pfHGzD1WtI9d1KutOjsLUiInjSmUZcggnXu-vnND702LyMZVPF5qOrCHD_oNuBzhw7RZTusK9Lk_GOLm3EtGVewVAodAGcrlUzwltCSpBhKN96WiKpgwHfrgqws8RDBcWKET7_osl1sqEL-5n2ItyzbtcF9JWLYso98t-VhDg6LYAggF0htXg74eidIM2vCeKpxnjbWmJ2KO3ETHXIuuK2gfSabHRUgElmbj7gdw_iDywaDFLzkIh9cgLK_3YqJSABKglldS13ZXN0LTIw6AM.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",DTV Den Bosch
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",DTV Oss en Bernheze (Noord-Brabant)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",DTV Maashorst
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Hallo Gilze Rijen (Noord-Brabant)
+https://olon.ctl.cdn.ebsd.ericsson.net/L9A/ac5bfcf8/94ccfc8b.isml/.m3u8?dvr_window_length=7200
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",HTR (Heusden)
+https://ms2.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",HTR (Heusden)
+https://ms2.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/chunklist_w1666492733_b3328000_slNLD.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Kempen TV (Hapert e.o.)
+http://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Kempen TV (Hapert e.o.)
+https://ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",KommuS TV (Geldrop. Noord-Brabant) soms beeld
+https://ext.streampartner.nl/nosignal/testscreen.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Langstraat TV (Waalwijk Noord-Brabant)
+https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Langstraat TV (Waalwijk Noord-Brabant)
+https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8?
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",LOG Goirle (Noord-Brabant)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8B/c8b38dd6/86813ca2.isml/.m3u8?dvr_window_length=7200
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Lokaal 7 St. Michielsgestel
+https://stream2.back-bone.nl:5443/LiveApp/streams/766654837984677431274960.m3u8?token=null
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",LOM (Mill Noord-Brabant)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8B/fe821f26/66c845c7.isml/.m3u8?dvr_window_length=7200
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",LON (Nuenen)
+https://streamingserver02.omroepnuenen.nl/lon/lonweb_720p/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Best
+https://streamingserver02.omroepnuenen.nl/best/bestweb_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Centraal (Gemert)
+https://ms2.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Centraal (Gemert) alternatief
+http://ms7.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist_slNLD.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Dommelland TV (Boxtel e.o. Noord-Brabant)
+https://de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Drimmelen (Noord-Brabant)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8A/49acfc9b/edc694e3.isml/.m3u8?dvr_window_length=7200
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Land van Cuijk (Mill Noord-Brabant)
+https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Meierij (Sint Oedenrode Noord-Brabant)
+https://ms7.mx-cd.net/dtv-09/186-793530/Omroep_Meierij_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Peelrand (Laarbeek. Gemert-Bakel)
+https://ms7.mx-cd.net/dtv-11/208-1258878/Omroep_Peelrand_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Tilburg
+https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Ons West Brabant
+https://ms2.mx-cd.net/tv/177-710139/Ons_West_Brabant_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ORTS (Oosterhout)
+http://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio JND visueel (Eindhoven e.o.)
+https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Rararadio (Eindhoven)
+https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ROS TV (Rosmalen)
+https://server-67.stream-server.nl:1936/RosTVkrant/RosTVkrant/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV VOS (Valkenswaard)
+https://d1ivuiwceej7mo.cloudfront.net/nlpo/clr-nlpo/vostv/index.m3u8?
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV VOS (Valkenswaard)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8A/670cc78b/e1510e0d.isml/.m3u8?dvr_window_length=7200
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio VOS FM
+http://593aed234297b.streamlock.net:1935/henrymeeuws/henrymeeuws/chunklist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Rucphen RTV (Noord-Brabant)
+https://n2.cdn.jetstre.am/session/7c3712bdfcad3cc9ab1fb26fbc5240ee/sz/RuchpenRTV/webdav/live/RucphenTV/720p.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",SIRIS TV (Asten. Someren)
+https://videostream.siris.nl/hls/playoutweb/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",SLOG TV (Geertruidenberg Noord-Brabant)
+https://n1.cdn.jetstre.am/session/9ce307c1ed63501fd6c985ec76a7ce69/sz/Geertruidenberg2/webdav/live/SLOGTV/720p.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",SLOS TV (Steenbergen Noord-Brabant)
+https://n2.cdn.jetstre.am/session/1c672e4ef3828054d954e36a4bd6b1ca/sz/SLOSteenbergen/webdav/live/SLOSTV/720p.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Studio040 (Eindhoven e.o.)
+https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Horizon TV (Heeze/Leende. Noord-Brabant)
+https://tv.rtvhorizon.nl/hls/horizon/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Winkradio beeld (Waalre Noord-Brabant)
+https://server-23.stream-server.nl:1936/WinkRadio/WinkRadio/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Zuidwest TV (Bergen op Zoom. Roosendaal en Woensdrecht)
+https://live.zuidwesttv.nl/live/zwtv_ultra/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Limburg+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",L1TV HD
+http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Bie OS
+http://olon.ctl.cdn.ebsd.ericsson.net/L8B/3a7e1b4b/df414f3d.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Bie OS (Limburg)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8B/3a7e1b4b/df414f3d.isml/.m3u8?dvr_window_length=7200
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Meer TV (Meerssen -Limburg)
+http://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Meer TV
+http://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ML5 (Limburg)
+https://ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ML5 webcam radio (Limburg)
+http://ms7.mx-cd.net/tv/ML5-2_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Horst aan de Maas
+https://ms2.mx-cd.net/dtv-10/157-1217118/Omroep_Horst_aan_de_Maas_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep P&M (Panningen)
+https://ms7.mx-cd.net/dtv-10/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Venlo
+https://d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Venray
+https://d3j015sg8r68y.cloudfront.net/nlpo/clr-nlpo/omroepvenray/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Maastricht
+http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Parkstad (Heerlen)
+https://live.streamteam.eu:8443/parkstad/parkstad/tv/chunks.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Maastricht
+http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/chunks.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",SOL 2 (Echt-Susteren)
+https://live.streamteam.eu:8443/sol2playout/sol2/live/chunks.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",TV Valkenburg
+https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",TVELLEF (Midden- en Zuid-Limburg)
+http://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",TVEllef (Midden- en Zuid-Limburg) alternatief
+https://61ae39677a1ab.streamlock.net/tvellef/tvellef/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Weert FM (NL Limburg)
+https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ZO-NWS (Beekdaelen en Brunssum Limburg)
+http://olon.ctl.cdn.ebsd.ericsson.net/L8B/f17f4777/035a4f5c.isml/master.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal politiek",++Stream NL nationaal politiek++
+https://pvdl.keybase.pub/m3u8/intros/streamnlnationaalpolitiek_tv.mp4
+#EXTINF:-1 group-title="Stream NL nationaal politiek",NPO Politiek en Nieuws
+http://87.212.248.23:8080/play/z06m
+#EXTINF:-1 group-title="Stream NL nationaal politiek",Actualiteitenkanaal
+https://livestream.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+#EXTINF:-1 group-title="Stream NL nationaal politiek",Actualiteitenkanaal 2
+https://livestream.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+#EXTINF:-1 group-title="Stream NL nationaal politiek",Aletta Jacobszaal
+https://livestream.tweedekamer.nl/live/aletta_jacobszaal/index.m3u8?hd=1&subtitles=1
+#EXTINF:-1 group-title="Stream NL nationaal politiek",Aletta Jacobszaal
+https://livestreaming.b67.tweedekamer.nl/live/alettajacobszaal/2000/prog_index.m3u8 
+#EXTINF:-1 group-title="Stream NL nationaal politiek",Enquêtezaal
+https://livestream.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+#EXTINF:-1 group-title="Stream NL nationaal politiek",Groen van Prinstererzaal
+https://livestream.tweedekamer.nl/live/groen_van_prinstererzaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+#EXTINF:-1 group-title="Stream NL nationaal politiek",Klompézaal
+https://livestreaming.b67.tweedekamer.nl/live/klompezaal/300/prog_index.m3u8 
+#EXTINF:-1 group-title="Stream NL nationaal politiek",Plenaire zaal
+https://livestreaming.b67bu.tweedekamer.nl/live/plenairezaal/4000/prog_index.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal politiek",Ridderzaal
+https://livestream.tweedekamer.nl/live/plenaire_zaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+#EXTINF:-1 group-title="Stream NL nationaal politiek",Suze Groenewegzaal
+https://livestream.tweedekamer.nl/live/suze_groenewegzaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+#EXTINF:-1 group-title="Stream NL nationaal politiek",Thorbeckezaal
+https://livestream.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+#EXTINF:-1 group-title="Stream NL nationaal politiek",Thorbeckezaal ???
+https://livestreaming.b67.tweedekamer.nl/live/thorbeckezaal/571/prog_index.m3u8 
+#EXTINF:-1 group-title="Stream NL nationaal politiek",Tilanuskamer kamer
+https://livestream.tweedekamer.nl/live/tilanuskamer/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+#EXTINF:-1 group-title="Stream NL nationaal politiek",Tilanuskamer kamer
+https://livestream.tweedekamer.nl/live/tilanuskamer/73/prog_index.m3u8 
+#EXTINF:-1 group-title="Stream NL nationaal politiek",Troelstrazaal
+https://livestreaming.b67.tweedekamer.nl/live/troelstrazaal/567/prog_index.m3u8 
+#EXTINF:-1 group-title="Stream NL nationaal politiek",Vondelingkamer
+https://livestream.tweedekamer.nl/live/vondelingkamer/audio/prog_index.m3u8 
+#EXTINF:-1 group-title="Stream NL nationaal politiek",Wttewaall van Stoetwegenzaal
+https://livestream.tweedekamer.nl/live/wttewaall_van_stoetwegenzaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+#EXTINF:-1 group-title="Stream NL nationaal politiek",+++Eerste Kamer (bij vergadering)+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlnationaalpolitiek_tv.mp4
+#EXTINF:-1 group-title="Stream NL nationaal politiek",Eerste Kamer
+https://cv-eerstekamer1.azureedge.net/livehttporigin/ngrp:eerstekamer.stream_all/playlist.m3u8

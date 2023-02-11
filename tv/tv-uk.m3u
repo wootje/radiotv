@@ -1,0 +1,305 @@
+#EXTM3U
+#EXTINF:-1 group-title="Stream Engeland (UK)",++Stream Engeland (UK)++
+https://pvdl.keybase.pub/m3u8/intros/streamengelanduk_tv.mp4
+#EXTINF:-1 group-title="Stream Engeland (UK)",++hoofdzenders++
+https://pvdl.keybase.pub/m3u8/intros/streamengelanduk_tv.mp4
+#EXTINF:-1 group-title="Stream Engeland (UK)",BBC 1 HD
+http://87.212.248.44:60130/play/a05n
+#EXTINF:-1 group-title="Stream Engeland (UK)",BBC 1 -2-
+http://45.153.35.210:8000/play/UK_bbc_1_sd/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",BBC 1 Noord-Ierland
+http://87.212.248.44:60130/play/a05o
+#EXTINF:-1 group-title="Stream Engeland (UK)",BBC 1 Wales
+http://87.212.248.44:60230/play/a04h/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",BBC 2 HD
+http://87.212.248.44:60130/play/a05q
+#EXTINF:-1 group-title="Stream Engeland (UK)",BBC 2 -2-
+http://87.212.248.44:60330/play/a033
+#EXTINF:-1 group-title="Stream Engeland (UK)",BBC 2 Noord-Ierland
+http://87.212.248.44:60230/play/a070/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",BBC 2 Wales
+http://87.212.248.44:60130/play/a05l
+#EXTINF:-1 group-title="Stream Engeland (UK)",BBC 3
+http://45.153.35.210:8000/play/UK_bbc_3_sd/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",BBC 4
+http://45.153.35.210:8000/play/UK_bbc_4_sd/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",BBC Alba
+http://87.212.248.44:60330/play/a078
+#EXTINF:-1 group-title="Stream Engeland (UK)",BBC News
+http://45.153.35.210:8000/play/UK_bbc_news_sd/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",BBC News -2-
+http://87.212.248.44:60230/play/a04n/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",BBC Parliament
+http://87.212.248.44:60230/play/a04g/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",BBC Red Button 1
+http://87.212.248.44:60330/play/a07j
+#EXTINF:-1 group-title="Stream Engeland (UK)",BBC Scotland
+http://87.212.248.44:60330/play/a076
+#EXTINF:-1 group-title="Stream Engeland (UK)",BBC World News
+http://82.114.87.149:8881/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",CBBC
+http://87.212.248.44:60130/play/a05p
+#EXTINF:-1 group-title="Stream Engeland (UK)",CBeebies
+http://87.212.248.44:60330/play/a04n
+#EXTINF:-1 group-title="Stream Engeland (UK)",CITV
+http://62.131.92.221:60450/play/a091/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",ITV
+http://45.153.35.210:8000/play/UK_itv_sd/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",ITV -2-
+http://87.212.248.44:60230/play/a06u/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",ITV +1
+http://86.10.164.23:9981/stream/channelid/1331546120?profile=pass
+#EXTINF:-1 group-title="Stream Engeland (UK)",ITV 2
+http://45.153.35.210:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",ITV 2 +1
+http://86.10.164.23:9981/stream/channelid/593895116?profile=pass
+#EXTINF:-1 group-title="Stream Engeland (UK)",ITV 2+1 -2-
+http://87.212.248.44:60450/play/a07j/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",ITV 3+1
+http://45.153.35.210:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",ITV 4+1
+http://45.153.35.210:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",ITV 3+1
+http://87.212.248.44:60130/play/a074
+#EXTINF:-1 group-title="Stream Engeland (UK)",ITV Be.
+http://87.212.248.44:60130/play/a08q
+#EXTINF:-1 group-title="Stream Engeland (UK)",STV
+http://87.212.248.44:60130/play/a07h
+#EXTINF:-1 group-title="Stream Engeland (UK)",Channel 4
+http://45.153.35.210:8000/play/UK_channel_4_sd/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Channel 4 -2-
+http://87.212.248.44:60230/play/a04s/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",E4
+http://45.153.35.210:8000/play/UK_e4_sd/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Film 4
+http://45.153.35.210:8000/play/UK_film4_sd/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",4 Seven
+http://87.212.248.44:60230/play/a04t/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",S4C HD
+http://45.153.35.210:8000/play/UK_s4c_sd/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Channel 5
+http://45.153.35.210:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",5 Select
+http://45.153.35.210:8000/play/UK_5_select_sd/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",5 Star
+http://45.153.35.210:8000/play/UK_5_star_sd/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",5 USA
+http://45.153.35.210:8000/play/UK_5_usa_sd/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",++overige++
+https://pvdl.keybase.pub/m3u8/intros/streamengelanduk_tv.mp4
+#EXTINF:-1 group-title="Stream Engeland (UK)",92 News UK
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Ahlebait TV
+http://87.212.248.44:60230/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Akaal Channel UK
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Alibi
+http://87.212.248.44:60530/play/a083
+#EXTINF:-1 group-title="Stream Engeland (UK)",ATN Bangla UK
+http://87.212.248.44:60230/play/a05g/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Ayozat TV
+http://87.212.248.44:60230/play/a07u/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Bid TV
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Blaze
+http://62.131.92.221:60450/play/a08b/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Bloomberg HD
+http://87.212.248.44:60130/play/a04k
+#EXTINF:-1 group-title="Stream Engeland (UK)",Bloomberg+ 4K
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Box Hits
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 group-title="Stream Engeland (UK)",Box Nation
+http://62.131.92.221:60450/play/a081/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Brit Asia TV
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",British Muslim TV
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",CBS Reality
+http://87.212.248.44:60230/play/a051/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",CBS Reality+1
+http://87.212.248.44:60230/play/a077/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Channel S
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Comedy Channel
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Create & Craft
+http://62.131.92.221:60450/play/a07w/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Daystar HD
+http://87.212.248.44:60130/play/a04i
+#EXTINF:-1 group-title="Stream Engeland (UK)",DMAX
+http://87.212.248.44:60130/play/a04w
+#EXTINF:-1 group-title="Stream Engeland (UK)",EarthxTV
+https://ov.ottera.tv/live/master1400000.m3u8;session=earth_et
+#EXTINF:-1 group-title="Stream Engeland (UK)",FreeSports HD
+http://87.212.248.44:60130/play/a06k
+#EXTINF:-1 group-title="Stream Engeland (UK)",FTF Sports
+https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",GB News
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Gems TV
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Gold
+http://62.131.92.221:60450/play/a085/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Gold -2-
+http://87.212.248.44:60530/play/a082
+#EXTINF:-1 group-title="Stream Engeland (UK)",GREAT! TV
+http://87.212.248.44:60130/play/a08z
+#EXTINF:-1 group-title="Stream Engeland (UK)",GREAT! TV+1
+http://87.212.248.44:60130/play/a090
+#EXTINF:-1 group-title="Stream Engeland (UK)",GREAT! Movies
+http://87.212.248.44:60130/play/a08u
+#EXTINF:-1 group-title="Stream Engeland (UK)",GREAT! Movies+1
+http://87.212.248.44:60130/play/a08x
+#EXTINF:-1 group-title="Stream Engeland (UK)",GREAT! Movies Action
+http://87.212.248.44:60130/play/a08t
+#EXTINF:-1 group-title="Stream Engeland (UK)",GREAT! Movies Action+1
+http://87.212.248.44:60130/play/a08y
+#EXTINF:-1 group-title="Stream Engeland (UK)",GREAT! Movies Classic
+http://87.212.248.44:60130/play/a08v
+#EXTINF:-1 group-title="Stream Engeland (UK)",GREAT! Movies Classic+1
+http://87.212.248.44:60130/play/a08w
+#EXTINF:-1 group-title="Stream Engeland (UK)",Gusto TV
+https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",HGTV
+http://87.212.248.44:60130/play/a04s
+#EXTINF:-1 group-title="Stream Engeland (UK)",Hi-Impact TV
+http://87.212.248.44:60230/play/a05t/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Horror Xtra
+http://45.153.35.210:8000/play/UK_horror_channel_sd/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",horror Xtra+1
+http://87.212.248.44:60230/play/a078/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Horse and Country
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Ideal World
+http://62.131.92.221:60450/play/a07v/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Insight
+https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Inspiration TV
+http://62.131.92.221:60450/play/a08d/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Introuble
+https://introuble-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Inwild
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Inwonder
+https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",iON TV
+http://87.212.248.44:60230/play/a05s/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Kerrang
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:-1 group-title="Stream Engeland (UK)",KICC TV
+http://87.212.248.44:60230/play/a05l/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Kiss
+http://87.212.248.44:60530/play/a07v
+#EXTINF:-1 group-title="Stream Engeland (UK)",Legend
+http://87.212.248.44:60230/play/a04y/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",LoveWorld
+http://62.131.92.221:60450/play/a07y/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Magic
+http://87.212.248.44:60530/play/a07w
+#EXTINF:-1 group-title="Stream Engeland (UK)",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Music & Memories
+https://edge-fast2.evrideo.tv/51da5aca-56ff-4735-bde8-b75d2ae4d9b9_0_HLS/manifest.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",My5 Documentaries
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="Stream Engeland (UK)",My5 GP's
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d2c57ee4f9ddf73da8a0ba5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="Stream Engeland (UK)",Now 70s
+http://87.212.248.44:60530/play/a07r
+#EXTINF:-1 group-title="Stream Engeland (UK)",Now 80s
+http://87.212.248.44:60530/play/a08s
+#EXTINF:-1 group-title="Stream Engeland (UK)",Now 90s
+http://87.212.248.44:60530/play/a088
+#EXTINF:-1 group-title="Stream Engeland (UK)",NTV
+http://62.131.92.221:60450/play/a08k/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Pick
+http://45.153.35.210:8000/play/UK_pick_sd/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Plymouth Rock TV
+https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtvedge/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",POP
+http://45.153.35.210:8000/play/UK_pop_sd/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",POP+1
+http://87.212.248.44:60130/play/a08g
+#EXTINF:-1 group-title="Stream Engeland (UK)",POP Max
+http://45.153.35.210:8000/play/UK_pop_max_sd/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",POP Max+1
+http://87.212.248.44:60130/play/a08e
+#EXTINF:-1 group-title="Stream Engeland (UK)",PTC Punjabi
+http://62.131.92.221:60450/play/a08h/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Quest HD
+http://87.212.248.44:60130/play/a06l
+#EXTINF:-1 group-title="Stream Engeland (UK)",QVC UK
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",QVC UK +1
+https://d1txbbj1u9asam.cloudfront.net/hera/remote/qvcuk_primary_sdi1/2/prog_index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",QVC Beauty
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",QVC Extra
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_extra_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Real Stories
+https://realstories-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Reality Xtra
+http://87.212.248.44:60230/play/a04u/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Reuters TV
+https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Revelation TV
+https://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Showcase
+http://87.212.248.44:60230/play/a07k/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Sikh Channel
+http://62.131.92.221:60450/play/a088/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Sky Arts
+http://45.153.35.210:8000/play/UK_sky_arts_sd/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Sky News UK
+http://45.153.35.210:8000/play/UK_sky_news_sd/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Smithsonian Channel
+http://62.131.92.221:60450/play/a08g/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Sofy TV
+https://sofytv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Spark TV
+https://sparktv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Sports Tonight
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",SportyStuff HD
+http://87.212.248.44:60230/play/a07s/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Spotlight TV
+http://62.131.92.221:60450/play/a087/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Talk TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Temple TV
+https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist_w1944862924.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Tennis Channel UK
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Tennis Channel International
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",That's TV Gold
+http://87.212.248.44:60530/play/a09h
+#EXTINF:-1 group-title="Stream Engeland (UK)",The Box UK
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 group-title="Stream Engeland (UK)",Time Line
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Tiny Pop
+http://45.153.35.210:8000/play/UK_tiny_pop_sd/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Tiny Pop+1
+http://87.212.248.44:60130/play/a08c
+#EXTINF:-1 group-title="Stream Engeland (UK)",TJC HD
+http://87.212.248.44:60130/play/a08s
+#EXTINF:-1 group-title="Stream Engeland (UK)",Trace Hits
+http://45.153.35.210:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Trace Vault
+http://45.153.35.210:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",TV One
+http://62.131.92.221:60450/play/a08o/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",W
+http://62.131.92.221:60450/play/a08c/index.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Wonder
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Stream Engeland (UK)",Xpanded TV
+http://87.212.248.44:60230/play/a05m/index.m3u8
