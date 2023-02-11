@@ -1,0 +1,2923 @@
+#EXTM3U
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",++Stream NL nationaal (NL)++
+https://pvdl.keybase.pub/m3u8/intros/streamnlnationaalnl_radio.mp4
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",++publieke zenders++
+https://pvdl.keybase.pub/m3u8/intros/streamnlnationaalnl_radio.mp4
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radio1.gif",NPO Radio 1 
+http://icecast.omroep.nl:80/radio1-bb-mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radio2.gif",NPO Radio 2
+http://icecast.omroep.nl:80/radio2-bb-mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/3fm.gif",NPO 3FM
+http://ics2pss.omroep.nl/3fm-bb-mp3?q=/npo/mp3/3fm-bb.pls&stream=ok
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/3fm.gif",NPO 3FM KX
+http://ics2ess.omroep.nl:80/3fm-serioustalent-mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radio5.gif",NPO Radio 5
+http://ics2nss.omroep.nl:80/radio5-bb-mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radio4.gif",NPO Radio 4 Klassiek
+http://icecast.omroep.nl/radio4-bb-mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radio6.pngs",NPO Radio 6 Soul & Jazz
+https://icecast.omroep.nl/radio6-bb-mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/sterrennl.jpg",NPO Sterren.nl
+https://icecast.omroep.nl/radio2-sterrennl-mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/funxradio.jpg",FunX
+http://icecast.omroep.nl/funx-bb-mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/funx.gif",FunX Afro
+http://icecast.omroep.nl/funx-reggae-bb-mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/funx.gif",FunX Arab
+http://icecast.omroep.nl/funx-arab-bb-mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/funx.gif",FunX Fissa
+http://icecast.omroep.nl/funx-dance-bb-mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/funxhiphop.png",FunX Hip Hop
+http://icecast.omroep.nl/funx-hiphop-bb-mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/funxlatin.png",FunX Latin
+http://icecast.omroep.nl/funx-latin-bb-mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/funx.gif",FunX Slow Jamz
+http://icecast.omroep.nl/funx-slowjamz-bb-mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/funx.gif",FunX Amsterdam
+http://icecast.omroep.nl/funx-amsterdam-bb-mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/funx.gif",FunX Den Haag
+http://icecast.omroep.nl/funx-denhaag-bb-mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/funx.gif",FunX Rotterdam
+http://icecast.omroep.nl/funx-rotterdam-bb-mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/funx.gif",FunX Utrecht
+http://icecast.omroep.nl/funx-utrecht-bb-mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Spreekbuis Radio
+http://149.210.222.13:8030/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",++(commerciële) HOOFDzenders++
+https://pvdl.keybase.pub/m3u8/intros/streamnlnationaalnl_radio.mp4
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",40ROCK Radio
+https://40rockstream.live-streams.nl/live
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",40UP Radio!
+https://stream.40upradio.nl/40up
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/100nlradio.png",100% NL
+http://stream.100p.nl/100pctnl.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/100nlfeest.png",100% NL Feest
+https://stream.100p.nl/web01_mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/100nlliefde.png",100% NL Liefde
+https://stream.100p.nl/web03_mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/100nlradio.png",100% NL Nederpop
+https://stream.100p.nl/web04_mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/100nlnonstop.png",100% NL Nonstop
+https://stream.100p.nl/web02_mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/100nlradio.png",100% NL Puur
+https://stream.100p.nl/web06_mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",100% NL Songfestival
+http://playerservices.streamtheworld.com/api/livestream-redirect/WEB05_MP3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",192 Radio
+http://server-14.stream-server.nl:8030/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",192 Radio (NL) alternatief
+https://192radio.stream-server.nl/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",4EVER49 Radio
+https://mediaserv68.live-streams.nl:18014/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/538radio.gif",538
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/538classics.gif",538 Classics
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/538dancedept.gif",538 Dance Department
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/538hitzone.gif",538 Hitzone
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3 
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/538party.gif",538 Ibiza
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/538nonstop.gif",538 Non-Stop
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/538party.gif",538 Party
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/538top50.gif",538 Top 50
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/538verrucktestunde.png",538 Verrückte Stunde
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3 
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/538radio.gif",538 Zomer
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR06.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",ABTT (Adje Bouman’s Top Tien)
+http://server-09.stream-server.nl:8400/;stream/1
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Ajax Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S01.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",ALLsportsradio
+http://2.trafficstream.nl/allsports_main.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/arrowbluesrock.gif",Arrow Bluesbox Radio
+https://22713.live.streamtheworld.com/ARROWBLUESBOX.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Arrow Caz!
+http://stream.arrowcaz.nl/caz128kmp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/arrow.gif",Arrow Classic Rock
+https://stream.gal.io/arrow
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/arrow.gif",Arrow Jazz
+http://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIMEARROWJAZZ_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/arrow.gif",Arrow Rock Radio
+https://stream.arrowcaz.nl/arrowrockradio
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/bnr.gif",BNR Nieuwsradio
+http://stream.bnr.nl/bnr_mp3_128_20
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",BNR Nieuwsradio Kijk live
+http://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",C-Dance RETRO
+http://198.100.145.187:18304/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Candlelight
+http://playerservices.streamtheworld.com/api/livestream-redirect/CANDLELIGHT_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Classic NL
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSICFM.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Classic NL Mindradio
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR25.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Classic NL Opera
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR27.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Classic NL Soundtracks
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR26.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Classy Radio
+https://gooischstream.hofstreaming.nl/proxy/gooisch_main?mp=/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender
+https://streams.greenhost.nl:8006/live
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Barok
+https://streams.greenhost.nl:8006/barok
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender De Muzikant (amateurmuziek)
+https://streams.greenhost.nl:8006/amateurmuziek
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Filmmuziek
+http://streams.greenhost.nl:8080/film
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Folk it!
+https://streams.greenhost.nl:8006/folkit
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Gaudeamus
+https://streams.greenhost.nl:8006/gaudeamus
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Geen dag zonder Bach
+https://streams.greenhost.nl:8006/bach
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Gehoorde Stilte
+https://streams.greenhost.nl:8006/gehoordestilte
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Gregoriaans
+https://streams.greenhost.nl:8006/gregoriaans
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Hard Bop
+https://streams.greenhost.nl:8006/hardbop
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Jazz
+https://streams.greenhost.nl:8006/jazz
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Jazznotjazz
+https://streams.greenhost.nl:8006/jazznotjazz
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Klassieke Muziek
+https://streams.greenhost.nl:8006/klassiek
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Live Concert
+https://streams.greenhost.nl:8006/liveconcert
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Nieuwe Muziek
+https://streams.greenhost.nl:8006/nieuwemuziek
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender November Music
+https://streams.greenhost.nl:8006/novembermusic
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Opera
+https://streams.greenhost.nl:8006/opera
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Oriënt Express
+https://streams.greenhost.nl:8006/orientexpress
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Oude Muziek
+https://streams.greenhost.nl:8006/oudemuziek
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Pop
+https://streams.greenhost.nl:8006/pop
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Raakvlakken
+https://streams.greenhost.nl:8006/raakvlakken
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Radiophonics
+https://streams.greenhost.nl:8006/radiophonics
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Solta a Franga
+https://streams.greenhost.nl:8006/slotaafranga
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Utrecht Muziekstad
+https://streams.greenhost.nl:8006/vredenburg
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender Wereldmuziek
+https://streams.greenhost.nl:8006/wereldmuziek
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Concertzender X-Rated
+https://streams.greenhost.nl:8006/concertzenderlive
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Deep Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/DEEP_RADIO_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Deep Radio HD
+http://stream.deep.radio/hd
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",EASY 95.5 FM
+https://stream.easyfm.nl/stream1/stream.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Easy Radio (Camfactor)
+http://77.164.95.243:8035/EASY
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Easy Radio / Oldies
+http://77.164.95.243:8035/HOT
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Easy Radio / Urban Traxx
+http://77.164.95.243:8035/URBAN
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/efteling.gif",Efteling Kids Radio
+http://ice.cr2.streamzilla.xlcdn.com:8000/sz=efteling=hdstream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/efteling.gif",Efteling Kids Radio alternatief
+http://rrr.sz.xlcdn.com/?account=efteling&file=hdstream&type=live&service=icecast&protocol=http&port=8000&output=pls
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Excellent FM
+https://radio.streemlion.com/RadioExcellent
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",GirlPower Radio
+http://solid67.streamupsolutions.com:15527/Girlpower
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",GLXY
+https://mediaserv73.live-streams.nl:18044/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",GoodLIFE Radio
+https://streaming.hofhosting.nl/proxy/goodlife_main?mp=/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Grand Prix Radio
+https://25443.live.streamtheworld.com/GRAND_PRIX_RADIOAAC_2.aac
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Grand Prix Radio Classics
+http://22593.live.streamtheworld.com/GPRCLASSICSAAC.aac
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Grand Prix Radio Dance Hits
+https://25303.live.streamtheworld.com/GPRDANCEAAC.aac
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Grolsch 0.0 FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S09.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",HalloKids Radio
+https://ice.cr6.streamzilla.xlcdn.com:8000/sz=Hallokidsradio=mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Het Stamcafé
+https://hetstamcafe.stream-server.nl/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Het Stamcafé
+https://stream.hetstamcafe.nl/hetstamcafe.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Hitzzz!!
+https://stream.hitzzz.nl/hitzzz
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Hot Radio Hits
+http://server-67.stream-server.nl:8400
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Ice Radio
+https://stream.iceradio.nl/iceradio
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",JINX Radio
+https://streaming.jinxradio.nl/site
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Joe 70s 80s
+https://stream.joe.nl/joe/mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",JUKE AZ Radio
+https://22603.live.streamtheworld.com/JUKE_S16AAC.aac
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",JUKE AZ Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S16.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",JUKE Cabaret
+https://playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S15_SC.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",JUKE Café Genee
+http://playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S03.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",JUKE Herfstkriebels
+http://playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S11.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",JUKE Hip Hop Classics
+https://playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S12_SC.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",JUKE House
+https://playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S14_SC.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",JUKE Levenslied
+https://playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S09_SC.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",JUKE Music Care Activatie
+https://playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S05.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",JUKE Music Care Ontspannen
+https://playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S04.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",JUKE Non-Stop Nederpop
+https://playerservices.streamtheworld.com/api/livestream-redirect/WEB04_MP3.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",JUKE Oppeppers
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPNET07.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",JUKE Pop Hits
+http://playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S04.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",JUKE R & B Classics
+http://playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S16.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",JUKE Songfestival Top 100
+http://playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S08.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",JUKE Top 100 van 2021
+https://playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S08_SC.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",JUKE Winterkriebels
+https://playerservices.streamtheworld.com/api/livestream-redirect/WEB04_MP3.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Jumbo Radio
+https://22723.live.streamtheworld.com/JUMBORADIOAAC.aac
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Jumbo Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/JUMBORADIO.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",K-Rock
+https://21223.live.streamtheworld.com/KROCKAAC.aac
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",KBC Radio
+http://stream02.itego.nl/kbc-high
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/kinkfm.jpg",KINK Classics
+https://25233.live.streamtheworld.com/KINK_DNA.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/kinkfm.jpg",KINK Distortion
+https://22553.live.streamtheworld.com/KINK_DISTORTION.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/kinkfm.jpg",KINK Indie
+https://22553.live.streamtheworld.com/KINKINDIE.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/kinkfm.jpg",KINK No Alternativ
+https://22593.live.streamtheworld.com/KINK.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Layzer
+https://layzer.live-streams.nl/high
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",LINDA.NL Linda Lievelings
+http://playerservices.streamtheworld.com/api/livestream-redirect/JUKE_S02_SC.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",LINDA.NL Zomer In Je Bol
+http://playerservices.streamtheworld.com/api/livestream-redirect/TALPA_TRIAL_SC01.mp3 
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",LX-Classics
+http://play.lxclassics.com/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Magic FM
+https://stream.magicfm.nl/magicfm
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Mediamarkt FM
+http://stream.cuecreative.nl/mediamarktfm
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Nashville FM
+https://nashvillefm.stream-server.nl:8300/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",New Business Radio
+http://2.trafficstream.nl/business_main.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Nostalgie
+http://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIENL.mp3 
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Nostalgie
+https://25333.live.streamtheworld.com/NOSTALGIENL.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Oldies (Camfactor)
+http://77.164.95.243:8035/OLDIES
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/kinkfm.jpg",KINK No Alternativ
+https://22593.live.streamtheworld.com/KINK.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" ,Olympia radio
+http://streams.olympia-radio.nl:80/olympia
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/qmusic.gif",Olympia Radio Classics
+http://streams.olympia-classics.nl/classics
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/qmusic.gif",Qmusic
+https://stream.qmusic.nl/qmusic/mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/qmusic.gif",Qmusic Christmas
+https://stream.qmusic.nl/thema/mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/qmusicfouteuur.gif",Qmusic Foute Uur
+https://stream.qmusic.nl/fouteuur/mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/qmusic.gif",Qmusic Limburg
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_qlmb_high.aac
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/qmusic.gif",Qmusic Nederlandstalig
+https://23903.live.streamtheworld.com/QMUSICNL_NEDERLANDSTALIG.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/qmusicnonstop.gif",Qmusic NonStop
+https://stream.qmusic.nl/nonstop/mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/qmusictop40.gif",Qmusic Top 40
+https://stream.qmusic.nl/top40/mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/qmusic.gif",Q-dance Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radio10.gif",Radio 10
+https://22323.live.streamtheworld.com/RADIO10.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radio10.gif",Radio 10 60's & 70's Hits
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radio10.gif",Radio 10 80s Hits
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radio10.gif",Radio 10 90s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR22.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radio10.gif",Radio 10 Disco Classics
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radio10.gif",Radio 10 Love Songs
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR04_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radio10nonstop.gif",Radio 10 Non-Stop
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radio10.gif",Radio 10 Top 4000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR24.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio121
+https://stream.radio121.nl/radio121.mp3 
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio 509 (voor blinden/slechtzienden) aac
+https://21283.live.streamtheworld.com/RADIO509AAC.aac
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio 509 (voor blinden/slechtzienden)
+http://20133.live.streamtheworld.com:80/RADIO509_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio 972
+https://solid41.streamupsolutions.com/proxy/toyfkozk?mp=/stream/4/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Continu
+http://stream.radiocontinu.nl/radio-continu
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Continu Editie 1 (Groningen. Drenthe + kop Overijssel)
+https://stream.radiocontinu.nl/radiocontinu
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Continu Editie 2 (Friesland)
+https://stream.radiocontinu.nl/radiocontinu-2
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Continu Editie 3 (overige provincies)
+https://stream.radiocontinu.nl/radiocontinu-3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Continu non-stop
+https://stream.radiocontinu.nl/radiocontinu-nonstop
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radiodecibel.jpg",Radio Decibel
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIODECIBEL.mp3 
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radiodecibel.jpg",Radio Decibel
+https://icecast.globallogic.nl/decibel.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radiodecibel.jpg",Radio Decibel Eurodance
+https://22603.live.streamtheworld.com/DECIBELEURODANCE.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radiodecibel.jpg",Radio Decibel Greatest Hits
+https://25433.live.streamtheworld.com/DECIBEL80S.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radiodecibel.jpg",Radio Decibel Ibiza
+https://stream.decibel.nl/ibiza.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Mi Amigo. de échte
+http://192.99.34.205:8368/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Mi Amigo International
+http://janus.shoutca.st:8031/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Monique 918
+https://radiomonique918.radioca.st/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL
+http://stream.radionl.fm/radionl
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Achterhoek
+https://stream.radionl.fm/rnlachterhoek
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Amsterdam
+https://stream.radionl.fm/rnlamsterdam
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Apeldoorn
+https://stream.radionl.fm/rnlapeldoorn
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Arnhem
+https://stream.radionl.fm/rnlarnhem
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Assen
+https://stream.radionl.fm/rnlassen
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Emmen
+https://stream.radionl.fm/rnlemmen
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Friesland
+https://stream.radionl.fm/rnlfriesland
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Groningen
+https://stream.radionl.fm/rnlgroningen
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Groningen Oost
+https://stream.radionl.fm/rnlgroningenoost
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Hoogeveen
+https://stream.radionl.fm/rnlhoogeveen
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Meppel
+https://stream.radionl.fm/rnlmeppel
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Midden Brabant
+https://stream.radionl.fm/rnlmiddenbrabant
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Nijmegen
+https://stream.radionl.fm/rnlnijmegen
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Noord Holland
+https://stream.radionl.fm/rnlnoordholland
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Noordoost Brabant
+https://stream.radionl.fm/rnlnoordoostbrabant
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Ommen/Harderberg
+https://stream.radionl.fm/rnlhardenberg
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Twente
+https://stream.radionl.fm/rnltwente
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Utrecht
+https://stream.radionl.fm/rnlutrecht
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie West Brabant
+https://stream.radionl.fm/rnlwestbrabant
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Zeeland
+https://stream.radionl.fm/rnlzeeland
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Zuid Holland
+https://stream.radionl.fm/rnlzuidholland
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Zuidoost Brabant
+https://stream.radionl.fm/rnlzuidoostbrabant
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",RadioNL Editie Zwolle
+https://stream.radionl.fm/rnloverijssel
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/radionl.png",Radio NL Kids
+http://stream.radionlkids.nl/rnlkids
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Nostalgia
+https://streamingv2.shoutcast.com/Radio-Nostalgia
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Nostalgia alternatief
+https://kathy.torontocast.com:2250/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/veronicafm.gif",Radio Veronica
+http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/veronicafm.gif",Radio Veronica Alternative
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR12_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/veronicarockradio.gif",Radio Veronica Rock Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR11_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/veronicatop1000.gif",Radio Veronica Top 1000 Allertijden
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR10_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/veronicavintage.gif",Radio Veronica Vintage
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR09_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/skyradio.gif",Sky Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/skyradio80shits.png",Sky Radio 80s Hits
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/skyradio90shits.png",Sky Radio 90s Hits
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR05_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/skyradiochristmast.png",Sky Radio Christmas
+https://22343.live.streamtheworld.com/SRGSTR08.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/skyradiohits.gif",Sky Radio Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/skyradiolovesongs.gif",Sky Radio Lovesongs
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/skyradioniceeasy.gif",Sky Radio Nice & Easy
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/skyradiowork.gif",Sky Radio Non-stop @ Work
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR24.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/skyradio.gif",Sky Radio Sky for Men
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR28.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/skyradiosmoothhits.png",Sky Radio Smooth Hits
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR15_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/slamfm.png",SLAM!
+https://stream.slam.nl/slam_mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/slamfm.png",SLAM! 40
+http://playerservices.streamtheworld.com/api/livestream-redirect/WEB14_MP3_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/slamfm.png",SLAM! Dance Classics
+http://playerservices.streamtheworld.com/api/livestream-redirect/WEB15_MP3_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/slamfmhardstyle.png",SLAM! Hardstyle
+http://playerservices.streamtheworld.com/api/livestream-redirect/WEB11_MP3_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/slamfmhousuh.gif",SLAM! Housuh In De Pauzuh
+http://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_MP3_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/slamfmjuize.png",SLAM! Juize
+http://playerservices.streamtheworld.com/api/livestream-redirect/WEB09_MP3_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/slamfmmixmarathon.png",SLAM! Mixmarathon
+http://playerservices.streamtheworld.com/api/livestream-redirect/WEB13_MP3_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/slamfmnonstop.gif",SLAM! Non-Stop
+http://playerservices.streamtheworld.com/api/livestream-redirect/WEB10_MP3_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/slamfm.png",SLAM! Summer
+http://playerservices.streamtheworld.com/api/livestream-redirect/WEB08_MP3_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/slamfmtheboomroom.png",SLAM! The Boom Room
+http://playerservices.streamtheworld.com/api/livestream-redirect/WEB12_MP3_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Soul Radio
+https://listen.soulradio.com/SOULRADIO.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Soulshow Radio
+http://icecast-soulshow.cdp.triple-it.nl/soulshow_128.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Soundz Radio
+https://23553.live.streamtheworld.com/JUKE_S10.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Stenders & Blokhuis KX Classics
+https://mcp-1.streampanel.nl:8020/kxclassics_mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Stenders & Blokhuis LX Classics
+http://streams.robstenders.nl:8063/lxclassics_mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Stenders & Blokhuis XXL Blokhuis
+http://178.19.116.251:8000/blokhuis_mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Stenders & Blokhuis XXL Stenders
+http://streams.robstenders.nl:8063/bonanza_mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/sublimefm.gif",Sublime
+https://25253.live.streamtheworld.com/SUBLIME.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/sublimefm.gif",Sublime Funk & Disco
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME_FUNK_DISCO.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/sublimepurejazz.jpg",Sublime Pure Jazz
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIMEPUREJAZZ.mp3 
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/sublimesmooth.jpg",Sublime Smooth
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIMESMOOTH.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/sublimefm.gif",Sublime Soul Top 1000
+https://20863.live.streamtheworld.com/SUBLIMESOUL.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)" tvg-logo="https://github.com/wootje/radiotv/radio/logo/sublime500.jpg",Sublime Sublime 500
+https://20863.live.streamtheworld.com/SUBLIME500.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Sunlite
+http://playerservices.streamtheworld.com/api/livestream-redirect/SUNLITE_MP3.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Sunlite
+https://23603.live.streamtheworld.com/SUNLITE_MP3_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Sweet Rock Radio
+http://mscp4.live-streams.nl:8190/live.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Swijnenstal
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR07.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Team FM
+https://stream4.audiostreamen.nl/teamfm
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Team FM Atlantis
+https://stream4.audiostreamen.nl/teamfmatlantis
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Team FM Country
+https://stream4.audiostreamen.nl/teamfmcountry
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Team FM Stream Hitradio | 24/7 De nieuwste engelstalige hits!
+https://stream4.audiostreamen.nl/teamfmhitradio
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Team FM Piratenplaten
+https://mediacp.audiostreamen.nl/piratenplaten
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Team FM Drenthe
+https://stream4.audiostreamen.nl/teamfmdrenthe
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Team FM Friesland
+https://stream4.audiostreamen.nl/teamfmfriesland
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Team FM Gelderland
+https://stream4.audiostreamen.nl/teamfmgelderland
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Team FM Overijssel
+https://stream4.audiostreamen.nl/teamfmoverijssel
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Team FM Twente
+https://stream4.audiostreamen.nl/teamfmtwente
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Tomorrow One World Radio
+https://22653.live.streamtheworld.com/OWR_WORLD_RADIO_NLAAC.aac
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Traffic Radio
+https://streaming.hofhosting.nl/proxy/traffic_main?mp=/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Unique Gold
+https://mscp3.live-streams.nl:8212/live
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Unique Offshore Radio Tribute
+https://mscp4.live-streams.nl:8112/radio.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Urban Traxx (Camfactor)
+http://77.164.95.243:8035/URBAN
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",VIB Radio
+https://stream.vibradio.nl/vib192mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Vibe Radio
+http://stream.joyradio.nl/viberadio
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Wild FM
+http://radio.wildhitradio.nl/wildfm.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Willem II Radio
+https://25433.live.streamtheworld.com/JUKE_S06AAC.aac
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",ZTACK
+https://audio.ztack.nl/radio/8000/ztack
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",++religieus++
+https://pvdl.keybase.pub/m3u8/intros/streamnlnationaalnl_radio.mp4
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Bright FM
+http://str1.hollanddata.eu:8000
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Bright FM Kids
+https://s1.hollanddata.eu/proxy/kids1?mp=/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Bright FM Plus
+https://s1.hollanddata.eu/proxy/bfmfamily?mp=/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Christelijke Omroep
+http://primastream1.primareclame.nl:11231/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",GOD Radio
+https://stream.wildfm.nl/GOD_Radio
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Golfbreker Radio
+http://212.238.183.37:8004/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Groot Nieuws Radio
+https://19993.live.streamtheworld.com/GNR.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Groot Nieuws Radio Blijde Klanken
+https://25483.live.streamtheworld.com/GNRBK.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Groot Nieuws Radio non-stop
+https://22653.live.streamtheworld.com/GNRNONSTOP.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Kerkradio Apeldoorn
+http://stream.kerkradioapeldoorn.nl:88/broadwave.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Maasbach Radio
+http://stream.maasbachradio.com:8064/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Bloemendaal
+http://audio.radiobloemendaal.nl/mp3;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Maria NL
+https://stream.radiomaria.nl/mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Rebecca Radio gospel NL
+http://s3.myradiostream.com:9164/listen.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Reformatorische Omroep
+http://media01.streampartner.nl:8003/live
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Seven FM
+https://25503.live.streamtheworld.com/SEVENFM.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Trans World Radio NL
+http://twrnl.out.airtime.pro:8000/twrnl_a    
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Urk FM Geestelijk
+http://live.urkfm.nl:8000/geestelijk.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",++Sinterklaas++
+https://pvdl.keybase.pub/m3u8/intros/streamnlnationaalnl_radio.mp4
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Sint FM
+https://stream.tbmp.nl:8000/sinterklaasradiohigh.aac
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",SinterklaasRadio
+https://stream06.dotpoint.nl:8004/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",++overige++
+https://pvdl.keybase.pub/m3u8/intros/streamnlnationaalnl_radio.mp4
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",18Hits (NL Nationaal)
+http://stream.18hits.fm/18Hmp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",80s Hitradio (NL Nationaal)
+https://s22.myradiostream.com/7728/listen.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",100 Chill Radio
+https://chill.100radios.net
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",100 Hit Radio
+https://hit.100radios.net
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",24 Kitchen Radio (NL Nationaal)
+http://77.164.95.243:8040/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Aardschok Radio Nationaal)
+http://as192.pinguinradio.nl/;stream.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",ABTT – Adje Bouman's Top Tien (Nationaal)
+http://server-06.stream-server.nl:8600/;stream/1
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",A.D.M. Hardstyle Radio (Nationaal)
+http://stream.admhardstyleradio.com:1765
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Alfa-Radio-Nederland
+http://176.9.32.52:8732/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Alex FM
+http://node-19.zeno.fm/txy2thr6wp8uv?rj-ttl=5&rj-tok=AAABf43SSMEAbbsvc5k2zmdFKw
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",All Oldies Channel (NL nationaal)
+http://radio.alloldieschannel.com:8000/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Allsound Radio (NL nationaal)
+https://kathy.torontocast.com:2495/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Amor FM multiculturele radiio
+http://stream-12.zenomedia.com/pgxwyxk8mg0uv
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Ariba The Party Station (NL overige)
+https://larry.torontocast.com:1325/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",AXL
+https://mediaserv30.live-streams.nl:18005/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Back To The Old School (NL nationaal)
+http://bttos.soulandfunkmusic.com:8443/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Bellamia Radio (NL piraten)
+http://server-16.stream-server.nl:8452/;?1535467952659
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Bestehits (NL overig)
+https://LUISTER.BESTEHITS.NL:80/BESTEHITS-MP3-192
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Beyond The Beat Generation
+http://86.94.213.59:8000/listen.pls  
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Big B21 (NL nationaal)
+http://stream.bigb21.nl:12000/live
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Blackwood FM (NL)
+http://server-21.stream-server.nl:8326/stream/1/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Bluestar Radio
+http://philae.shoutca.st:8571/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Bobsel Radio
+http://radio.bobsel.net:8000/;stream.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Boxerteam (NL)
+http://server-25.stream-server.nl:8502/;?1535468265311
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Bright FM (Family7 reli)
+http://str1.hollanddata.eu:8000
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Bright FM Kids (Family7 reli)
+https://s1.hollanddata.eu/proxy/kids1?mp=/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Bright FM Plus (Family7 reli)
+https://s1.hollanddata.eu/proxy/bfmfamily?mp=/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",C-Dance Retro (NL nationaal. overig)
+http://198.100.145.187:18304/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",CapriTeam (NL-nationaal)
+http://178.251.26.216:8016/capriteam3;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Carnaval Radio (NL-nationaal)
+http://185.80.220.12/proxy/scarna00?mp=/stream/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Centraal Hits (NL)
+http://server-26.stream-server.nl:8738/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",ChillHits4U Radio
+https://fred.torontocast.com:2050/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Classic Hits 106 (NL)
+https://classichits106.stream.laut.fm/classichits106
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Club Dance Radio (NL-nationaal)
+http://hubble.shoutca.st:8654/stream?1533399376007
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",CM Radio (N nationaal. overig)
+https://cp.chattersworld.nl:18012//;stream.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Columbia AM (NL-nationaal)
+http://213.202.241.199:8031/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Completeteam (NL + NL piraten)
+http://server-23.stream-server.nl:8474/;stream.mp3     
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Cool Dance Radio
+http://94.228.133.3:8360/stream/1/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Costa Hit Radio NL (vanuit Spanje)
+https://stream.costahitradio.com:8134/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Crossroads Country Radio (NL-nationaal)
+http://server-11.stream-server.nl:8518/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",DaCosta Radio
+http://24.132.246.121:8004/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",DANCE.FM :: The Beat of Amsterdam
+http://streams.dancefm.net:8000/mp3-hq
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",DanceanbleRadio
+http://176.31.118.194:19580/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",db962 Dance Radio (NL-nationaal)
+http://stream.db962.nl:8030
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",DCR Disco Classic Radio (NL-nationaal)
+http://94.23.148.11:8312/;stream.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Deep Dance Radio (NL-nationaa)
+https://igor.torontocast.com:1295/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Different Radio 747 AM en Online
+http://caster02.streampakket.com:8044/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Dinxper FM (NL)
+http://86.81.98.192:8082/1
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Disco Bonanza
+http://streams.robstenders.nl:8063/discobonanza_mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Disco Classic Radio (NL nationaal. overig)
+https://cc6.beheerstream.com/8742/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Disco Radio Action
+http://stream.iceradio.nl/discoradioaction
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Disconet FM
+https://audio-edge-ey5nr.ams.s.radiomast.io/9f9702d0-ac14-48aa-b7cf-909db540365b
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Dizgo Radio (NL)
+http://mediaserv30.live-streams.nl:8079/;stream/1
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Dolfijn FM 97.3 (Curacao)
+http://85.214.231.253:8080/stream.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Drum and Bass FM (NL)
+http://stream.drumandbass.fm:9004/;stream.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",DZDRadio (NL)
+http://caster02.streampakket.com:8540/live
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Extra Gold (NL nationaal. overig)
+http://extragold.stream-server.nl/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Fact Radio
+https://server2.inetcast.nl:1555/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Fact Radio Nostalgie
+https://server6.inetcast.nl:2375/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Falcon Radio (NL)
+http://server-16.stream-server.nl:8926/;stream.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Fantastico Radio
+http://server-23.stream-server.nl:8106
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Fantasy Radio Italo Disco station. Dance Classics. HINRG 80s (NL)
+https://italo.live-streams.nl/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Firma Starfighter
+https://securestream3.digipal.nl:2141/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Flamingo Radio
+https://stream.zeeland-hosting.nl/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Focus 103
+HTTPS://f103.nl/mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Foute Muziek Radio 24/7
+http://37.59.195.28:8226
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Freeminded FM
+http://freemindedfmstream.nl
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Freestyle FM (NL)
+http://hazel.torontocast.com:1385
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Freez FM (NL)
+http://stream.freezfm.nl/freezfm
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Friends FM
+http://s1.pmteurope.com:8444/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",FriendTastic Radio
+https://server-26.stream-server.nl:8652/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Frits 365
+https://frits365music.stream.laut.fm/frits365music
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Gerjan Op Dreef
+https://server-67.stream-server.nl:8736/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Golden Music Stream
+https://stream.rcast.net/200075
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Hardcore Radio
+http://shoutcast2.hardcoreradio.nl
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",HardcorePower Radio
+http://cc5.beheerstream.com:8428/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Hawai Hit FM
+http://server-25.stream-server.nl:8486
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",HCR Holland Country Radio
+http://hollandcountry.gkstreamen.nl:80
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Hete Hits (NL nationaal. overig)
+https://mcp-2.mm-stream.nl:8000/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Hi On Line Radio Classical (NL)
+http://mediaserv30.live-streams.nl:8088/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Hi On Line Radio Gold
+http://mediaserv30.live-streams.nl:8000/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Hi On Line Radio Jazz (NL)
+http://mediaserv38.live-streams.nl:8006/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Hi On Line Radio Latin
+http://mediaserv33.live-streams.nl:8034/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Hi On Line Radio Lounge
+http://mediaserv33.live-streams.nl:8036/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Hi On Line Radio Pop
+http://mediaserv30.live-streams.nl:8086/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Hi On Line Radio World
+http://mediaserv38.live-streams.nl:8027/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Hitradio Centraal FM (NL nationaal. overig)
+http://103.214.4.11:8100/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Hits4All That's Music
+https://daniel.torontocast.com:2295/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Hits4U Radio
+https://fred.torontocast.com:1950/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Holland Country Radio (NL nationaal. overig)
+https://stream.hosting078.nl:8074/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Holland FM (Gran Canaria)
+http://stream01.streamhier.nl:9010/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Holland-FM---Zo-Hollands-is-er-maar-1
+http://qxjr001.digiplay.nl:9070
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Hollands Palet
+http://82.94.204.110:8061/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",HOTJamz Radio
+http://stream.click2.nl:80
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Hotrodradio
+https://everestcast.live-streams.nl:8186/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",In Progress Radio
+http://stream.inprogressradio.com:8000/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",In Tha House
+https://ex52.voordeligstreamen.nl/8056/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",IndieXL
+http://server-23.stream-server.nl:8438/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",InnerExotics
+https://eu1.reliastream.com/proxy/innerexotics?mp=/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Intense Dance Radio
+http://stream.intenseradio.net:8000/live
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Intergalectic FM Cybernetic Broadcasting System
+http://radio.intergalactic.fm:80/1
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Intergalectic FM Disco Fetish
+http://radio.intergalactic.fm:80/2
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Intergalectic FM Dream Machine
+http://radio.intergalactic.fm:80/3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Italoradio.FM (NL)
+http://italoradiofm.shoutcaststream.com:8102/live
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",i-turn Radio
+http://iturn.nl/m192
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Jazz de Ville Jazz (NL)
+http://onair22.xdevel.com/proxy/xautocloud_kkyb_420?mp=/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Jazz de Ville Chill (NL)
+http://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Jazz de Ville Dance (NL)
+http://onair22.xdevel.com/proxy/xautocloud_6cqz_422?mp=/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Jazz de Ville Groove (NL)
+http://onair22.xdevel.com/proxy/xautocloud_1kha_423?mp=/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",JouRadio.FM Hollandse muziek (NL)
+http://server-28.stream-server.nl:8982/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",K-Radio (NL)
+http://stream.laut.fm/k-radio
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",K-Golden Radio (NL)
+http://agnes.torontocast.com:8185/K-GOLDEN
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Kerstradio.nl
+http://audiostreamen.nl:8168
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Kinderradio FM
+http://kinderradio.ic-stream.nl:30039/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",KL85
+https://s19.myradiostream.com/:18068/listen.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Klasse FM (NL)
+http://stream.klasse.fm:8070/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Knuffelrock Radio (NL)
+http://cc3b.beheerstream.com:8274/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",KX Classics
+http://stream.kxclassikx.nl/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",KZ Radio (Kleine Zwerver) NL-piraten
+http://server-66.stream-server.nl:8848/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Like FM Brabant NLstalig
+http://listen.sonixcast.com/CSNX-8060
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Majapca Radio
+https://server6.inetcast.nl:1155/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Masters Of Hardcore (MOH-Radio)
+http://shoutcast3.hardcoreradio.nl/;stream.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",MediaMarktFM
+http://stream.cuecreative.nl/mediamarktfm
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Memories 1251 (NL)
+http://caster04.streampakket.com:9348/stream256mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",MCB (NL)
+http://server-28.stream-server.nl:8972/01
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",MPR Music Power Radio (NL)
+http://195.242.99.243:8000/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Musicvaria (NL)
+http://server-25.stream-server.nl:8314
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Muziekexpress radio
+http://server-27.stream-server.nl:8710/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Nashville FM (Rotterdam)
+http://server-24.stream-server.nl:8300/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Nationaal FM (Kollum Friesland)
+http://caster04.streampakket.com:8204/;stream.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Nederpop Radio
+http://stream05.dotpoint.nl:8000/nederpop
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",News Internetradio (NL)
+http://mediaserv33.live-streams.nl:8042/live
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Nicky-FM-Stream
+http://caster04.streampakket.com:8272/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NL-Music
+https://www.grumpydutchradio.nl:8443/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NL PopRock (NL)
+http://stream.nlpoprock.nl:80/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Nova Classic Rock
+http://212.48.126.146:8040/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",NRG Radio (NL)
+http://188.138.116.46:9000/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Old Men's Radio
+http://server-10.stream-server.nl:8140
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",OMR = Offshore Music Radio
+http://bitsmitter.com:8000/omr%2520;stream.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Orinoco Radio
+http://185.87.186.220:8000/orinoco
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Paprika Tasty Radio
+https://proxy.live-streams.nl/paprikatastyradio
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",PDRFM (Planet Dance Radio NL)
+http://clubsoundfm.shoutcaststream.com:8392/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Pidi Radio gay radio from Amsterdam
+http://142.44.131.253:8127/;stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Pinguin Radio
+http://streams.pinguinradio.com/PinguinRadio320.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Pinguin Aardschok
+https://streams.pinguinradio.com/Aardschok192.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Pinguin Classics
+http://streams.pinguinradio.com/PinguinClassics192.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Pinguin Grooves
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2591867.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Pinguin indie
+http://pr320.pinguinradio.com
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Pinguin On The Rocks
+https://streams.pinguinradio.com/PinguinOnTheRocks192.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Pinguin Pluche
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2591410.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Pinguin Pop
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2591862.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Pinguin Radio Fiesta
+http://19293.live.streamtheworld.com/SP_R2292843_SC
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Planet 90 (NL)
+http://planet90.shoutcaststream.com:8280/;stream.mp3        
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Polderpop Radio (NL)
+http://78.129.224.11:6167/;stream.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",PopRock FM (NL)
+https://sonic2.thewhitelabelreseller.com/8046/stream.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Power Radio
+http://86.105.24.112:8000/Live
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Pro FM Dance Webradio
+http://81.23.235.131:8200/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Progressieve Rock
+https://mscp2.live-streams.nl:8112/luisteren
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Pure Radio Holland Dance Channel (DutchCore FM)
+https://streamproxy2.dance.pureradio.eu/high_autodj
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Pure Radio HollandDJ RIP's Podcast (DutchCore FM)
+https://streamproxy2.djrip.pureradio.eu/ultra_autodj
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Pure Radio Holland Downtempo Channel (DutchCore FM)
+http://streamproxy2.downtempo.pureradio.eu/high
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Pure Radio Holland Hardcore Channel (DutchCore FM)
+http://centova.pure-isp.eu:8100/ultra_live
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Pure Radio Holland Liveparty Channel (DutchCore FM)
+https://streamproxy2.live.pureradio.eu/high_autodj
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Pure Radio Holland Trance-Electro Channel (JDR Wapradio)
+http://centova.pure-isp.eu:8027/ultra_live
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Pure Radio Holland Underground Channel (Old Pure Radio Holland)
+http://centova.pure-isp.eu:8000/ultra_live
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Q-dance
+http://19993.live.streamtheworld.com/Q_DANCEAAC.aac
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio 0511 (Buitenpost Friesland)
+http://stream.radio0511.com:8880/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio 105 Digital Radio
+http://radio105.shoutcaststream.com:8060/;stream.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio 227
+http://server-26.stream-server.nl:8500/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio 40UP
+http://radio.40up.nl/40up1
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio 558
+https://s3.free-shoutcast.com/stream/18096
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio 854 (NL. voor NL/BE in Canada)
+https://jenny.torontocast.com:8034/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio 854 Gold (uit Canada voor luisteraars BE en NL)
+https://daniel.torontocast.com:1435/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Boxerteam (NL)
+http://server-25.stream-server.nl:8502/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Caroline 259 Gold (NL)
+http://www.rcgoldserver.eu:8253
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Caroline 319 Gold / Radio Monique 963 Gold
+http://www.rcgoldserver.eu:8313
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Crescendo
+https://maggie.torontocast.com:8154/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio De Schans  Hollandse Hits (NL)
+https://fred.torontocast.com:1515/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio De Strandjutter (NL)
+http://strandjutterradio.gkstreamen.nl:8018/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio De Tijdbrekers (NL)
+http://178.251.26.216:8000/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Delta Internationaal (NL)
+http://81.169.171.250:8022/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Delta.Net the real house station (NL)
+http://mediaserv33.live-streams.nl:8064/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Dolfijntjes voor special kids (NL)
+http://mediaserv21.live-streams.nl:8037/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio El Dorado (NL)
+https://el-dorado.stream.laut.fm/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Europe
+http://81.169.171.250:8014
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Excellent (NL)
+http://streamingv2.shoutcast.com/radioexcellentfm?
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Extra Gold
+http://stream.extragold.nl:8080
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio G-FM (NL)
+http://radiogfm.dyndns.org:8200/high.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Gemiva (verstandelijk beperkten)
+http://patmos.cdnstream.com:9592/stream/1/?esPlayer&cb=241471.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Goud Van Oud (NL nationaal. overig)
+http://server-23.stream-server.nl:8118/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Happysound (voor NL in Canada)
+https://larry.torontocast.com:1045/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio HiTec (NL nationaal. overig)
+http://radiohitec.comlinq.be:80
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Holland Online
+https://mediaserv68.live-streams.nl:18062/live
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Lady Monza
+https://www.team24-hosting.nl:2020/stream/lady/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Melodie
+https://stream.laut.fm/moderne-schlager
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Nashville International
+http://server-09.stream-server.nl:8612
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Northsea International
+http://188.40.135.197:8388/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Omega (NL piraten)
+http://server-28.stream-server.nl:8958
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Onda
+https://stream.rcast.net/64747
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Patapoe (NL. overig)
+https://cast.radiopatapoe.nl/patapoe.aac
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio President (Golden Oldies Radio)
+https://sonic.magicdragon.nl:7016/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Rebecca
+http://s3.myradiostream.com:9164/listen.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Regionaal
+http://46.17.5.73:8696/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio SBS
+https://listen.web-radio.co.uk/proxy/radiosbs/radiosbs
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Schlager NL
+http://caster04.streampakket.com:8113/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Sitara FM
+http://server-25.stream-server.nl:8348/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Sputnik. underground en techno (NL)
+http://radiosputnik.nl:8002
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Stad Den Haag (Den Haag en 'wereldwijd')
+http://94.228.133.3/stream/1/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Tijdloos (NL nationaal. overig)
+https://kathy.torontocast.com:2310/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Twilight
+http://live.hostingbudget.nl:4270/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Ultiem (NL nationaal. overig)
+http://server-21.stream-server.nl:8382/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radioveronique
+http://server2.inetcast.nl:1680
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radio Weleer (NL)
+http://streams.radio.co:80/s1add38d12/listen
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Radiozuid1963
+http://server-23.stream-server.nl:8802/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",RAM FM (NL nationaal. overig)
+http://ramfm.shoutcaststream.com:8513/;stream/1
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",RDD Radio (NL)
+https://rddradio.stream.laut.fm/rddradio
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Ridder Radio (NL nationaal. overig)
+http://138.201.141.161:8205/rr
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Rivierenland Radio
+https://server-26.stream-server.nl:8400/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Robintimo Radio
+https://securestream3.digipal.nl:2183/;stream.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",R.O.L. Oldies Radio (NL)
+http://streams.shoutcastsolutions.com:8769/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",RoundandSound Radio (NL)
+http://stream.roundandsound.nl/1
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",RoyalFM
+http://royalfm.shoutcaststream.com:8242/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Rozo Radio
+http://82.94.205.122:8007/live
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",RVM Radio (NL nationaal)
+https://cc6.beheerstream.com/8615/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Shine Radio
+https://caster05.streampakket.com/proxy/9320/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Simone FM Hits & Classics
+http://stream.stream.delivery/simonefm
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",SolarRadio.fm
+http://82.73.211.65:8000/stream/1/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Soul Radio (Nederland)
+http://21233.live.streamtheworld.com/SOULRADIO.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Soulradio
+http://21233.live.streamtheworld.com/SOULRADIO.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Soulshow Radio
+http://icecast-soulshow.cdp.triple-it.nl/soulshow_128.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Soundtrack Radio Station
+https://igor.torontocast.com:1795/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Stadsradio
+https://sonic.magicdragon.nl/8044/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Sterradio (NL)
+https://caster05.streampakket.com/proxy/9098/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Studio 26 Radio (NL voor 15 t/m 35 jaar)
+http://94.23.148.11:8050/
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Studio Grensstad (BE en NL)
+http://213.202.241.199:8065/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Studionathalsteam
+https://ex52.voordeligstreamen.nl/8022/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Sunrise De grootste Hindoestaanse Radiozender van NL
+http://stream.sunrisefm.nl:9600/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",SurfRadio (NL nationaal. overig)
+http://streams.radionorthsea.nl:8000/128.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Tesselradio
+https://securestream3.digipal.nl:2233/;stream.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",The Funky Channel
+http://cast3.my-control-panel.com:8170/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",The Oldie Station (Eindhoven Noord-Brabant
+http://83.81.37.70:8000/1
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Timeless Entertainment Radio
+https://caster04.streampakket.com/proxy/8462/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",ToonFM alleen in het weekeind (NL overig)
+http://s1.streamaudio.de:8000/toonfm
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Traffic Radio
+http://2.trafficstream.nl/traffic_main.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",TurnON Radio International (vanuit USA voor alle NL's)
+http://94.23.252.14:8108/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Ujala (Bollywood minded)
+http://stream2.ujala.nl/stream/2/listen.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Ultraradio (NL nationaal. overig)
+https://everestcast.ultraradio.eu:1045/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Vahon Hindustani Radio
+https://onlineradio.websoftitnepal.com/8030/stream.mp4a.40.5
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",VIB Radio (NL nationaal. overig)
+https://stream.vibradio.nl/vib192mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Webradio SLIM (NL)
+http://webradio.slimweb.org:8000/wradio      
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Wolkhits.nl
+https://securestream3.digipal.nl:2213/;stream.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Your Choice Radio (NL)
+http://94.23.148.11:8374/stream
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",ZAP! FM (NL nationaal. overig)
+https://zapstream.nl:80/stream/1/.mp3
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",Zeilsteen Radio (NL nationaal. overig)
+https://sslive.zeilsteen.com/;
+#EXTINF:-1 group-title="Stream NL nationaal (NL)",ZTACK (NL nationaal. overig)
+https://audio.ztack.nl/radio/8000/ztack
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",++Stream NL regionaal & lokaal++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_radio.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Friesland/Groningen/Drenthe+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_radio.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Amplivier Radio (Friesland/Groningen)
+https://mcp-1.streampanel.nl:8022/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Hitzzz!!
+https://stream.hitzzz.nl/hitzzz
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Joy Radio (Friesland/Groningen/Drenthe)
+https://stream.joyradio.nl/joyradio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Gigant FM (Groningen + Drenthe)
+https://mcp-1.mm-stream.nl:7204/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Gigant FM studiocam (Groningen + Drenthe)
+https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Continu Editie 1 (Groningen. Drenthe + kop Overijssel)
+https://stream.radiocontinu.nl/radiocontinu
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Lauwerszee
+http://213.202.241.199:9896/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Seabreeze
+https://mediaserv38.live-streams.nl:18025/stream1
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",SimoneFM (Emmen)
+https://stream.simone.nl/simone
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Groningen+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_radio.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Noord Radio Noord
+https://media.rtvnoord.nl/icecast/rtvnoord/radio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Groningen 1 (Groningen)
+https://icecast.radiowesterwolde.nl:8443/G1_master
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Grunn FM (Groningen)
+http://stream.grunn.fm/grunnfm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Nautic Radio Beats 'N Break
+http://83.137.145.141:14280/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",OOG Radio (Groningen)
+https://olon.az.icecast.ebsd.ericsson.net/oog_radio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Olympia Radio
+http://streams.olympia-radio.nl:80/olympia
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Eemsdelta | Appingedam. Delfzijl. Loppersum (Groningen)
+https://audio-edge-ey5nr.ams.s.radiomast.io/063fcf6f-4083-4c4e-85a8-31b0a709f40d
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Babylon (Musselkanaal) Knoet Online
+http://213.202.241.176:8219/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Calypso (Oostwold)
+https://mcp-1.streampanel.nl:8024/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Hogeland (Het Hogeland. Groningen)
+https://olon.az.icecast.ebsd.ericsson.net/het_hoge_land
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Pronkjewail (Groningen Stad en Ommeland)
+https://server2.inetcast.nl:1935/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Westerwolde Vlagtwedde
+http://icecast.radiowesterwolde.nl:8000/G1_RWW
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Groningen
+https://stream.radionl.fm/rnlgroningen
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Groningen Oost
+https://stream.radionl.fm/rnlgroningenoost
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Regio FM Slochteren
+http://audiostreamen.nl:8030/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV1  (Stadskanaal)
+https://mcp-1.streampanel.nl:30103/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV GO! (Oldambt)
+http://icecast.radiowesterwolde.nl:8000/G1_RTVLOGO
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Zulthe (Groningen)
+https://stream.studio-lwd.nl/radio/8000/stream.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Team FM
+https://stream4.audiostreamen.nl/teamfm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Team FM Drenthe & Groningen
+https://stream4.audiostreamen.nl/teamfmdrenthe
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Friesland+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_radio.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omrop Fryslan
+https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/radio.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omrop Fryslan Koperkanaal
+https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/koperkanaal.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omrop Fryslan Omrop Nonstop
+https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/omropnonstop.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omrop Fryslân Thema
+https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/thema.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omrop Fryslan Tomke Radio
+https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/tomkeradio.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Amplivier Radio (Buitenpost Friesland)
+https://mcp-1.streampanel.nl:8022/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Freez FM (Sneek. Friesland)
+https://stream.freezfm.nl/freezfm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Frysk FM
+http://stream.frysk.fm/fryskfm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Fryske Rakkers
+http://centova.audiostreamhosting.nl:8129/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Gewoon FM (Haulerwijk. Friesland)
+http://server-66.stream-server.nl:8832/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Leo FM (Leeuwarden)
+https://msic.mx-cd.net/238-2265270/LEO_Middelse_Radio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",LEO Middelsé (Leeuwarden)
+https://msic.mx-cd.net/238-2265270/LEO_Middelse_Radio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Lokale Omroep Ameland (Friesland)
+http://loa.shoutcaststream.com:8142/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Lokale Omroep Odrie Oosterwolde
+http://aeservice.ddns.net:8000/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Nationaal FM (Kollum Friesland)
+https://cast.streamkeuze.nl/nationaalfm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Non-Stop Hitradio (Dokkum Friesland)
+https://jenny.torontocast.com:8002/nshitradio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Non-Stop Hitradio 80's & 90's Hits (Dokkum Friesland)
+https://listen.nshitradio.com/80s&90s
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Non-Stop Hitradio Hits (Dokkum Friesland)
+https://jenny.torontocast.com:8002/nshitradio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Odrie (Ooststellingwerf)
+http://aeservice.ddns.net:8000/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep RSH (Harlingen)
+http://server-09.stream-server.nl:8516/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Súdwest (Súdwest Fryslân)
+https://olon.az.icecast.ebsd.ericsson.net/omroep_sudwest
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio 0511 (Buitenpost Friesland)
+https://dl1.dstr.nl/radio/radio0511
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Centraal (Westwerf Friesland)
+https://mcp-2.mm-stream.nl:8017/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Continu Editie 2 (Friesland)
+https://stream.radiocontinu.nl/radiocontinu-2
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Eenhoorn (Franekeradeel/Het Bildt/Menaldumadiel)
+http://178.20.171.34:8016
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio President Golden Oldies Radio
+https://sonic.magicdragon.nl/8034/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Seagull (Harlingen Friesland)
+http://stream.radioseagull.net:8000/seagull
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Spannenburg (De Friese Meren)
+https://stream.radiospannenburg.nl/radiospannenburg
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Stad Harlingen (Friesland)
+http://server-09.stream-server.nl:8516
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Ultiem (Kollumerzwaag Friesland)
+http://server-21.stream-server.nl:8382/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Weststellingerwef Centraal (Friesland)
+https://mcp-2.mm-stream.nl:8017/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Friesland
+https://stream.radionl.fm/rnlfriesland
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV NOF Editie Achtkarspelen/Tytsjerksteradiel
+http://media01.streampartner.nl:8030/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV NOF Editie Noardeast Fryslân/Dantumadiel
+https://stream.rtvnof.nl/rtvnof1
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Seabreeze 1395 AM (Grou)
+https://mediaserv38.live-streams.nl:18025/stream1
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Smelne FM (Smallingerland)
+https://smelnefm_icecast.streampartner.nl/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Team FM Friesland
+https://stream4.audiostreamen.nl/teamfmfriesland
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Verkeercentrale Brandaris Terschelling NL (soms berichten)
+http://www.tbandsma.nl:8000/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Waterstad FM (Sneek)
+https://stream.waterstadfm.nl/waterstadfm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Drenthe+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_radio.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Drenthe
+https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",A-FM Altena Werkendam Woudrichem (Drenthe)
+http://stream.radioafm.nl:8000/afm128
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Barbados Enschede (NL regionaal Drenthe)
+http://streamserv41.digipal.nl:8014/;stream.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",De Vrije Radio (Drenthe)
+https://streamunit.nl:2020/stream/vrijeradio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",DNO Radio 1
+https://dnomedia.rtvstream.nl:8046/dno1
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",DNO Radio 2
+https://dnomedia.rtvstream.nl:8046/dno2
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Free Radio Emmen
+http://fre.stream.laut.fm/fre
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Gigant FM Erica
+https://mcp-1.mm-stream.nl:7204/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Grolloo Radio
+https://uk1.streamingpulse.com/ssl/7053
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Hit AM (Zwartemeer)
+https://stream.streamhits.nl/stream/1/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Hitstream FM
+https://stream.streamhits.nl/stream/1/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Jabboradiomeppel
+http://mediacp.radiowebhost.nl:9012/arabellavie
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Lokale Omroep Hoogeveen
+https://icecast.interip.nl:8000/lohhoogeveen
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Lucky Joe (Nieuw-Buinen Drenthe)
+https://mcp-1.streampanel.nl:7024/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Assen (Drenthe)
+https://i2.cdn.jetstre.am:8000/sz=OmroepAssen=RadioOmroepAssen
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Aa en Hunze (Aa en Hunze)
+http://icecast.radioenhunze.nl:8000/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Assen (Assen)
+http://icecast.streamone.net/IhANA6uBZNYS
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Continu (Tweede Exloermond)
+https://stream.radiocontinu.nl/radiocontinu
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Assen
+https://stream.radionl.fm/rnlassen
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Emmen
+https://stream.radionl.fm/rnlemmen
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Hoogeveen
+https://stream.radionl.fm/rnlhoogeveen
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Meppel
+https://stream.radionl.fm/rnlmeppel
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV1 RTVeen (Veenkoloniën Drenthe)
+http://mcp-1.streampanel.nl:40103/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Meppel (Meppel)
+https://olon.az.icecast.ebsd.ericsson.net/rtv_meppel
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Streekradio de Wolde Zuidwolde
+http://livestream.streekradio.com:9046/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Team FM Drenthe
+https://stream4.audiostreamen.nl/teamfmdrenthe
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Tynaarlo Lokaal (Tynaarlo)
+https://mediaserv68.live-streams.nl:18019/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ZO!34 (Coevorden/Emmen)
+https://mcp-2.mm-stream.nl:7000/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Flevoland+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_radio.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Flevoland
+http://stream.omroepflevoland.nl/icecast/omroepflevoland/stream2
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Flevoland cam
+https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/radio/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",527 TV/Kijk 527 (Noordoostpolder)
+https://wowza3.videostreamingwowza.com/broadcastmediasolutions/broadcastmediasolutions/chunklist_w141433569.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Decibel 962 DB962 (Noord-Holland en Flevoland)
+http://stream.db962.nl:8030/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Easy FM (Almere Flevoland)
+https://stream.easyfm.nl/stream1/stream.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",FlevoZiekenOmroep (Flevoland)
+http://stream.heerema.net:8000/studio.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",GirlPower Radio Flevoland
+https://solid41.streamupsolutions.com/proxy/toyfkozk?mp=/stream/3/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Kinderradio FM Almere
+https://stream.laut.fm/kinderradio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Hotradio Classics (Noordoostpolkder Flevoland)
+http://stream.hotradioclassics.nl:8192/;stream.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",LOZ FM (Zeewolde Flevoland)
+http://62.212.155.139:8000/high
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Masters of Hardcore Radio (Almere)
+https://playerservices.streamtheworld.com/api/livestream-redirect/MASTERSOFHARDCORE.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Almere (Flevoland)
+https://stream.rcast.net/65615
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Almere (Flevoland) studiocam
+https://wowza2.videostreamingwowza.com/OAlmerelive/OAlmerelive/chunklist_w458722561.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",OZONOP (Omroep voor Zieken en Ouderen Noordoostpolder Flevoland)
+http://85.150.162.186:8000/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Pro Radio Live – Omroep Almere
+https://stream.rcast.net/66064
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Emmeloord (Flevoland)
+http://86.93.49.78:8080/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Lelystad (Lelystad)
+http://live.radiolelystad.nl:8000/listen
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RADIONL editie Flevoland
+https://stream.radionl.fm/rnloverijssel
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Urk FM (Flevoland)
+http://www.urk.fm:8000/urkfm.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Urk FM Geestelijk (Flevoland)
+http://live.urkfm.nl:8000/geestelijk.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Wild FM (Flevoland + Noord-Holland)
+http://149.210.223.94/wildfm.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Gelderland+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_radio.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Gelderland
+http://stream.omroepgelderland.nl/radiogelderland
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Gelderland studio cam
+http://web.omroepgelderland.nl/live/kijkradio.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",1 Achterhoek
+http://77.72.144.136:9058/stream/1/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",A1  Radio (Barneveld/Nijkerk)
+http://stream.a1mediagroep.eu/a1radio_256
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",AFM Aalten
+https://cc5.beheerstream.com/proxy/aladnafm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Aladna FM (Gelderse gremssteek)
+http://aladnafm.shoutcaststream.com:8386/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",B-FM/Berkelstroom (Zutphen)
+https://i1.cdn.jetstre.am:8001/sz=crystalpark=BFM
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Baracuda Radio (Wezep Gelderland NL)
+http://streampointnederland.ddns.net:10400/;?1597507845711
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Bellamy FM (Arnhem)
+http://srv1.marinuske.nl:8010/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Berkelland FM (Berkelland)
+http://stream.leuk.fm/:stream/1;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Bright FM Algemeen (Arnhem Gelderland NL / religieus)
+http://str1.hollanddata.eu:8000/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Bright FM Kids (Arnhem Gelderland NL)
+http://str1.hollanddata.eu:8020/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Bright FM Plus (Arnhem Gelderland NL)
+http://str1.hollanddata.eu:8006/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Columbia AM (Aalst Gelderland)
+http://213.202.241.199:8031/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Deltaradio 90 Nijmegen
+http://streamdelta.lokaalradio.nl:9005
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Different Radio 747 AM (Nijkerk)
+http://caster02.streampakket.com:8044/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Dinxper FM (Dinxperlo)
+http://86.81.98.192:8082/1
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Ede FM (Ede)
+https://ms5ic.mx-cd.net/113-661253/Radio_Ede
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Extra FM (Rivierengebied)
+http://cc6.beheerstream.com:8657/;&type=mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Flamingo-Team Achterhoek
+http://86.85.174.181:3500/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",GL8 (Ge: Heumen; Lim: Mook & Middelaar)
+http://stream.rodney.it/gl8media?format=.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Golfbreker Radio (Amersfoort)
+http://185.123.62.250:8002/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",HOT RADIO hits (Arnhem/Huissen Gelderland)
+http://server-25.stream-server.nl:8400
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Ideaal Plus (Lochem)
+https://uniekfm.duckdns.org/radio2/afm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Keizerstad Classics
+https://stream.keizerstad.nl/classics.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Kerkradio Apeldoorn
+http://stream.kerkradioapeldoorn.nl:88/broadwave.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Leuk.fm (Achterhoek Gelderland)
+http://stream.leuk.fm/:stream/1;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Loco FM (Oldebroek)
+http://locofm.shoutcaststream.com:8158/stream/1/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Lokale Omroep Elburg
+https://loestream.nl/vtuner.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Loostad Radio (Apeldoorn)
+http://server-23.stream-server.nl:8476/;&type=mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Love Angel Radio (Beuningen)
+https://caster04.streampakket.com/proxy/9054/stream/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Maximaal FM (Nunspeet Gelderland)
+http://149.210.181.167:8000/;   
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Oké FM  (Bommelerwaard/Altena)
+http://aalburgfm.gkstreamen.nl:80
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Berg en Dal (Berg en Dal)
+https://cc6.beheerstream.com/proxy/bergendal?mp=/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Lingewaard (Huissen. Bemmel. Gendt. Doornenburg. Haalderen. Angeren en Ressen)
+https://live.omroeplingewaard.nl/mid-aac
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Optimaal FM (Doetinchem)
+http://radio.optimaal.fm:9000/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio 1224 (Lunteren Gelderland)
+https://stream.radio1224.nl/1224
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio 794 Epe en Heerde
+http://stream.jammfm.nl:20078/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Achterhoek (Gelderland)
+https://stream.radioachterhoek.nl/ 
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Delta Dinxperlo (Achterhoek)
+https://deltaradio.ddns.net:11010/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Experience (Wageningen. Gelderse Vallei)
+https://totaal-streaming.de:8030/radio2
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Ideaal (Bronckhorst)
+https://ms3ic.mx-cd.net/236-2051376/Ideaal_Radio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Mozaiek (zieken en ouderen in de Liemers Gelderland)
+http://80.57.127.155:8000/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Achterhoek
+https://stream.radionl.fm/rnlachterhoek
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Apeldoorn
+https://stream.radionl.fm/rnlapeldoorn
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Arnhem
+https://stream.radionl.fm/rnlarnhem
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Nijmegen
+https://stream.radionl.fm/rnlnijmegen
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Nunspeet
+http://rtvnunspeet.shoutcaststream.com:8214/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Rijnstreek FM (Wageningen)
+https://centova.verrips.email/proxy/rtvrijnstreek/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Rivierenland (Maasdriel)
+https://server-26.stream-server.nl:8400/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RN7 (Nijmegen)
+https://stream.stream.delivery/rn7
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Apeldoorn (Gelderland)
+http://stream.rtv-apeldoorn.nl:8000/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Connect (Arnhem)
+http://stream.rtv-favoriet.nl:8000/ffm-320-mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Hattem (Hattem)
+https://ice.cr6.streamzilla.xlcdn.com:8000/sz=RTV_Hattem=RadioHattem
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Nunspeet radio (Gelderland)
+http://37.59.195.28:8214/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Nunspeet visual radio (Gelderland)
+https://593aed234297b.streamlock.net/visual_radio/visual_radio/chunklist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Slingeland (Winterswijk Gelderland)
+https://ms3ic.mx-cd.net/105-661267/Slingeland_FM
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Samen1
+https://server-67.stream-server.nl:8752/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Slingeland FM
+https://sleutelstad.radioguys.nl:8443/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",SRC FM – Rivierenland
+https://cc6.beheerstream.com/proxy/src1?mp=/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Studio Rheden (Rheden/Rozendaal)
+https://picy.studiorhedenlive.nl/str
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Team FM Gelderland
+https://stream4.audiostreamen.nl/teamfmgelderland
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Vallei Radio (Utrechtse en Gelderse vallei)
+http://server-25.stream-server.nl:8366/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Veluwe FM
+https://server-51.stream-server.nl:18438/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",VIB Radio (Zevenaar)
+https://stream.vibradio.nl/vib192mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",VIB Radio visual (Zevenaar)
+https://stream.vibradio.nl/vib192mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Voorst Veluwezoom FM
+https://caster04.streampakket.com/proxy/8340/stram
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Overijssel+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_radio.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Oost
+http://streams.rtvoost.nl/audio/oost/mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Oost Alles plat!
+http://mediacdn.rtvoost.nl/icecast/rtvoost/alles-plat-mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",1Twente Enschede
+http://stream1.icehosting.nl:8126/;stream.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",1Twente Hengelo
+http://radiostream.radiohengelotv.nl:8128
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",AAFM (Almelo)
+http://stream.aafm.nl:8000/aafm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Accent FM (Dinkelland/Losser/Oldenzaal/Tubbergen)
+http://stream.accentfm.nl:8091/high
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Alfa Radio (Haaksbergen Overijssel)
+http://luistermee.alfaradio.nl:8732
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Barbados (Enschede)
+http://streamserv41.digipal.nl:8014/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",De Vrije Radio (De Krim)
+https://streamunit.nl:2020/stream/vrijeradio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Delta FM (Overijssel/Twente)
+http://stream.deltafm.nl:8123/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Deltapiraat (Twenterand)
+http://stream.deltafm.nl:8125
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Deventer RTV
+http://stream.mediastaddeventer.nl:8000/mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",DNO Media (editie Overijssel noord)
+https://dnomedia.rtvstream.nl:8046/dno1
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Hitjagersteam (Overijssel)
+https://streamunit.nl:9246/stream192
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Hits4You (Enschede)
+https://ex52.voordeligstreamen.nl/8028/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Hofstreek FM Goor
+http://server-20.stream-server.nl:8818/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",HOi FM (Hellendoorn)
+https://i2.cdn.jetstre.am:8001/sz=Hellendoorn=Hoi
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Hot Radio Hits (Borne Overijssel)
+http://server-25.stream-server.nl:8400/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Joy Radio Twente
+https://stream.joyradio.nl/joyradio-twente
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Koekstad Radio (Deventer)
+https://server-67.stream-server.nl:8788/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",MaiBus Radio (Twente en Achterhoek)
+https://server-67.stream-server.nl:8818/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",NOOS FM (NO Overijssel)
+https://omroepnoos.rtvstream.nl:9049/noos
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Nova Classic Rock (Den Ham Overijssel)
+http://server-51.stream-server.nl:8427/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Olympia Radio
+http://streams.olympia-radio.nl:80/olympia
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",PrismaTeam.nl (Heino/Raalte Overijssel)
+http://server-28.stream-server.nl:8404/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio 350 Rijssen
+https://stream.radio350.nl/live/radio350
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Expansie (Westerhaar-Vriezenveensewijk Overijssel)
+https://everestcast.live-streams.nl:8816/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Focus Nieuwsradio (Zwolle)
+http://185.10.48.127:8088/index.htmll/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Hanzestad (Zwolle)
+https://radiohanzestad.ddns.net/livestream2
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Muziektoppers (Vroomshoop Overijssel)
+https://ex52.voordeligstreamen.nl/8020/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Twenterand (Overijssel)
+https://stream.radiotwenterand.nl/radio/8000/live.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Ommen/Harderberg
+https://stream.radionl.fm/rnlhardenberg
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Twente
+https://stream.radionl.fm/rnltwente
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Zwolle
+https://stream.radionl.fm/rnloverijssel
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RNI Hit Radio (Overdinkel)
+https://everestcast.renshosting.nl/rni3?x=1671229239796
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Borne (Borne)
+http://stream1.icehosting.nl:8124/;stream.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Hattem (Overijssel)
+https://ice.cr6.streamzilla.xlcdn.com:8000/sz=RTV_Hattem=RadioHattem
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV IJsselmond (Kampen. Overijssel)
+https://cdn.omroepserver.nl:8443/rtvijsselmond
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Losser (Overijssel)
+http://mediacp.audiostreamen.nl:8324/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV SLOS (Steenwijkerland. Overijssel)
+https://olon.az.icecast.ebsd.ericsson.net/mix105_steenwijkerland
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Sternet Haaksbergen
+http://stream1.icehosting.nl:1073/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Zwolle FM (Overijssel)
+https://audiostreamen.nl/radiozwolle
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Salland1 (Raalte + Olst-Wije)
+https://stream.and-stuff.nl:8443/live-airplay_320
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Salland 747 (Overijssel)
+https://radio2.stream24.net:8270/live.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Studio TwentsAccent
+https://ruby.torontocast.com:1860/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Team FM Overijssel
+https://stream4.audiostreamen.nl/teamfmoverijssel
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Team FM Twente
+https://stream4.audiostreamen.nl/teamfmtwente
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Vechtdal FM (Dalfsen/Ommen)
+http://stream.vechtdalfm.eu:8000/VechtdalFM.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Vechtdal NL (Dalfsen/Ommen)
+http://stream.vechtdalfm.eu:8000/VechtdalNL.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Vrije Radio Twente (Overijssel)
+http://caster02.streampakket.com:8140/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Zwartewater FM (Zwartewaterland)
+http://zwartewaterfm.shoutcaststream.com:8010/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Zwolle FM
+https://cc5.beheerstream.com/proxy/zwollefm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Utrecht+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_radio.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Utrecht Radio M
+http://media.rtvutrecht.nl/radiomutrecht-bb-mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio M Utrecht
+https://media.rtvutrecht.nl/radiomutrecht-bb-mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Baarn FM (Baarn)
+https://olon.az.icecast.ebsd.ericsson.net/baarn_fm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Bingo FM (Utrecht)
+https://media.rtvutrecht.nl/bingofm-bb-mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Eemland1
+https://streameemland.nl:8000/radio.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",EVA (Amersfoort/Leusden)
+http://stream.mediagroep-eva.nl:8001/radio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Fidelio 891 AM (Driebergen Utrecht)
+http://fidelio.gkstreamen.nl:8006
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Golfbreker Radio Amersfoort
+http://31.186.169.92:8007/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Houten FM (Houten)
+https://icecast.omroephouten.nl:4443/houtenfm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",JINX Radio
+http://streaming.jinxradio.nl/192k-mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Kei FM (Amersfoort)
+http://54.36.89.71:8205/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",LOS (Lokale Omroep Spakenburg Bunschoten)
+https://cc6.beheerstream.com/proxy/radio90fmlive?mp=/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Midland FM (Oudewater)
+https://caster04.streampakket.com/proxy/8216/stream;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Midland FM (Renswoude/Scherpenzeel/Veenendaal/Woudenberg)
+https://stream.rcast.live/62058
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RADIONL editie Utrecht
+http://stream.radionl.fm/rnlutrecht
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Overvecht (Utrecht)
+https://s11.ssl-stream.com/ssl/radio?mp=/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio SBS
+https://solid48.streamupsolutions.com/proxy/radiosbs/radiosbs
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Soest (Utrecht)
+http://77.166.121.227:8000/radiosoest
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Stad Montfoort
+http://qxjr001.digiplay.nl:9038/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Utrecht
+https://stream.radionl.fm/rnlutrecht
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Regio 90 (Utrechtse Heuvelrug/Wijk bij Duurstede)
+https://cc6.beheerstream.com/proxy/radio90fmlive
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Regio FM (Amersfoort)
+http://217.21.199.146:8030
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Roulette FM (Bilthoven)
+http://stream.roulettefm.nl/roulettefm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RPL FM (Woerden)
+https://olon.az.icecast.ebsd.ericsson.net/rpl_fm_woerden
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Baarn (Baarn)
+https://olon.az.icecast.ebsd.ericsson.net/baarn_fm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Ronde Venen (De Ronde Venen)
+https://olon.az.icecast.ebsd.ericsson.net/midpoint_fm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Stichtse Vecht (Stichtse Vecht)
+https://streams.rtvsv.nl:8000/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Seven FM (Veenendaal)
+https://playerservices.streamtheworld.com/api/livestream-redirect/SEVENFM.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Slotstad RTV Zeist
+https://olon.az.icecast.ebsd.ericsson.net/slotstad_fm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Stilok (Veenendaal. Renswoude. Scherpenzeel en Woudenberg)
+https://streaming1.steigerstudios.nl/stilok-mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Stranded FM (Utrecht)
+http://n01.radiojar.com/78cxy6wkxtzuv?listening-from-radio-garden=1668874385&rj-tok=AAABhJCzY_oAbyq9dWFC6-wO9w&rj-ttl=5stranded.fm/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Ultraradio Utrecht
+https://stream1.supremehosting.nl/ultraradio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Vallei Radio (Utrechtse en Gelderse vallei)
+http://server-25.stream-server.nl:8366/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Noord-Holland+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_radio.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",NH (RTV Noord-Holland)
+https://ice.cr6.streamzilla.xlcdn.com:8000/sz=nhnieuws=NHRadio_mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",NH (RTV Noord-Holland)
+https://media.rtvnoord.nl/icecast/rtvnoord/radio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",NH (RTV Noord-Holland) radio visual
+https://rrr.sz.xlcdn.com/?account=nhnieuws&file=nhradio&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",247Spice (Amsterdam)
+https://247spice.mysecurestream.eu/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Aldiana Radio
+https://stream.aldianaradio.nl:8000/aldianaradio.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Aldiana Radio 80’s Channel
+https://stream.moodsense.nl/80.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Aldiana Radio Austria Pop Channel
+https://stream.moodsense.nl/austriapop.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Aldiana Radio Gym Channel
+https://stream.moodsense.nl/gym.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Aldiana Radio Hits Channel
+https://stream.moodsense.nl/hits.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Aldiana Radio Deutschland
+https://stream.moodsense.nl/aldianaradio.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Aldiana Radio Season (Summer) Channel
+https://stream.moodsense.nl/season.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Allsports Radio (Amsterdam)
+https://streaming.hofhosting.nl/proxy/allsports_main?mp=/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Amsterdam Funk Channel
+http://stream.afc.fm:8504/;stream.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",AMW = Amsterdam Most Wanted (Amsterdam)
+http://stream.amw.fm:8000/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Andy’s 80s (Amsterdam)
+http://ct5.fast-serv.com:9844/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Arabnights Radio
+http://arabnights-prod.live-streams.nl:8020/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Ariba The Party Station (Amsterdam)
+https://kathy.torontocast.com:1735/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Beat FM Heiloo
+https://radioheiloo.nl:7443/bfm1
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",CaribbeanFM (Amsterdam)
+https://olon.quortex.ctl.cdn.ebsd.ericsson.net/olonradio/saltocaribbeanfm/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Chill Hits4U Radio (Amsterdam)
+http://fred.torontocast.com:2200/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Cobra Team Radio (Amsterdam)
+http://server-25.stream-server.nl:8496/stream?type=.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Coastline FM (Den Helder e.o.)
+http://onair.coastlinefm.nl
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",CTV 105 (Castricum)
+http://omroepcastricum.ddns.net:8000/128MP3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",DANCE.FM :: The Beat of Amsterdam
+https://streams.dancefm.net/mp3-hq
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",DanceGroove Radio (Amsterdam)
+http://178.63.53.48:31435/;stream.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Dance Radio Amsterdam
+http://stream.danceradio.nl:9920/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Decibel Amsterdam
+http://stream.db962.nl:8030/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",DFM RTV Int. (Amsterdam)
+http://stereo.dfm.nu
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Difference FM (Amsterdam)
+http://zwollefm.shoutcaststream.com:8294/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Disco Classic Radio (Amsterdam)
+http://54.36.89.71:8742/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Doliodoo Radio Amsterdam
+http://caster01.streampakket.com:9074/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Exit Radio (Amsterdam)
+http://stream.double-o-hosting.nl:8000/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Extra AM 1332 Amsterdam
+http://caster04.streampakket.com:8047/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",FOCUS 103
+http://live.focus103.nl:8000/192
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Freak31 (Amsterdam)
+https://stream.31media.net/freak31-hq
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Glass Rock (Amsterdam)
+http://glassrock.live-streams.nl:8007/live?type=.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Gooisch Music (Gooi Noord-Holland)
+https://gooischstream.hofstreaming.nl/proxy/gooisch_main?mp=/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Haarlem 105 Haarlem
+http://stream.haarlem105.nl:8000/haarlem105high.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Haarlem Shuffle (Haarlem Noord-Holland)
+http://stream.haarlem105shuffle.nl:8000/haarlemshufflehigh.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Heemskerk FM
+https://live.omroepheemskerk.nl/hfm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Het Noorder Geluid (Amsterdam)
+http://51.158.153.5:8004/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Het Stamcafé (Hoofddorp)
+https://server-26.stream-server.nl:8812/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Hip Hop Hits (Amsterdam)
+http://hagehosting.com:8200/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Hits4U Radio (Amsterdam)
+https://fred.torontocast.com:2270/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Holland Country Radio (Amsterdam)
+https://stream.hosting078.nl:8074//stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Hollands Radio (Amsterdam)
+https://stream.laut.fm/hollands
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Hoorn Radio AM 828
+http://server-23.stream-server.nl:8382/;audio.mp3?hash=1503401690584
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Hot Dance Radio (Amsterdam)
+http://icecast01.hotdanceradio.com:80/192.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Ideaal FM (Grootebroek)
+https://server-27.stream-server.nl:18564/stream#.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Jamm FM (Ouder-Amstel)
+http://37.97.233.181:8221/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",JINX Radio
+http://streaming.jinxradio.nl/192k-mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Klassieker Uit Je Speaker (Amsterdam)
+http://mediacp.radiowebhost.nl:8018/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Kreisy FM (Amsterdam) latinmuziek. Spaanstalig
+https://streaming.radio.co/s25f9d51ba/listen
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Layzer (Amsterdam)
+https://stream.layzer.nl/layzer.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",LOL Radio (Landsmeer)
+http://94.23.148.11:8092
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",LOVE Radio Volendam
+https://webstream.rtvlove.nl/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",mArt (Amsterdam)
+https://cc5.beheerstream.com/proxy/exoticaradio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Meer Radio Haarlemmermeer
+https://olon.az.icecast.ebsd.ericsson.net/meer_fm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Mix 724 (Hoorn)
+http://stream.mix724.nl:9168/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Music Power Radio (Purmerend)
+http://51.255.121.40:8000/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",NH Gooi Radio
+http://6fm.nl:8000/mp3live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",NL Radio 69 (Amsterdam)
+https://stream.laut.fm/nlradio69
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Nieuwerkerk FM (Nieuwerkerk)
+http://server-25.stream-server.nl:8490
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Noordkop Centraal Radio (Schagen + Hollands Krroon.. Noord-Holland)
+https://radiostreams.streekstadcentraal.nl:9443/noordkop
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Noordkop Radio (Hollands Kroon)
+http://37.59.195.28:8210/;stream.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Oldies Project (Amsterdam)
+http://stream.oldiesproject.com:4000/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Olympia Radio (midden Noord-Holland)
+http://streams.olympia-radio.nl/olympia
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Castricum 105
+http://omroepcastricum.ddns.net:8000/128MP3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",OSU Radio (Uitgeest)
+http://stream.rodney.it/osu?1545245590499
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Paradise FM (Amsterdam)
+https://paradisefm.sincere.cloud/ParadiseFM
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Perfect Moods (Haarlem)
+https://listen.radioking.com/radio/64968/stream/102579
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Pidi Radio gay radio from Amsterdam
+https://tuner.pidiradio.nl/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Pokoe FM (Amsterdam)
+https://sonic.magicdragon.nl/8024/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",PopRockFM
+https://stream192.poprockfm.com:7000/stream.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Power Music Radio (Noord-Scharwoude)
+http://server-66.stream-server.nl:8830/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio 9 Oostzaan Oostzaan
+http://caster01.streampakket.com:9350/sz=radio9oostzaan=Radio-9Oostzaan
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio 80 (Bergen)
+http://81.169.251.143:7600/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio 509 Hilversum
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO509.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Aalsmeer
+http://radioaalsmeer.nl:8000/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Amstelveen (Amstelveen)
+http://server-07.stream-server.nl:8740/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Aroma Natural (Amsterdam)
+http://server-28.stream-server.nl:8506
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Bangsa Jawa (Amsterdam)
+http://caster01.streampakket.com:8189/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Beverwijk (Noord-Holland)
+http://84.22.99.112:80/beverwijk
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio De Blauwe Tegel (Heiloo. Noord-Holland)
+http://radioheiloo.no-ip.info:8000/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Dijk & Waard
+https://radiostreams.streekstadcentraal.nl:9443/05
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Europe (Oostereind)
+http://81.169.171.250:8014/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Monique 918
+https://radiomonique918.radioca.st/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Monique 918
+http://kepler.shoutca.st:8528/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Muziekstad (regio Haarlem. Noord-Holland)
+https://secure.stream.radiomuziekstad.nl/muziekstad.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio NoordZij 107.4 FM
+http://server-23.stream-server.nl:8154/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Nostalgia (Amsterdam)
+https://fred.torontocast.com:1395/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Octaaf (Amsterdam)
+http://shaincast.caster.fm:13536/listen.mp3?authnf0132043155501eabfe3568ee4e14508
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio op zijn kop (Amsterdam)
+http://server-28.stream-server.nl:8824/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Plezier (Amsterdam)
+http://s15.myradiostream.com:15946
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Purmerend Purmerend
+http://stream.zxp.nl:8000/radiopurmerend_bb
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Terranova (Amsterdam)
+http://server-28.stream-server.nl:8914/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Texel
+https://www2.radiotexel.nl/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Amsterdam
+https://stream.radionl.fm/rnlamsterdam
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Noord Holland
+https://stream.radionl.fm/rnlnoordholland
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Razo (Amsterdam)
+http://webradio.razo.nl:8000/razo.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Realdanceradio.nl (Zaanstad)
+http://cc6.beheerstream.com:8458/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Rick FM Amstelland
+http://rickfm.myqnapcloud.com:8000/studio.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Amstelveen
+http://server-07.stream-server.nl:8740/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV IJmond/Heemskerk FM (Noord-Holland)
+https://live.omroepheemskerk.nl/hfm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Seaport (Velsen. Noord-Holland)
+http://stream.radioschermer.nl:8000/rtvseaport
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Salsa Radio Amsterdam
+http://82.94.166.107:8067/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Salto Carribean FM (Amsterdam)
+https://olon.quortex.ctl.cdn.ebsd.ericsson.net/olonradio/saltocaribbeanfm/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Salto Mokum Radio (Amsterdam)
+https://olon.az.icecast.ebsd.ericsson.net/salto_mokum_radio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Salto Radio (Amsterdam)
+https://olon.quortex.ctl.cdn.ebsd.ericsson.net/olonradio/saltostadsfm/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Salto RAZO (Amsterdam)
+https://olon.az.icecast.ebsd.ericsson.net/salto_razo
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Soundtrack Radiostation (Amsterdam)
+https://igor.torontocast.com:1795/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Streekstad Centraal (Dijk en Waard)
+https://radiostreams.streekstadcentraal.nl:9443/01
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Studio DMN (Diemen Noord-Holland)
+https://stream.it-facilities.be:9006/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Svensk Folkmusik AkkA (Zaandam)
+http://mediaserv38.live-streams.nl:8107/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",TLIG Radio (Amsterdam)
+https://stream.galaxywebsolutions.com/proxy/tligradio_nl?mp=/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Varia FM (Amsterdam)
+http://streamunit.nl:9031/varia192
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Waterland Radio (Purmerend Noord-Holland)
+http://80.69.86.154:8000/pro_bb
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",WEEFF (Drechterland/Enkhuizen/Hoorn/Koggenland/Medemblik/Opmeer/Stede Broec)
+https://ice.cr1.streamzilla.xlcdn.com:8000/sz=weeff=weeffradio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Wild FM (Flevoland + Noord-Holland)
+http://149.210.223.94/wildfm.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",X-Clusief FM ('s-Graveland)
+http://82.94.204.107:8000/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",XT Radio (Amsterdam)
+https://xtrad.io/high
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ZFM (Zandvoort)
+https://icecast.bytesheep.net/zfmzandvoort.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Zuid-Holland+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_radio.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep West
+http://icecast.stream.bbvms.com/omroepwest_radio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Rijnmond
+https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Rijnmond Extra
+http://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-extra-mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",A.I.R. De Nachtegaal (Delft)
+http://hazel.torontocast.com:3190/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Albrandswaard FM
+https://stream.hosting078.nl:8024/studio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Amor FM Rotterdam
+https://amorfm_192.streampartner.nl/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ATOS RTV (Zwijndrecht/Hendrik-Ido-Ambacht)
+https://stream.atosrtv.nl:5000/streamhq
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",BO – de omroep van de Bollenstreek
+https://stream.bollenstreekomroep.nl/live-mp3-192-stereo
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",BR6 (Bodegraven/Reeuwijk. Zuid-Holland)
+https://qxjr001.digiplay.nl/stream/9160/stream/1/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Channel X (Rotterdam)
+http://shoutcast6.wirelessantwerpen.be:8346
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Chill-Out Radio Gaia (Delft)
+http://fred.torontocast.com:2160/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Dance Radio Den Haag
+http://server5.radio-streams.net:8065/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Den Haag FM Den Haag
+http://82.94.205.122/proxy/haagseomroep?mp=/denhaagfm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Den Haag Totaal Den Haag
+http://82.94.205.122/proxy/haagseomroep?mp=/denhaagtotaal
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Dream Stream Radio Rotterdam (Zuid-Holland)
+https://sonic.magicdragon.nl:7020/stream.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Drechtstad FM Dordrecht
+https://ms3ic.mx-cd.net/107-660395/drechtstad_FM
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Exclusive Radio (Den Haag. Zuid-Holland)
+http://82.94.204.107:8000/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Exxact (Barendrecht)
+http://live.exxact.nl
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Feel Good Radio (Pijnacker-Nootdorp/Rijswijk)
+http://live.feelgoodradio.eu:8344/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Feel Good Radio 60's & 70's hits (Pijnacker-Nootdorp/Rijswijk)
+https://cc5.beheerstream.com/proxy/feelgoodmedia3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",FlakkeeNieuwsRadio
+https://server-28.stream-server.nl:8872/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Flux FM (Rotterdam)
+https://stream3.mfmstreaming.nl/fluxfm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Free Radio Rotterdam
+https://streams.freeradiorotterdam.nl:9443/freeradiorotterdam;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",GirlPower Radio
+http://solid67.streamupsolutions.com:15527/Girlpower
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",GirlPower Radio Zuid-Holland
+https://solid41.streamupsolutions.com/proxy/toyfkozk?mp=/stream/2/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Golden Oldies Radio
+https://sonic.magicdragon.nl:7016/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Gouda FM (Gouda)
+https://ca2ssl.rcast.net/stream/65065/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Gouwestad FM (Gouda)
+https://stream2.mfmstreaming.nl/8020/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",HappyAM (Den Haag)
+https://sonic.magicdragon.nl/8036/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Havenstad Radio Rotterdam
+http://mediaserv33.live-streams.nl:8056/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Hitradioloz uit Leiden (Leiden)
+http://37.59.195.28:8066/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Hofstad Radio (Den Haag en regio. Zuid-Holland. NL)
+https://solid41.streamupsolutions.com/proxy/toyfkozk?mp=/stream/1/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Hollands Palet (Den Haag)
+http://mediaserv21.live-streams.nl:8061/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Impact AM (Leiden Zuid-Holland)
+http://www.kippingmultimediaal.nl:8000/impactweb
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",IndianBeats (Delft)
+http://hazel.torontocast.com:1655
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Intergalectic FM Cybernetic Broadcasting System (Den Haag)
+https://radio.intergalactic.fm/1
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Intergalectic FM Disco Fetish (Den Haag)
+https://radio.intergalactic.fm/2
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Intergalectic FM Dream Machine (Den Haag)
+https://radio.intergalactic.fm/3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ISKC Radio Group Blues Cafe (Rotterdam)
+http://mediaserv68.live-streams.nl:8012/BluesCafe
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ISKC Radio Group Extreme Metal (Rotterdam)
+http://mediaserv68.live-streams.nl:8012/ExtremeMetal
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ISKC Radio Group Hardrock Channel (Rotterdam)
+http://mediaserv68.live-streams.nl:8012/HardRockChannel
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ISKC Radio Group Old Men's Rock (Rotterdam)
+http://mediaserv68.live-streams.nl:8012/OldMenRock
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ISKC Radio Group Only Live (Rotterdam)
+http://mediaserv68.live-streams.nl:8012/OnlyLive
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ISKC Radio Group RadioActive (Rotterdam)
+http://mediaserv68.live-streams.nl:8012/RadioActive
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ISKC Radio Group Radio XXL (Rotterdam)
+http://mediaserv68.live-streams.nl:8012/XXL
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ISKC Radio Group Rock Radio (Rotterdam)
+http://mediaserv68.live-streams.nl:8012/RockRadio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ISKC Radio Group RPO (Rotterdam)
+http://mediaserv68.live-streams.nl:8012/RockRadio2
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Jacks World Radio (Rotterdam)
+http://caster02.streampakket.com:8066/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Kilrock (Dordsche Kil)
+http://mediaserv30.live-streams.nl:8013/high
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Kiss FM (Zoetermeer)
+http://stream.kiss-fm.nl:9502/KissFM
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Klokradio (Alblasserdam/Molenwaard)
+https://cc5.beheerstream.com/proxy/klokradio?mp=/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Lansingerland FM (Lansingerland)
+http://145.53.208.11:8300/audiostream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Linq Media (Voorne aan Zee)
+https://ms2.mx-cd.net/dtv-21/246-2090024/Linq_Media_Radio.smil/chunklist_w217072286_b131072_ao_slNLD.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",LOK Radio (Krimpen aan den IJssel)
+http://live.lokaleomroepkrimpen.nl
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Maasbach Radio (Den Haag)
+http://stream.maasbachradio.com:8064/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",MCB Radio (Alphen aan den Rijn Zuid-Holland)
+https://mscp2.live-streams.nl:8002/live.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",MerweRTV (Sliedrecht/Hardinxveld-Giessendam)
+http://stream.deejays.nl:8000/merweradio.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Midvlied Radio (Leidschendam-Voorburg/Wassenaar)
+http://midvliet.shoutcaststream.com:8210/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Nashville FM (Rotterdam)
+https://nashvillefm.stream-server.nl:8300/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Nova Classic Rock The Hague
+http://mediaserv68.live-streams.nl:8070/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Hoeksche Waard (Puttershoek. Hoeksche Waard. Z-H)
+https://ice.cr1.streamzilla.xlcdn.com:8000/sz=stichtingomroephoekschewaard=radiohw
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Midvliet
+http://midvliet.shoutcaststream.com:8210/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Vlaardingen (Vlaardingen)
+https://mediacp.audiostreamen.nl:8148/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Operator-Radio (Rotterdam)
+http://www.michielgardner.nl:8000/operator
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Paprika Tasty Radio
+http://mediaserv33.live-streams.nl:8053/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Pro FM (Waddinxveen)
+http://81.23.235.131:8200/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Pure Radio Holland Rap & HIP-HOP Channel (Rotterdam)
+http://centova.pure-isp.eu:8100/high
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio 078 Dordrecht
+http://radio078.shoutcaststream.com:8244/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio 182 (Midden Holland)
+https://player.radio182.nl/proxy/radio182/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio 972 (|Randstad)
+https://solid41.streamupsolutions.com/proxy/toyfkozk?mp=/stream/4/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Atlantis Rotterdam
+http://e10052.cloudrad.io:8740/;?_=0.5973765786449408
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Baccara (Rijswijk)
+http://213.202.241.199:9530/stream.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Bodegraven (Bodegraven-Reeuwijk)
+https://qxjr001.digiplay.nl/stream/9160/stream/1/ Nieuwe Naam BR6
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Capelle Capelle a/d IJssel
+http://live.radiocapelle.nl:8000/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Centraal (Den Haag)
+http://82.94.166.107:8015/tunein/centraal
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio City International (Den Haag Zuid-Holland)
+http://94.228.133.3:8381/;stream/1
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Cor (Maassluis)
+https://proxy.live-streams.nl/radiocor
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio De Erker (wijkcentrum in Schiedam)
+http://live.radiostreamserver.nl:8820/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio De Glazen Stad (Monster)
+http://94.23.148.11:8208
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Erasmus (Rotterdam)
+https://rcast.live/stream/64788.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Erasmus (Rotterdam) via JUKE
+https://caster04.streampakket.com/proxy/8636/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Exclusief (Pijnacker)
+http://radioexclusiefpijnacker.nl:8000/320
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Fantasy Rotterdam
+http://caster04.streampakket.com:8024/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Goud van Oud (Rotterdam)
+http://server-23.stream-server.nl:8118/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Hoekse Waard (Binnenmaas/Cromstrijen/Korendijk/Oud-Beijerland/Strijen)
+https://ice.cr1.streamzilla.xlcdn.com:8000/sz=stichtingomroephoekschewaard=radiohw
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Israël.nl (Den Haag)
+http://media01.streampartner.nl:8000/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Leiden (Leiden)
+http://mediaserv38.live-streams.nl:8054/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio NRG Haaglanden (Zuid-Holland)
+https://solid41.streamupsolutions.com/proxy/toyfkozk?mp=/stream/6/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Reino Di Dios (Rotterdam)
+https://mediaserv73.live-streams.nl:18018/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Ridderkerk
+http://213.127.140.102:8014/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Sangam (Den Haag)
+http://stream2.iqhosted.nl:8000/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Stad Den Haag (Den Haag en 'wereldwijd')
+http://94.228.133.3/stream/1/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Superstar (Middelharnis Zuid-Holland)
+http://www.kippingmultimediaal.nl:8000/superMP3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Zuid Holland
+https://stream.radionl.fm/rnlzuidholland
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RAM FM Eighties Hit Radio (Dordrecht)
+http://ramfm.shoutcaststream.com:8513/;stream/1
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Razo (Delft)
+http://webradio.razo.nl:8000/razo.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Ridderkerk FM
+http://stream.ridderkerkfm.nl:8000/_a
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Rolleman Radio (Rotterdam)
+https://server-67.stream-server.nl:8798/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Gouwestad Gouda
+https://stream2.mfmstreaming.nl/8020/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Hollands Midden Ter Aar
+https://securestream2.digipal.nl:1805/;stream.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Katwijk (Katwijk)
+https://stream.rtvkatwijk.nl:8000/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Krimpenerwaard
+https://olon.az.icecast.ebsd.ericsson.net/rtv_krimpenerwaard
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Lansingerland (Zuid-Holland)
+https://streaming-outbound-audio-01.rtvlansingerland.nl/audiostream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Papendrecht (Papendrecht)
+https://icecast.rtvpapendrecht.nl/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Slogo (Goeree-Overflakkee)
+http://radio.rtvslogo.nl:8000/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTW FM (Waddinxveen)
+http://cc3b.beheerstream.com:8054/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Schie FM (Schiedam)
+https://olon.az.icecast.ebsd.ericsson.net/schie_fm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Sleutelstad FM (Leiden)
+https://sleutelstad.radioguys.nl:8443/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Stads Radio Delft FM (Delft)
+http://mediaserv30.live-streams.nl:8006/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Stadsradio (Rotterdam)
+https://sonic.magicdragon.nl/8044/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Stanvaste Radio. 107.9 FM. Rotterdam
+http://stanvasteradio.gkstreamen.nl:8120/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Studio Alphen (Alphen aan den Rijn)
+https://olon.az.icecast.ebsd.ericsson.net/studio_alphen
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Studio Kaag en Braassem (Kaag en Braassem)
+https://caster04.streampakket.com/proxy/8420/stream1
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",SunriseFM (Randstad)
+http://stream.sunrisefm.nl:9600/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",SurfRadio Music (Monster Zuid-Holland)
+http://streams.radionorthsea.nl:8000/128.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Sweet Radio (Rotterdam)
+http://cdn.tvoetoradio.net:8000/HD
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Sweet Rock Radio (Den Haag)
+http://mscp4.live-streams.nl:8190/live.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Synthetic FM Synth ('s-Gravenzande)
+https://mediaserv38.live-streams.nl:18040/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Thuisradio-FM (Strijen Zuid-Holland)
+https://stream.hostinggold.eu:1145/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Trend FM (Den Haag)
+https://trendfm.live-streams.nl:18030/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Unity FM Leiden e.o.
+http://icecast.unityfm.nl/unityfm.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Unity NL Leiden e.o.
+http://icecast.unityfm.nl/unitynl.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Vahon FM hindi (Den Haag)
+https://onlineradio.websoftitnepal.com/8030/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",WOS Radio 's-Gravenzande
+https://ms3ic.mx-cd.net/99-661261/Radio_WOS
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ZAP! FM (Hendrik Ido Ambacht Zuid-Holland)
+http://zapstream.nl/stream/1/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ZFM 107.6 Zoetermeer
+http://www.kippingmultimediaal.nl:8000/ZFMmobiel
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ZFM Zoetermeer (Zoetermeer)
+http://kippingmultimediaal.nl:8000/ZFMmobiel
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ZOS Radio (Schiedam)
+http://zosipv6radio.live-streams.nl:8100/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Zeeland+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_radio.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Zeeland
+http://livestream.zeelandnet.nl:8000/omroepzeeland_radio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Zeeland
+http://livestream.zeelandnet.nl:8000/omroepzeeland_radio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",GO-FM (Terneuzen)
+http://cc3b.beheerstream.com:8076/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",GO-FM  visual (Terneuzen)
+https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/chunklist_w161467936.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Happy AM 1395 (Middelburg Zeeland)
+http://sonic.magicdragon.nl/8036/stream 
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Tholen Tholen
+http://stream.click2.nl:8065/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Caroline 319
+http://stream.scheldemondfm.nl:8192/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Goldenwave (Vlissingen)
+https://mscp3.live-streams.nl:8072/radio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio de Honte (Terneuzen)
+http://185.142.142.40:8008/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio De Honte Huisomroep ZorgSaam Zorggroep Zeeuws-Vlaanderen
+http://185.142.142.40:8008/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Monique 963 (Breskens)
+http://46.165.208.21:8270/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Monique 963 (Breskens)
+http://rcgoldserver.de:8003/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Monique 963 Gold (Breskens. Zeeland)
+http://www.rmgoldserver.eu:8963
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Schouwen-Duiveland Zierikzee
+https://s32.myradiostream.com/17098/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Zeeland
+https://stream.radionl.fm/rnlzeeland
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Scheldemond (Oostburg Zeeland)
+http://stream.scheldemondfm.nl:8200/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",SOB FM Streekomroep De Bevelanden (Beveland Zeeland)
+http://stream.sobfm.nl:8686/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Vintage Music Radio 1485 AM (Vlissingen Zeeland)
+https://jenny.torontocast.com:8120/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",WFM96 (Middelburg. Veere. Vlissingen Walcheren)
+https://rbx2.hnux.com/http://149.202.22.75:8120/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Noord-Brabant+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_radio.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Brabant
+https://streaming.omroepbrabant.nl/mp3hq
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",076Radio (Breda e.o. Noord-Brabant)
+https://live.hostingbudget.nl:1225/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",077 Radio (Meijel Noord-Brabant)
+http://077radio.stream.laut.fm/077radio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",077 Radio 60XL (Meijel Noord-Brabant)
+https://strw1.openstream.co/749
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",077 Radio 80XL (Meijel Noord-Brabant)
+https://strw1.openstream.co/713
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",077 Radio Laut (Meijel Noord-Brabant)
+https://strw1.openstream.co/264
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",2FM (Hulten Noord-Brabant)
+https://2fm.nl/ic2fm//main
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",2FM Retro (Hulten Noord-Brabant)
+https://2fm.nl/ic2fmretro//retro
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",BredaNu (Noord-Brabant)
+https://icecast.bredanu.nl/high
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",BredaNu visual radio soms (Noord-Brabant)
+http://rtmp.bredanu.nl/live/visualradio_480p1128kbs/index.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",C-Dance RETRO (Woensdrecht Noord-Brabant)
+http://198.100.145.187:18304/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Centrum radio (Valkenswaard)
+http://stream.centrumradio.eu/centrumradio.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Columbia AM (Aalst Noord-Brabant)
+http://213.202.241.199:8031/;?1551116284570
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Helmond = Dit is Helmond Radio
+http://stream.omroephelmond.nl:8024/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",DMG Radio  (Deurne Media Groep Brabant)
+http://s22.myradiostream.com:13628
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Double Z Radio Valkenswaard
+https://stream1.dzradio.nl/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Een FM  (Oirschot)
+http://s38.myradiostream.com:6344/listen.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Efteling Kids Radio (Kaatsheuvel Noord-Brabant)
+https://ice.cr2.streamzilla.xlcdn.com:8000/sz=efteling=hdstream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Flex Radio (Uden)
+http://caster02.streampakket.com:8384/FlexRadioMP3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",FriendTastic Radio (Werkendam Noord-Brabant)
+https://server-26.stream-server.nl:8652/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",GLOW FM (Eindhoven)
+https://stream.glowfm.nl/glowfm.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Hot FM (Tilburg)
+http://barstream.bootz.nu:8000/Hotfm
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",HTR Radio  (Heusden)
+http://stream.htrradio.nl:8010/HTRradio320
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",jungletrain.net (Veldhoven Noord-Brabant)
+http://stream5.jungletrain.net:8000/;stream/1
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Just Music en Waanzin (Eindhoven e.o.)
+https://server-26.stream-server.nl:8632/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Kempen FM (Hapert)
+https://mediacp.audiostreamen.nl/musicbiz
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",KommuS Radio (Geldrop-Mierlo. Noord-Brabant)
+http://stream.kommusradio.nl/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Langstraat FM  (Waalwijk)
+http://mediaserv38.live-streams.nl:8026/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Langstraat NL (Waalwijk e.o.)
+https://mediaserv30.live-streams.nl:18001/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Lichtstad Radio
+https://securestream.digipal.nl:1687/;luister.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",LikeNL (Den Bosch)
+https://stream.mfmstreaming.nl:1815/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Lokaal 7 (Sint-Michielsgestel)
+http://stream.lokaal7.nl/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Lokale Omroep Baarle (Baarle-Nassau)
+http://s40.myradiostream.com:21042/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Lokale Omroep Goirle (Goirle)
+http://stream.click2.nl:8015
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Memories 1251 AM (Geffen)
+http://caster04.streampakket.com:9348/listen.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",MFM Brabant
+https://ice.cr5.streamzilla.xlcdn.com:8001/sz=dtvmaasland=mfm1
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",NOVO3 (Vught)
+https://totaal-streaming.de/radio/8040/320
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",OKË FM (Bommelerwaard Noord-Brabant)
+http://aalburgfm.gkstreamen.nl/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Baarle  (Baarle-Nassau)
+http://s40.myradiostream.com:21042/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Best (Best)
+http://109.235.33.237:8000/omroep.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Drimmelen
+https://olon.az.icecast.ebsd.ericsson.net/omroep_drimmelen
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Helmond = Dit is Helmond Radio
+http://stream.omroephelmond.nl:8024/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep LVC – Land van Cuyk
+https://olon.az.icecast.ebsd.ericsson.net/land_van_cuijk
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Meierij (Meierijstad)
+https://totaal-streaming.de/radio/8060/radio.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep PeelRand (Gemert-Bakel en Laarbeek)
+https://ms3ic.mx-cd.net/153-661255/Radio_Peel_en_Maas
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Tilburg (Noord-Brabant)
+https://ms5ic.mx-cd.net/184-782332/Omroep_Tilburg_Radio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Veldhoven
+http://77.166.186.207:8000/Veldhoven
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Ons West Brabant (Moerdijk eo)
+http://media1.onswestbrabant.nl:8000/OWBLiveMP3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ORTS Oosterhout
+https://ms3ic.mx-cd.net/200-1272374/Radio_ORTS
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",OSR 920 (Meierijstad)
+https://sonic.magicdragon.nl/8012/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Palermo BE NL (BE-Antwerpen en NL-Noord-Brabant)
+http://zenasrp.com/radio/8010/radio.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Pinguin on the Rocks (Eindhoven)
+https://streams.pinguinradio.com/PinguinOnTheRocks192.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Podcast Radio (Oosterhout Noord-Brabant)
+http://node-14.zeno.fm/x6b31ywr45quv  
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Polderpop Radio
+https://server-51.stream-server.nl:18431/;
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Punt 24 (Cranendonck. Heeze-Leende. Valkenswaard)
+http://media1.hostin.cc/punt24.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Pureradio.one (Waalwijk Noord-Brabant)
+http://listento.pureradio.one:8000/pure_192
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio 4 Brainport (Eindhoven)
+http://server-67.stream-server.nl:8852/stream/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio 10 Brabant
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10BRABANT.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio73 ('regio Vught/s-Hertogenbosch)
+http://91.224.242.202:80/radio73
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio A-FM (Werkendam/Woudrichem)
+http://stream.radioafm.nl:8000/afm128
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Atlantica Breda
+http://caster05.streampakket.com:9056/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Bonita (Tilburg)
+https://live.hostingbudget.nl:1045/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Eileen (Eindhoven)
+http://radioeileen.ddns.net:8000/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Goud Van Oud (Eindhoven)
+https://server-23.stream-server.nl:18118/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Hoevenseveld (Uden Noord-Brabant)
+https://nulive.radio-hoevenseveld.eu:1045/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Horizon (Heeze-Leende)
+https://www.rtvhorizon.nl/radiostream/mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio JND (Eindhoven e.o.)
+https://stream.radiojnd.nl/radiojnd.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio JND visueel (Eindhoven e.o.)
+https://video.radiojnd.nl/radiojnd/radiojnd/chunklist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio JND Classics (Best)
+https://stream.radiojnd.nl/radiojnd-classics.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Kruisland
+http://server-16.stream-server.nl:8422
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Oranje (Breda)
+http://vstream01.digipal.nl:8004/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Reality FM (Oss)
+https://everestcast.live-streams.nl:8696/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Regionaal (Oss)
+http://213.202.241.176:8020/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Rucphen (Rucphen Noord-Brabant)
+https://i2.cdn.jetstre.am:8001/sz=RuchpenRTV=RucphenRadio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio S&B (Son en Breugel)
+https://caster05.streampakket.com/proxy/8213/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Santana Breda (Noord-Brabant)
+http://82.94.205.106:8009/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Scout FM (Loon Op Zand)
+http://barstream.bootz.nu:8000/ScoutFM
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Stad Roosendaal
+http://stream.radiostadroosendaal.nl:8404/;stream.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Starlight
+http://81.204.18.78:8090/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Studio Lunet (Ehv. ma-vr 13.00-15.45 uur)
+https://server-28.stream-server.nl:8900/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Suc6fm (Zundert)
+https://stream2.mfmstreaming.nl/8022/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Tilburgcity
+https://everestcast3.spotstreaming.nl:1155/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Midden Brabant
+https://stream.radionl.fm/rnlmiddenbrabant
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Noordoost Brabant
+https://stream.radionl.fm/rnlnoordoostbrabant
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie West Brabant
+https://stream.radionl.fm/rnlwestbrabant
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RadioNL Editie Zuidoost Brabant
+https://stream.radionl.fm/rnlzuidoostbrabant
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Rararadio (webcam studio) Eindhoven vrij-mo
+https://58c04fb1d143f.streamlock.net/rararadio/rararadio/chunklist.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ROS Radio (Zundert. BN-Br)
+https://stream-server.ros-radio.nl:2020/stream/ros-radio/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV SLOS (Steenbergen)
+https://ice.cr6.streamzilla.xlcdn.com:8001/sz=SLOSteenbergen=SLOS
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Rucphen FM (Rucphen Noord-Brabant)
+https://i2.cdn.jetstre.am:8001/sz=RuchpenRTV=RucphenRadio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Siris (Asten/Someren)
+http://streamservice.siris.nl:8000
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",SLOG Radio (Geertruidenberg)
+http://5.102.141.42:8000/Slog.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",SLOS radio (Steenbergen Noord-Brabant)
+https://ice.cr6.streamzilla.xlcdn.com:8001/sz=SLOSteenbergen=SLOS
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Studio040 (Eindhoven)
+https://stream.studio040.nl/studio040.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Synthetic FM (Tilburg Noord-Brabant)
+https://mediaserv38.live-streams.nl:18040/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",The Oldie Station (Eindhoven)
+http://theoldiestation.dyndns.org:8010/1
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",VLOH Radio  (Hilvarenbeek)
+https://stream.vlohradio.nl/vlohradio.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",VOS (Lokale Omroep Valkenswaard)
+https://mscp2.live-streams.nl:8272/vosfm.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",West End Radio (Meireijstad)
+https://streamer.hosting078.nl:1155/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ZuidWest FM (Bergen op Zoom/Roosendaal/Woensdrecht)
+http://icecast.zuidwestfm.nl/zuidwest.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",+++Limburg+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_radio.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",L1 Radio
+http://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",L1 Radio-  Plat-eweg
+http://d34pj260kw1xmk.cloudfront.net/icecast/l1/plat-eweg-bb-mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",L1 Radio-  L11 AlaafRadio
+https://d34pj260kw1xmk.cloudfront.net/icecast/l1/L11Alaaf
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",077 Radio 60XL (Meijel)
+https://strw1.openstream.co/749
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",3Heuvelland
+https://caster04.streampakket.com/proxy/8115/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Alex FM Roermond
+https://node-13.zeno.fm/de1sqds6wp8uv
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Bie Os Westelijke Mijnstreek (Limburg)
+https://olon.az.icecast.ebsd.ericsson.net/bieos_mijn_streekomroep
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Bluestar Radio (Venlo Limburg)
+http://bluestarradio.stream.laut.fm/bluestarradio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Carnaval Radio (Limburg)
+http://185.80.220.12/proxy/scarna00?mp=/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Falcon Radio  (Valkenburg aan de Geul)
+http://server-16.stream-server.nl:8926
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",GL8 (Gelderland: Heumen; Limburg: Mook & Middelaar)
+http://stream.rodney.it/gl8media?format=.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",GrenzRadio (Siebengewald)
+https://server6.inetcast.nl:1715/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Heuvellandexpress (NL LImburg)
+https://server-51.stream-server.nl:18340/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",higher power radio
+http://server-27.stream-server.nl:8388/
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Maasland Gold (Limburg noord)
+http://178.20.171.34:8052/;stream.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Maasland Radio (Limburg noord)
+http://54.36.89.71:8006/;stream.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Meer FM  (Meerssen)
+http://cc6.beheerstream.com:8693/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ML5 Radio Live
+https://ms3ic.mx-cd.net/204-1147050/3ML_Radio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep 3ML (Heythuyzen e.o.)
+https://ms3ic.mx-cd.net/204-1147050/3ML_Radio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Horst aan de Maas
+https://ms2.mx-cd.net/radio/157-660305/Omroep_Horst_aan_de_Maas.smil/chunklist_w1984791678_b131072_ao_slNLD.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep P&M Panningen
+https://ms3ic.mx-cd.net/153-661255/Radio_Peel_en_Maas
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Venlo  (Venlo)
+https://olon.az.icecast.ebsd.ericsson.net/omroep_venlo
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Venray 1
+https://icecast.omroepvenray.nl/lov.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Venray 2
+https://olon.quortex.ctl.cdn.ebsd.ericsson.net/olonradio/omroepvenrayradio/master.m3u8
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Qmusic Limburg
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_qlmb.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Dracarys & Sings (Heerlen)
+https://stream.laut.fm/radiodracarys-and-sings
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Excellent (Haag)
+https://stream.excellentfm.nl/live
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Ideaal (Berg aan de Maas)
+https://ms3ic.mx-cd.net/236-2051376/Ideaal_Radio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio K69 (Roermond LImburg)
+http://k69.mine.nu:8000/;stream.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Limburgia
+https://s5.ssl-stream.com/stream/radiolimburgia
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Maasduinen (Limburg)
+http://178.20.171.36:8052/;stream.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Sevagram (ziekenomroep. Heerlen Limburg)
+https://digistreamer.nl:8020/radio.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Venloosch
+https://stream.laut.fm/radiovenloosch
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Venlostedje (Venlo)
+https://stream.laut.fm/venlostedje
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Radio Zuyd (Heerlen)
+http://radiozuyd.shoutcaststream.com:8199/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Maastricht (Limburg)
+http://stream.rtvmaastricht.nl:8081/rtv/radio_audio/icecast.audio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",RTV Parkstad  (Heerlen/Kerkrade/Simpelveld/Voerendaal)
+https://stream.rtvparkstad.nl/rtvparkstad.mp3
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",SOL2 (Streekomroep Limburg)
+https://live.i-novativeradio.com/sol2
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Tirolia-Express (NL Limburg)
+https://server-28.stream-server.nl:8846/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Weert FM
+http://weertfm.mooo.com:9000/omnia9.mp2
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",ZO-NWS (regio Beekdaelen en Brunssum (Limburg)
+http://olon.az.icecast.ebsd.ericsson.net/loo_radio
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",++diversen++
+https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_radio.mp4
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Studio Grensstad (BE en NL)
+http://213.202.241.199:8065/stream
+#EXTINF:-1 group-title="Stream NL regionaal & lokaal",Studio Grensstad (BE en NL)
+https://stream3.mfmstreaming.nl:2390/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",++Stream NL Piratenmuziek++
+https://pvdl.keybase.pub/m3u8/intros/streamnlpiratenmuziek_radio.mp4
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Accent-FM
+http://caster02.streampakket.com:8091/high
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Albatros en Patricia
+http://195.154.168.210:8034/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Bellamia Radio (NL piraten)
+http://server-16.stream-server.nl:8452/;?1535467952659
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Bellamy FM (Arnhem)
+http://5.135.155.45:8010/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Bentelose Winter formatie
+http://stream.etherpiraten.com:8084/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Bestehits.nl
+http://luister.bestehits.nl/stream96
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Blauwe Duif
+http://185.224.89.202:8004
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Brugwachters-Fryslan.nl
+http://84.82.76.235:8139/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Club Bar en Boos (Piraten NL)
+http://178.251.26.216:8072/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Cobra Team Radio (NL-piraten)
+http://server-25.stream-server.nl:8496/stream?type=.mp3/;stream.mp3
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Completeteam (NL + NL piraten)
+http://server-23.stream-server.nl:8474/;stream.mp3     
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",De Beste Piratenhits
+https://radio.streampanel.nl:1445/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",De Hollandse Piraten Gigant
+https://securestream2.digipal.nl:1813/;type=mp3
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",De Kwakkeloars
+http://213.202.241.199:8366/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",De Piraten Familie (De Bilt)
+http://stream1.icehosting.nl:8492
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",De Piraten Gigant (Den Bosch)
+http://server-06.stream-server.nl:8402/stream;?1546532491045
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",De Piratenclub
+http://213.202.241.176:8417/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",De Veluwse Piraten
+http://server-26.stream-server.nl:8624/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",De Vrije Radio (De Krim)
+https://streamunit.nl:2020/stream/vrijeradio
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",De Vrolijke Etherkrakers
+http://195.154.168.210:8069
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",De Vrolijke Piraat
+https://stream.vrolijkepiraat.nl/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",delta fm
+http://stream.deltafm.nl:8125/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Deltapiraat (Twenteland)
+http://stream.deltafm.nl:8125
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Double-Z
+https://stream1.dzradio.nl/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Drentse piratencombinatie
+http://176.31.224.21:8726/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Drentsepiraten
+https://streamunit.nl:9214/drentsepiraten192
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",drentsepiratenhits
+http://213.202.241.199:8328/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Echtepiratennl-Mobiel
+http://213.202.241.199:8318/stream2
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Fantastico Radio (piraten)
+http://server-23.stream-server.nl:8106
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Firma B&M en Uitschot-FM
+https://server-67.stream-server.nl:8776/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Firma B.K.R.
+http://srv2.marinuske.nl:8000/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",FIRMA D&D
+http://85.214.89.106:9020/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Firma Starfighter
+http://95.211.206.80:8004
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Flamingo Radio (NL piraten)
+http://server-28.stream-server.nl:8660/;stream.mp3
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Flippers Radio
+http://213.202.241.199:8600/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",FluxFM
+http://cc6.beheerstream.com:8663/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Fryske Rakkers
+http://centova.audiostreamhosting.nl:8129/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Garnwerd Radio
+http://garnwerdradio.gkstreamen.nl:80
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Gewoon FM Gewoon Gezellig
+http://server-66.stream-server.nl:8832/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Gewoon Piraten Team
+https://server-67.stream-server.nl:8802/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Gigant FM (Groningen + Drenthe)
+http://178.19.116.253/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Gigant FM- Kijk live in de studio (Groningen + Drenthe)
+https://streams.uitzending.tv/gigantfm/gigantfm/playlist.m3u8
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Gigantenteam (NL- piraten)
+http://caster05.streampakket.com:9386/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Golden Music Stream
+https://stream.rcast.net/200075
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Gouden Adelaar FM (NL piraten)
+http://46.17.5.73:8754/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Goudenpiratenhits.nl
+http://178.19.116.3:8026/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Happy Radio
+http://server-25.stream-server.nl:8414/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Heerlijk Holllands
+http://server-25.stream-server.nl:8542/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",het kanon van almelo
+http://83.149.126.29:8012/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Het Noorder Team (Stadskanaal)
+http://het-noorder-team.ic-stream.nl:6052/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Het Noorder Team
+http://178.19.114.74:6052/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Het Zwols Piraten Team (Zwolle)
+http://audiostreamen.nl:8068/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Hit AM (Zwartemeer)
+https://stream.streamhits.nl/stream/1/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Hitgolf
+http://server-28.stream-server.nl:8968/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",hitlandradio.nl
+http://server-23.stream-server.nl:8510/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Hitsjagerstream.nl
+http://46.17.5.73:8774/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Hitstream.Fm
+http://77.161.211.219:443/;
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Hitstream.Fm
+http://77.161.211.219:443/stream/2/;
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",HitstreamFM
+http://77.161.211.219:9004
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Holland-FM---Zo-Hollands-is-er-maar-1
+http://qxjr001.digiplay.nl:9070
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Hollands Palet
+http://82.94.204.110:8061/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",HollandsePiratenCombinatie
+http://listen.radionomy.com:80/HollandsePiratenCombinatie
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Jabboradiomeppel
+http://78.129.190.50:3008
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",kanon van de veluwe
+http://server-66.stream-server.nl:8874/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Kermit-Radio-NL
+http://listen.radionomy.com:80/KermitRadioNL
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Kleine Piraat
+http://kleinepiraat.ic-stream.nl:7030/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",KZ Radio (Kleine Zwerver) NL-piraten
+http://213.202.241.176:8159/stream.mp3
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Leeuwarder Piraten Van Toen
+https://server-26.stream-server.nl:8644/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Limburgpiraten
+http://listen.radionomy.com:80/limburgpiraten
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",LOMP Radio
+https://stream.lomp.nl/lomp
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Lucky Joe Radio (Nieuw-Buinen Drenthe piratenmuziek)
+https://mcp-1.streampanel.nl:7024/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Moonlight Radio (NL piraten)
+https://server-26.stream-server.nl:8604/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Muziek Express Radio
+http://server-27.stream-server.nl:8710/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",muziekteam
+http://91.213.69.167:40007/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",MyRadioHits
+http://178.19.116.3:8008/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",nachtpiraatradio
+http://217.122.52.84:8000
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Nationaal FM (Kollum Friesland -NL)
+http://srv02.vminternet.nl:9484/;stream.mp3
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Nickfm.nl
+http://caster02.streampakket.com:8272/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Nicky-FM-Stream
+http://caster04.streampakket.com:8272/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Olympia Radio
+http://streams.olympia-radio.nl:80/olympia
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",onlinepiratennl
+http://94.23.148.11:8362/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Oude Radio piraten / Klassieruitjespeaker hart van je radio
+http://46.17.5.73:8662/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Oude-Piraten-Hits
+http://server-66.stream-server.nl:8910/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Panter Radio vanuit Wezep
+http://77.174.76.245:10402/;
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Piraten-Radio-Muziek-Express-Radio
+http://46.17.5.73:8720/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Piraten-Stream-Twente
+http://178.20.171.34:8000
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Piratenhits Internet Radio
+https://piratenhits.ru:8052/live
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Piratenhits Internetradio
+http://191.101.42.252:8000
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Piratenhits Twente (NL-piraten)
+http://server-23.stream-server.nl:8454/;
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",PiratenhitsFM
+http://194.88.105.64:8908/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Piratenkanjers
+http://caster04.streampakket.com:8095/live
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Piratenkanon (Den Bosch)
+http://176.9.32.52:8028/PiratenKanon-MP3
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",PiratenKanonFM
+http://176.9.32.52:8028/PiratenKanon-AAC
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Piratenpodium- Oude-Piratenhits DJ-Sietse Rodeo Hillie
+http://radiobox2.omroep.nl/audiofragment/file/196780/fragment.mp3
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",PiratenRadio.nl
+http://piratenradio.nl:8200
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",PiratenRadionl-24-7-de-beste-PiratenHits
+http://81.169.185.241:8100
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Piratenschijf
+http://149.210.237.145:9193/piratenschijf192
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Piratensound (Lemele)
+https://server-28.stream-server.nl:18852/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",PiratenTeamOnline
+http://audiostreamen.nl:8068
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Piratenvrienden (NL)
+http://streamserv5.digipal.nl:8002
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",PrismaTeam
+http://server-09.stream-server.nl:8404
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio 1224
+http://server-27.stream-server.nl:8518/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Acacia (NL piraten)
+http://acacia.digipal.stream:8000/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Achterhoek (Gelderland)
+http://player.radioachterhoek.nl/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Allegro (NL piraten)
+http://www.stream.plutobv.com:8340/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Barbapapa
+http://185.224.89.202:8048/;
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Barracuda (wezep)
+http://77.174.76.245:10408/;
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Bellissimo
+http://server-21.stream-server.nl:8350
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Cobra
+http://176.31.224.21:8774/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Continu
+http://stream.radiocontinu.nl/radio-continu
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Cor (Maassluis)
+https://proxy.live-streams.nl/radiocor
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio De Blauwe Tegel NLs talig (Heiloo)
+http://radioheiloo.no-ip.info:8004/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio De Strandjutter (NL)
+http://strandjutterradio.gkstreamen.nl:8018/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio De Tijdbrekers
+http://178.251.26.216:8000/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Decibell
+mms://radio-decibell.ddns.net:8020/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Delta Internationaal (NL)
+http://81.169.171.250:8022/;
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Eldorado
+http://server-11.stream-server.nl:8714
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Eldorado-NL
+http://listen.radionomy.com:80/RadioEldoradoNL
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Esperando
+http://server-66.stream-server.nl:8838/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Expansie
+http://77.72.149.48:8108/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Expansie
+https://everestcast.live-streams.nl:8816/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Fantasy Rotterdam
+http://caster04.streampakket.com:8024/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Gouden Klanken (NL piraten)
+http://goudenklanken.shoutcaststream.com:8000/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Happysoundnl
+http://cristina.torontocast.com:8019/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Hermaxnl 24/7 Middengolf en Piratenhits
+http://81.169.220.30:8100
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Hitstream
+http://37.148.162.129:9406/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Hoevenseveld
+http://37.148.162.129:9434/;
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Holland Online (RHO) alternatief
+http://streamvanrho.nl:8000/;.mp3
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Holland Online (RHO)
+http://stream.r-h-o.nl
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Hunebedje
+http://server-27.stream-server.nl:8508
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Kruisland
+http://server-16.stream-server.nl:8422
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Lady Monza
+https://www.team24-hosting.nl:2020/stream/lady/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Lauwerszee
+http://176.31.224.21:8864/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Moontje
+http://213.202.241.199:8334/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Muziektoppers (Vroomshoop Overijssel)
+http://caster02.streampakket.com:8228/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio NL (Ik luister hollands)
+http://stream.radionl.fm/radionl
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Omega (NL piraten)
+http://server-28.stream-server.nl:8958
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Oranje--ik-luister-Hollands-Nederlands
+https://azuracast01.digipal.nl/radio/8000/radio.mp3?1608115517
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Palermo (NL piraten)
+http://37.148.162.129:9600/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",RADIO READYMIX
+http://server-26.stream-server.nl:8522/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Regenboog
+https://server-28.stream-server.nl:18828/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Ronalisa
+http://207.180.230.141:6017/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Schlager NL
+http://caster04.streampakket.com:8113/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Sterrenbeer
+https://server6.inetcast.nl:1575/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Tropicana
+http://server-23.stream-server.nl:8116
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Twilight
+http://81.18.165.234:8000
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Twilight
+http://shoutcast.caveo.nl:8000/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Vrije Vogel (NL piraten)
+http://stream1.icehosting.nl:8432/;
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Zuidlaardermeer (NL piraten)
+http://radiozuidlaardermeer.gkstreamen.nl:80/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio Zwarte Parel
+http://37.148.162.129:9530
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Radio-Ringostar
+http://server-66.stream-server.nl:8854/stream?1548634684822
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",RadioBlondeMan1
+http://listen.radionomy.com:80/RadioBlondeMan1
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",radiohetpiratenhutjenl
+http://server-51.stream-server.nl:8362/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",RadioPiratenVrieden
+http://37.148.162.129:9458/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",RadioRegionaal
+http://46.17.5.73:8696/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Randstad Radio Mi-Amigo Gold Hollands24Hits
+http://212.237.51.88:80/stream/2/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Reestdalteam (NL piraten)
+http://cc6.beheerstream.com:8390/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Regiohits.Com
+http://188.40.78.153:8048/live
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",RegioTeamFM
+https://server-28.stream-server.nl:18916/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",RVM Radio 100% gezellig (NL-piraten)
+http://94.23.148.11:8002
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Shadow Radio (NL-piraten)
+https://cc6.beheerstream.com/8037/live
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Starlight Webradio
+https://live.hostingbudget.nl:1905/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Station MaD
+http://178.20.171.30:8060/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Sterpiraten (NL piraten)
+http://213.202.241.199:9222/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Studiodrentsepoort.nl
+http://studiodrentsepoort.gkstreamen.nl:80/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Studionathalstream.nl (Hoogeveen)
+http://176.9.32.52:8070/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Sunsetradio
+http://server-67.stream-server.nl:8834/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Team FM Atlantis 24/7 piratenmuziek
+https://stream4.audiostreamen.nl/teamfmatlantis
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Team FM Piratenplaten
+https://mediacp.audiostreamen.nl/piratenplaten
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",teamstillewilly
+http://213.202.241.199:8308/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Toppersteam
+http://stream.toppersteam.nl:8016/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Tukker FM (Oldenzaal Twente Overijssel)
+https://stream.tukkerfm.nl/tukkerfm
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",twentse Boys
+http://twentseboys.gkstreamen.nl:8058/
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Varia FM
+http://streamunit.nl:9031
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Varia FM
+http://streamunit.nl:9031/varia192
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Vechtdal NL
+https://streams.rtvvechtdal.nl/VechtdalNL.mp3
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Vrolijke Piraat Radio (Moerdijk)
+http://stream1.sephimar.nl:8060/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",WKD Team
+http://server-51.stream-server.nl:8370/stream
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Woonwagenradio
+https://mscp3.live-streams.nl:8132/nonstop
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Zender Dwerghut
+http://77.168.22.74:12002/stream2
+#EXTINF:-1 group-title="Stream NL Piratenmuziek",Zolderpiraten
+http://server-24.stream-server.nl:8410/stream
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",++Stream NL Luchtvaart/Radio amateurs/SAR Marine++
+https://pvdl.keybase.pub/m3u8/intros/streamnlluchtvaartradioamateurssarmarine_radio.mp4
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",+++Luchtvaart+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlluchtvaartradioamateurssarmarine_radio.mp4
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Civiele luchtvaart communicatie
+http://217.120.157.228:4006
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Groningen Eelde Airport (EHGG)
+http://audio2.broadcastify.com/nx861pgzhy5k9dq.mp3
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Maastricht Upper Area Control Centre (MUAC). EUROCONTROL
+http://audio7.broadcastify.com/239578614.mp3?nocache=6037947
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Militaire luchtvaart communicatie
+http://217.120.157.228:4004
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Schiphol EHAA Radar East Inbound
+http://d.liveatc.net/eham03_rdr_e_inb
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Schiphol Tower EHAM Arrival (Primary)
+http://d.liveatc.net/eham01_arr_p
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Schiphol Tower EHAM Main 18L/36R 22/04 (TWR1)
+http://d.liveatc.net/eham01_twr_main1 
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Schiphol Tower EHAM Main 06/24
+http://d.liveatc.net/eham01_twr_main3
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",+++Radio amateurs+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlluchtvaartradioamateurssarmarine_radio.mp4
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Clubstation VRZA elke zat 10-12.00 uur live
+http://stream.pi4vrz.nl:9000/webstream.mp3
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Delfzijl Repeater Group
+http://audio4.broadcastify.com/961299842.mp3?nocache=616931
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Landelijke Repeater PI2NOS
+http://icecast.pe1rjv.nl:8000/pi2nos
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Lokale communicatie Harlingen
+http://217.120.157.228:4008
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",PI1NOG 438.1500 MHz Repeater Groningen on 438.150
+http://audio4.broadcastify.com/5xmdpzjs9k64.mp3?nocache=196256
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",PI2AMF 430.250 MHz Amersfoort Repeater
+http://audio7.broadcastify.com/800379335.mp3?nocache=8404280
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",PI4VR
+http://stream.pi4vrz.nl:9000/webstream.mp3
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Repeater Utrecht PI3UTR
+http://icecast.pe1rjv.nl:8000/pi3utr
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",+++Search And Rescue / Marine+++
+https://pvdl.keybase.pub/m3u8/intros/streamnlluchtvaartradioamateurssarmarine_radio.mp4
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Eems Dollard Marine
+http://audio2.broadcastify.com/bxky5zn19jgmhw2.mp3
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Harlingen maritieme communicatie
+http://audio5.broadcastify.com/114091180.mp3?nocache=1365093
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Harlingen maritieme communicatie
+http://217.120.157.228:4002
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",IJmuiden Marine VHF 0 -7 -12-16 -61 -67
+http://audio2.broadcastify.com/2h1r73cq0bt8.mp3?nocache=6455153
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",IJsselmeer Marine marifoon
+http://audio2.broadcastify.com/h3jxwr1tgyksp6f.mp3
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Lifeboat Seeker SAR channel 16-6
+http://audio5.broadcastify.com/112136368.mp3?nocache=1205451
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Markermeer SAR Liveboats  VHF 16 en 67
+http://audio2.broadcastify.com/712459903.mp3?nocache=1002462
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Scheveningen SAR
+http://audio2.broadcastify.com/655366400.mp3?nocache=3834666
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Terheijde Marine
+http://audio5.broadcastify.com/763219817.mp3?nocache=7932083
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Terschelling Brandaris Marifoonscanners online
+http://terschellingscanner.nl:8080/;
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Terschelling Marifoonscanners Skylgenet-nl
+https://scanner.skylgenet.nl/tbandsma.mp3
+#EXTINF:-1 group-title="Stream NL Luchtvaart/Radio amateurs/SAR Marine",Zuidlaardermeer Marine
+http://audio4.broadcastify.com/218567426.mp3?nocache=9090253
