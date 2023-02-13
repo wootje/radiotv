@@ -1,0 +1,15 @@
+# .github/workflows/scheduled-builds.yml
+name: Trigger Site Rebuild on a CRON Schedule
+
+on:
+  schedule:
+    # Runs "at minute 55 past every hour" (see https://crontab.guru)
+    - cron: '30 */8 * * *' 
+jobs:
+  build:
+    name: Trigger Site Rebuild
+    runs-on: ubuntu-latest
+    steps:
+      - name: cURL request
+        # Hit the webhook endpoint to rebuild  from the "main" branch
+        run: wget http://www.universalepg.com/tvgids/xml/tvgids.xml -O /xmltv/tvgids.xml >/dev/null 2>&1
