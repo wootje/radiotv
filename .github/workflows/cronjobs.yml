@@ -10,6 +10,6 @@ jobs:
     name: Cronjobs
     runs-on: ubuntu-latest
     steps:
-      - name: cURL request
+      - name: wget request
         # Hit the webhook endpoint to rebuild  from the "main" branch
         run: wget https://dlinders.nl/xmltv/tvgids.xml -O /xmltv/tvgids.xml >/dev/null 2>&1
