@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 channel-id="" group-title="Stream NL nationaal (NL)" radio="false",++Stream NL nationaal (NL)++
-https://pvdl.keybase.pub/m3u8/intros/streamnlnationaalnl_tv.mp4
-#EXTINF:-1 channel-id="" group-title="Stream NL nationaal (NL)" radio="false",++NPO werkt niet in iedere ontvanger!++
-https://pvdl.keybase.pub/m3u8/intros/streamnlnationaalnl_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream NL nationaal (NL)" radio="false",NPO 1
 http://82.197.214.59:4000/play/a02z/index.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL nationaal (NL)" radio="false",NPO 1 -2-
@@ -91,8 +87,6 @@ https://5e6ab219de8f5.streamlock.net/rtvnof/rtvnof/playlist.m3u8
 http://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",RTV NOF webcam radio (Noordoost-Friesland)
 https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",+++Groningen+++
-https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",RTV Noord
 http://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",RTV Noord Live extra
@@ -117,8 +111,6 @@ https://wowza2.videostreamingwowza.com/Groningen1/Groningen1/playlist.m3u8
 http://85.214.20.79:8080/hls/live.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",RTV Zulthe Marum (Westerkwartier)
 http://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",+++Drenthe+++
-https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",RTV Drenthe HD
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",RTV Drenthe HD alternatief
@@ -147,8 +139,6 @@ https://wowza2.videostreamingwowza.com/eeldevrieszuidlaren/eeldevrieszuidlaren/c
 https://wowza2.videostreamingwowza.com/eeldevrieszuidlaren/eeldevrieszuidlaren/playlist.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",ZO!34 (Coevorden/Emmen)
 https://video.uitzending.tv:19360/zo34/zo34.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",+++Overijssel+++
-https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",RTV Oost HD
 https://mediacdn.rtvoost.nl/live/rtvoost/tv/index.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",1 Twente
@@ -185,8 +175,6 @@ https://ms7.mx-cd.net/dtv-02/284-3006078/Twente_HD_TV.smil/playlist.m3u8
 http://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",Vechtdal Leeft (Dalfsen/Ommen)
 http://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/chunklist_w574429490_b1894400_slNLD.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",+++Gelderland+++
-https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",Omroep Gelderland HD
 http://web.omroepgelderland.nl/live/livetv.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",Omroep Gelderland HD alternatief
@@ -243,8 +231,6 @@ https://stream.studiorhedenlive.nl/hlstv/stream.m3u8
 http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",XON (Ede)
 http://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",+++Utrecht+++
-https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",RTV Utrecht HD
 http://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",RTV Utrecht HD (epg Ziggo)
@@ -271,8 +257,6 @@ https://d3eq9mufmyqgh4.cloudfront.net/nlpo/clr-nlpo/slotstadtv/index.m3u8
 http://olon.ctl.cdn.ebsd.ericsson.net/L8B/cb8e9159/80b26bd1.isml/master.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",UStad HD (stad Utrecht)
 http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",+++Flevoland+++
-https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",Omroep Flevoland HD
 https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/2000/prog_index.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",Omroep Flevoland HD (epg Ziggo)
@@ -289,8 +273,6 @@ https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8
 https://olon.ctl.cdn.ebsd.ericsson.net/L8B/9a708947/16898d06.isml/master.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",RTV527 (Emmeloord)
 https://wowza3.videostreamingwowza.com/broadcastmediasolutions/broadcastmediasolutions/playlist.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",+++Noord-Holland+++
-https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",NH Nieuws
 https://takeoff.jetstre.am/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",NH (RTV Noord-Holland) radio visual
@@ -347,8 +329,6 @@ https://live.salto.nl/hls/malive_high.m3u8
 https://takeoff.jetstre.am/?account=weeff&file=weeffradio&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",ZFM webcam (Zandvoort)
 https://icecast.bytesheep.net/zfmzandvoort_cam.webm
-#EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",+++Zuid-Holland+++
-https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",Omroep West HD
 http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",Omroep West HD (epg Ziggo)
@@ -413,8 +393,6 @@ http://olon.ctl.cdn.ebsd.ericsson.net/L8B/5080c284/f0bd7608.isml/master.m3u8
 https://ms2.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",ZFM Zoetermeer (Zuid-Holland)
 https://zfmzoetermeer.nl/live/master.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",+++Zeeland+++
-https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",Omroep Zeeland HD
 http://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",Omroep Zeeland HD (epg Ziggo)
@@ -423,8 +401,6 @@ http://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
 https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",Omroep Hulst
 https://ms2.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",+++Noord-Brabant+++
-https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",Omroep Brabant HD (epg Astra)
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",Omroep Brabant radio webcam
@@ -525,8 +501,6 @@ https://tv.rtvhorizon.nl/hls/horizon/index.m3u8
 https://server-23.stream-server.nl:1936/WinkRadio/WinkRadio/playlist.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",Zuidwest TV (Bergen op Zoom. Roosendaal en Woensdrecht)
 https://live.zuidwesttv.nl/live/zwtv_ultra/index.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",+++Limburg+++
-https://pvdl.keybase.pub/m3u8/intros/streamnlregionaallokaal_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",L1TV HD
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream NL regionaal & lokaal" radio="false",Bie OS
@@ -605,14 +579,8 @@ https://livestreaming.b67.tweedekamer.nl/live/troelstrazaal/567/prog_index.m3u8
 https://livestream.tweedekamer.nl/live/vondelingkamer/audio/prog_index.m3u8 
 #EXTINF:-1 channel-id="" group-title="Stream NL nationaal politiek" radio="false",Wttewaall van Stoetwegenzaal
 https://livestream.tweedekamer.nl/live/wttewaall_van_stoetwegenzaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
-#EXTINF:-1 channel-id="" group-title="Stream NL nationaal politiek" radio="false",+++Eerste Kamer (bij vergadering)+++
-https://pvdl.keybase.pub/m3u8/intros/streamnlnationaalpolitiek_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream NL nationaal politiek" radio="false",Eerste Kamer
 https://cv-eerstekamer1.azureedge.net/livehttporigin/ngrp:eerstekamer.stream_all/playlist.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream België (BE)" radio="false",++Stream België (BE)++
-https://pvdl.keybase.pub/m3u8/intros/streambelgibe_tv.mp4
-#EXTINF:-1 channel-id="" group-title="Stream België (BE)" radio="false",+++Vlaanderen landelijk+++
-https://pvdl.keybase.pub/m3u8/intros/streambelgibe_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream België (BE)" radio="false",VRT één
 http://iptvtree.net:8080/yasirali806/XWj1W9Q3vTTrpW9P/843
 #EXTINF:-1 channel-id="" group-title="Stream België (BE)" radio="false",VRT Canvas
@@ -637,8 +605,6 @@ https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 https://dpp-live-events.medialaancdn.be/events/hls/aes/vtmnieuws.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream België (BE)" radio="false",Federaal parlement BE (tijdens vergaderingen)
 http://livestream.parolis.be:1935/live/PLN_NL/chunklist_w27225067.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream België (BE)" radio="false",+++Vlaanderen regionaal+++
-https://pvdl.keybase.pub/m3u8/intros/streambelgibe_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream België (BE)" radio="false",ATV (Antwerpen)
 https://live.zendzend.com/streams/29375_107244/1080n/index.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream België (BE)" radio="false",ROB TV (Regionale Omroep Brabant België)
@@ -663,10 +629,6 @@ https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6
 http://highvolume102.streampartner.nl/citytv/citytv/playlist.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream België (BE)" radio="false",Radio PROS (webcam) Heldergem-België
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream België (BE)" radio="false",+++Bruxelles/Wallonie+++
-https://pvdl.keybase.pub/m3u8/intros/streambelgibe_tv.mp4
-#EXTINF:-1 channel-id="" group-title="Stream België (BE)" radio="false",++hoofdzenders++
-https://pvdl.keybase.pub/m3u8/intros/streambelgibe_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream België (BE)" radio="false",RTBF La 1
 http://iptvtree.net:8080/yasirali806/XWj1W9Q3vTTrpW9P/248
 #EXTINF:-1 channel-id="" group-title="Stream België (BE)" radio="false",RTBF 2 Tipik
@@ -677,8 +639,6 @@ http://iptvtree.net:8080/yasirali806/XWj1W9Q3vTTrpW9P/251
 http://iptvtree.net:8080/yasirali806/XWj1W9Q3vTTrpW9P/253
 #EXTINF:-1 channel-id="" group-title="Stream België (BE)" radio="false",Plug RTL
 http://iptvtree.net:8080/yasirali806/XWj1W9Q3vTTrpW9P/252
-#EXTINF:-1 channel-id="" group-title="Stream België (BE)" radio="false",++overige++
-https://pvdl.keybase.pub/m3u8/intros/streambelgibe_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream België (BE)" radio="false",BEL RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master20220524-HLS_1800.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream België (BE)" radio="false",BX1
@@ -1509,16 +1469,12 @@ http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
 https://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/mono.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream Cultuur" radio="false",World Fashion Russia
 https://wfc.bonus-tv.ru/cdn/wfcrus/tracks-v2a1/mono.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream Cultuur" radio="false",+++Russisch Ukrainisch+++
-https://pvdl.keybase.pub/m3u8/intros/streamcultuur_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream Cultuur" radio="false",Kultura
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream Cultuur" radio="false",MIX TV
 rtmp://tv-mix.ru/live/Stream1
 #EXTINF:-1 channel-id="" group-title="Stream Cultuur" radio="false",Travel Channel
 http://188.35.9.12:21031/udp/038m
-#EXTINF:-1 channel-id="" group-title="Stream Cultuur" radio="false",+++humor+++
-https://pvdl.keybase.pub/m3u8/intros/streamcultuur_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream Cultuur" radio="false",Laurel & Hardy
 http://dai.google.com/linear/hls/event/uDdlFsS2S1CqcUkd7KGu4Q/master.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream Documentaires" radio="false",++Stream Documentaires++
@@ -1615,12 +1571,8 @@ https://hls.rt.com/hls/rtdru.m3u8
 https://pvdl.keybase.pub/m3u8/intros/streamdocumentaires_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream Documentaires" radio="false",InsightTV (Spain)
 https://insighttv-spa-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream Documentaires" radio="false",+++Tjechie+++
-https://pvdl.keybase.pub/m3u8/intros/streamdocumentaires_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream Documentaires" radio="false",Elektrika TV
 rtmp://rtmp.elektrika.cz/live/myStream.sdp
-#EXTINF:-1 channel-id="" group-title="Stream Documentaires" radio="false",+++kunst+++
-https://pvdl.keybase.pub/m3u8/intros/streamdocumentaires_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream Documentaires" radio="false",DS: Lam Gods van gebr. Van Eyck
 https://media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=hABgrOXajdmg/hABgrOXajdmg-20200214110413_5-audio=128000-video=3600000.m3u8?v=20200214110413_5
 #EXTINF:-1 channel-id="" group-title="Stream Documentaires" radio="false",DS: Nasa laat ons meekijken door de ogen van Apollo 13-astronaut
@@ -1643,8 +1595,6 @@ https://d3n45htqf0nnxz.cloudfront.net/hls/scott.curry/scott.curry.m3u8
 https://d3n45htqf0nnxz.cloudfront.net/hls/scott.roberts/scott.roberts.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream Documentaires" radio="false",Whitney Owens (documentaires. storm chasers)
 https://d3n45htqf0nnxz.cloudfront.net/hls/whitney.owens/whitney.owens.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream Documentaires" radio="false",+++techniek+++
-https://pvdl.keybase.pub/m3u8/intros/streamdocumentaires_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream Documentaires" radio="false",00000000 rechtbank online
 https://www.rovid.nl/rech/rvdr/2020/rech-rvdr-20200604-id39etunn-bron.mp4 
 #EXTINF:-1 channel-id="" group-title="Stream Documentaires" radio="false",Cloudflare TV
@@ -1653,10 +1603,6 @@ https://cloudflare.tv/hls/live.m3u8
 http://www.nanoxx.nl/uploads/video/TRAVELVISION-R7-product-info.mp4
 #EXTINF:-1 channel-id="" group-title="Stream Documentaires" radio="false",Wat is DAB?
 http://www.nanoxx.nl/uploads/video/WatIsDab.mp4
-#EXTINF:-1 channel-id="" group-title="Stream Feeds" radio="false",++Stream Feeds++
-https://pvdl.keybase.pub/m3u8/intros/streamfeeds_tv.mp4
-#EXTINF:-1 channel-id="" group-title="Stream Feeds" radio="false",++Nederland feeds++
-https://pvdl.keybase.pub/m3u8/intros/streamfeeds_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream Feeds" radio="false",SBS 6 Event Channel 1
 https://ec2.prd1.talpatvcdn.nl/c8fb5a45d7bd4b41b73b2fe59a334ace/index_1.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream Feeds" radio="false",SBS 6 Event Channel 2
@@ -1927,8 +1873,6 @@ https://pvdl.keybase.pub/m3u8/intros/streamjeugd_tv.mp4
 https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream Jeugd" radio="false",VRT Ketnet jr HD (België)
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream Jeugd" radio="false",+++Argentinie+++
-https://pvdl.keybase.pub/m3u8/intros/streamjeugd_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream Jeugd" radio="false",TV Maná Argentin
 rtmp://streamspub.manasat.com/tvar/tvmanaar1
 #EXTINF:-1 channel-id="" group-title="Stream Jeugd" radio="false",++Duitsland++
@@ -2631,8 +2575,6 @@ http://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sl
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1000_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 channel-id="" group-title="Stream Muziek" radio="false",TV41 (Turkey)
 rtmp://stream.taksimbilisim.com/tv41/bant1
-#EXTINF:-1 channel-id="" group-title="Stream Muziek" radio="false",+++USA+++
-https://pvdl.keybase.pub/m3u8/intros/streammuziek_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream Muziek" radio="false",California Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream Muziek" radio="false",CMC California (720p)
@@ -2655,8 +2597,6 @@ http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
 https://pvdl.keybase.pub/m3u8/intros/streammuziek_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream Muziek" radio="false",Trace Gospel South Africa
 http://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/6/prog_index.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream Muziek" radio="false",+++Zwitserland+++
-https://pvdl.keybase.pub/m3u8/intros/streammuziek_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream Muziek" radio="false",Beatz TV (muziek Zwitserland)
 https://beats_1.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream Muziek" radio="false",Radio Pilatus webcam (Zwitserland)
@@ -5619,8 +5559,6 @@ http://58.96.43.228:9981/stream/channelid/271947940?ticket=201BC9ACC241E2BDFC078
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream Australië (AU)" radio="false",TVSN
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream Australië (AU)" radio="false",+++radio+++
-https://pvdl.keybase.pub/m3u8/intros/streamaustraliau_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream Australië (AU)" radio="false",ABC Brisbane
 http://58.96.43.228:9981/stream/channelid/1618888332?ticket=B65C2161BF3A52F3921B922A345EFEF3C41CB064&profile=pass
 #EXTINF:-1 channel-id="" group-title="Stream Australië (AU)" radio="false",ABC Classic
@@ -9803,10 +9741,6 @@ https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream India (IN)" radio="false",Zing
 https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream Indonesië (ID)" radio="false",++Stream Indonesië (ID)++
-https://pvdl.keybase.pub/m3u8/intros/streamindonesiid_tv.mp4
-#EXTINF:-1 channel-id="" group-title="Stream Indonesië (ID)" radio="false",+++Indonesië TVRI-Nationaal+++
-https://pvdl.keybase.pub/m3u8/intros/streamindonesiid_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream Indonesië (ID)" radio="false",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream Indonesië (ID)" radio="false",TVRI Kanal 3
@@ -9839,8 +9773,6 @@ http://103.18.181.69:1935/golive/livestream11/playlist.m3u8
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream Indonesië (ID)" radio="false",TVRI Sport
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 channel-id="" group-title="Stream Indonesië (ID)" radio="false",+++Indonesië regionaal+++
-https://pvdl.keybase.pub/m3u8/intros/streamindonesiid_tv.mp4
 #EXTINF:-1 channel-id="" group-title="Stream Indonesië (ID)" radio="false",TVRI Papua
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
 #EXTINF:-1 channel-id="" group-title="Stream Indonesië (ID)" radio="false",++Bali Nusa Tenggara++
