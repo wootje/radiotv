@@ -1,4 +1,4 @@
-<h1>Radio & tv playlist files</h1>
+<h1>Radio playlists, tv playlists & icons</h1>
 <br>
 I edited the files so they are compatible with the "Simple IPTV" PVR plugin for Kodi.
 <br>
@@ -16,3 +16,6 @@ Kodi playlist files:
 Setup Kodi:
 <br>
 <a href="https://www.firesticktricks.com/pvr-iptv-simple-client-on-kodi.html">https://www.firesticktricks.com/pvr-iptv-simple-client-on-kodi.html</br>
+<br>
+<br>
+Check the <a href="/tv">tv directory</a> for icons & logos.
