@@ -542,7 +542,7 @@ https://ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Stream NL regionaal & lokaal",ML5 webcam radio (Limburg)
 http://ms7.mx-cd.net/tv/ML5-2_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Horst aan de Maas
-https://ms2.mx-cd.net/dtv-10/157-1217118/Omroep_Horst_aan_de_Maas_TV.smil/playlist.m3u8
+https://ms7.mx-cd.net/dtv-12/157-1217118/Omroep_Horst_aan_de_Maas_TV.smil/chunklist_w576989885_b3328000_slNLD.m3u8
 #EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep P&M (Panningen)
 https://ms7.mx-cd.net/dtv-10/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Stream NL regionaal & lokaal",Omroep Venlo
