@@ -15,7 +15,14 @@ Kodi playlist files:
 <br>
 Setup Kodi:
 <br>
-<a href="https://www.firesticktricks.com/pvr-iptv-simple-client-on-kodi.html">https://www.firesticktricks.com/pvr-iptv-simple-client-on-kodi.html</br>
+<a href="https://www.firesticktricks.com/pvr-iptv-simple-client-on-kodi.html">https://www.firesticktricks.com/pvr-iptv-simple-client-on-kodi.html
 <br>
 <br>
-Check the <a href="/tv">tv directory</a> for icons & logos.
+Check the <a href="/tv">tv directory</a> for icons & logos.</br>
+<br>Sparkle IPTV config file (paid version):
+<br>
+<a href="https://github.com/wootje/radiotv/raw/main/Android%20Sparkle%20IPTV/sparkletv_configuration_public_2024-04-29_16_42.bak">https://github.com/wootje/radiotv/raw/main/Android%20Sparkle%20IPTV/sparkletv_configuration_public_2024-04-29_16_42.bak</br></a>
+<br>Sparkle IPTV:
+<br><a href="https://play.google.com/store/apps/details?id=se.hedekonsult.sparkle">https://play.google.com/store/apps/details?id=se.hedekonsult.sparkle</a>
+<br>
+<br>Feel free to add more TV channel sources.
