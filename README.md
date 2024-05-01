@@ -21,7 +21,7 @@ Setup Kodi:
 <br><a href="/tv">tv directory</a>
 <br>
 <br>Sparkle IPTV config file (paid version):
-<br><a href="https://github.com/wootje/radiotv/raw/main/SparkleIPTV/2024-04-30_21_24_public_sparkletv_configuration.bak">https://github.com/wootje/radiotv/raw/main/SparkleIPTV/2024-04-30_21_24_public_sparkletv_configuration.bak</a>
+<br><a href="https://github.com/wootje/radiotv/raw/main/SparkleIPTV/sparkletv.bak">https://github.com/wootje/radiotv/raw/main/SparkleIPTV/sparkletv.bak</a>
 <br>
 <br>Sparkle IPTV:
 <br><a href="https://play.google.com/store/apps/details?id=se.hedekonsult.sparkle">https://play.google.com/store/apps/details?id=se.hedekonsult.sparkle</a>
