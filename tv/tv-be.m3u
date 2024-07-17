@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/netherlands.xml,https://baznga.nl/xmltv.php?country=nl"
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/netherlands.xml,https://baznga.nl/xmltv.php?country=nl,https://baznga.nl/xmltv.php?country=be"
 #EXTINF:-1 tvg-id="NPO1.nl" group-title="NL | nationaal" tvg-logo="https://raw.githubusercontent.com/wootje/radiotv/main/tv/logo/npo1.png",NPO 1
 http://line.team-tv.link:80/kV3mkGGkNz/EykM2Cnjwm/2995
 #EXTINF:-1 tvg-id="NPO1.n2" group-title="NL | nationaal" tvg-logo="https://raw.githubusercontent.com/wootje/radiotv/main/tv/logo/npo2.png",NPO 2
