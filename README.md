@@ -27,3 +27,9 @@ Setup Kodi:
 <br><a href="https://play.google.com/store/apps/details?id=se.hedekonsult.sparkle">https://play.google.com/store/apps/details?id=se.hedekonsult.sparkle</a>
 <br>
 <br>Feel free to add more TV channel sources.
+<br>
+<br>
+<b>Buy me a cup of coffee!</b> 🙂👍 <br>
+https://urlshrt.eu/buycupofcoffee
+<br>
+<br>
